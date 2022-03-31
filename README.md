@@ -1,6 +1,7 @@
 
 
-
+[![](
+https://github.com/martageraldo/awesome-badges/blob/main/markdown.png)]()
 
 
 
@@ -1837,7 +1838,7 @@ Para usar um badge:
 
 
 
-## Controle de VersÃ£o
+## Controle de Versão
 
 
 
@@ -2010,7 +2011,7 @@ Para usar um badge:
 |                                                              | https://badgen.net/badge/icon/git?icon=git&label             |
 | [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]() | https://github-profile-trophy.vercel.app/?username={username} |
 
-### EstatÃ­sticas
+### Estatísticas
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
