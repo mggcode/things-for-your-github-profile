@@ -25,7 +25,7 @@ Para usar um badge:
 
 - Via Github
   1. Tecle `Ctrl` + `f` no seu teclado, para abrir o modal de busca.
-  2. Digite  o nome do badge que vocÃª busca.
+  2. Digite  o nome do badge que você busca.
   3. Copie e cole no seu arquivo README.md
 
 
@@ -1274,18 +1274,18 @@ Para usar um badge:
 
 |                 |                                                              |      |
 | --------------- | ------------------------------------------------------------ | ---- |
-| Cypress         | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) |      |
-|                 | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e) |      |
-| Jasmine         | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) |      |
-|                 | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white) |      |
-| Jest            | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |      |
-|                 | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white) |      |
-| Mocha           | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) |      |
-|                 | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white) |      |
-| Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |      |
-|                 | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white) |      |
-| Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) |      |
-|                 | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) |      |
+| Cypress         | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) |https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e      |
+|                 | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e) |https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e      |
+| Jasmine         | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) |Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white      |
+|                 | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white) |https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white      |
+| Jest            | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white      |
+|                 | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white) |https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white      |
+| Mocha           | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) |https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white      |
+|                 | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white) |https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white      |
+| Selenium        | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white      |
+|                 | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white) |https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white      |
+| Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) |https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white      |
+|                 | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) |https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white      |
 
 
 
