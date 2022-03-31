@@ -26,7 +26,7 @@ Para usar um badge:
   1. Tecle `Ctrl` + `f` no seu teclado, para abrir o modal de busca.
   2. Digite  o nome do badge que vocÃª busca.
   3. Copie e cole no seu arquivo README.md
-- VocÃª tambÃ©m pode visitar o site  [martageraldo.github.io/badges/](https://martageraldo.github.io/badges/)
+
 
 
 
@@ -299,7 +299,7 @@ Para usar um badge:
 
 
 
-# Pagamentos e Recebimentos
+## Pagamentos e Recebimentos
 
 
 
@@ -386,7 +386,7 @@ Para usar um badge:
 
 
 
-# Jogos
+## Jogos
 
 
 
@@ -638,7 +638,7 @@ Para usar um badge:
 
 
 
-# EducaÃ§Ã£o
+## Educação
 
 
 
@@ -699,7 +699,7 @@ Para usar um badge:
 
 
 
-#  ETL
+##  ETL
 
 
 
@@ -782,7 +782,7 @@ Para usar um badge:
 
 
 
-# Comida
+## Comida
 
 
 
@@ -1266,8 +1266,8 @@ Para usar um badge:
 | [![Badge](https://img.shields.io/badge/Sencha-044059?style=social-square&logo=sencha&logoColor=#95C93D)]() | https://img.shields.io/badge/Sencha-044059?style=social-square&logo=sencha&logoColor=#95C93D |
 | [![Badge](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)]() | https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white |
 | [![Badge](https://img.shields.io/badge/Xamarin-3498DB?style=social-square&logo=xamarin&logoColor=white)]() | https://img.shields.io/badge/Xamarin-3498DB?style=social-square&logo=xamarin&logoColor=white |
-| ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) |                                                              |
-| ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white) |                                                              |
+| ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white                                                              |
+| ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white) | https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white                                                             |
 
 ## Testes
 
@@ -1343,7 +1343,7 @@ Para usar um badge:
 
 
 
-# Design
+## Design
 
 
 
@@ -1495,7 +1495,7 @@ Para usar um badge:
 
 
 
-# Twitter
+## Twitter
 
 
 
@@ -1507,7 +1507,7 @@ Para usar um badge:
 
 
 
-# Made with
+## Made with
 
 
 
@@ -1563,7 +1563,7 @@ Para usar um badge:
 
 
 
-# LicenÃ§as
+## Licenças
 
 
 
@@ -1813,7 +1813,7 @@ Para usar um badge:
 
 
 
-### Plataforma de Trabalho
+## Plataforma de Trabalho
 
 
 
@@ -1937,7 +1937,7 @@ Para usar um badge:
 
 
 
-### EspaÃ§o de Trabalho
+### Espaço de Trabalho
 
 
 
@@ -2001,7 +2001,7 @@ Para usar um badge:
 
 
 
-### TrofÃ©u
+## Troféu
 
 
 
@@ -2018,21 +2018,21 @@ Para usar um badge:
 
 
 
-### Linguagens mais usadas
+## Linguagens mais usadas
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) | https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) | https://github-readme-stats.vercel.app/api/top-langs/?username={username} |
 
-### Status
+## Status
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green) | https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green |
 | ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) | https://github-readme-stats.vercel.app/api?username={username} |
 
-### Resumo Status
+## Resumo Status
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -2040,7 +2040,7 @@ Para usar um badge:
 
 
 
-### GrÃ¡ficos
+### Gráficos
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -2126,7 +2126,7 @@ Para usar um badge:
 | <img src="https://aleen42.github.io/badges/src/land_rover.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/land_rover.svg    |
 | <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/mercedes_benz.svg |
 | <img src="https://aleen42.github.io/badges/src/audi.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/audi.svg          |
-| CrÃ©ditos:                                                    | https://github.com/Envoy-VC/                           |
+| Créditos:                                                    | https://github.com/Envoy-VC/                           |
 
 
 
