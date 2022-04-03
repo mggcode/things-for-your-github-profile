@@ -34,7 +34,7 @@ Para usar um badge:
 |Hotjar  | [![Hotjar Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white |
 |Hotjar| [![Card Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white |
 |Kibana | [![Kibana Badge](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white |
-|  | [![Card Badge](https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white |
+|Kibana  | [![Card Badge](https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white |
 |Kibana | [![Kibana Badge](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white |
 |Matomo  |[![Card Badge](https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white |
 |Matomo  |[![Kibana Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() | https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white |
@@ -58,20 +58,20 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Card Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)]() | https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/dialogflow-FF9800?style=ocial-square&logo=dialogflow&logoColor=white)]() | https://img.shields.io/badge/dialogflow-FF9800?style=ocial-square&logo=dialogflow&logoColor=white |
-| [![Hotjar Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]() | https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=social-square&logo=tensorflow&logoColor=white)]() | https://img.shields.io/badge/TensorFlow-FF6F00?style=social-square&logo=tensorflow&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)]() | https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=social-square&logo=WeightsAndBiases&logoColor=white)]() | https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=social-square&logo=WeightsAndBiases&logoColor=white |
-| ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) | https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white |
-| ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=social-square&logo=amazon%20alexa&logoColor=white) | https://img.shields.io/badge/amazon%20alexa-52b5f7?style=social-square&logo=amazon%20alexa&logoColor=white |
-| ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white |
-| ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=social-square&logo=google%20assistant&logoColor=white) | https://img.shields.io/badge/google%20assistant-4285F4?style=social-square&logo=google%20assistant&logoColor=white |
-| ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white |
-| ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) | https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white |
+|NAME| BADGE                                                        | URL                                                          |
+|------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Shields| [![Card Badge](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)]() | https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white |
+|Shields |[![Card Badge](https://img.shields.io/badge/dialogflow-FF9800?style=ocial-square&logo=dialogflow&logoColor=white)]() | https://img.shields.io/badge/dialogflow-FF9800?style=ocial-square&logo=dialogflow&logoColor=white |
+| Hotjar| [![Hotjar Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]() | https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white |
+| TensorFlow| [![Card Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=social-square&logo=tensorflow&logoColor=white)]() | https://img.shields.io/badge/TensorFlow-FF6F00?style=social-square&logo=tensorflow&logoColor=white |
+|Weights_&_Biases | [![card Badge](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)]() | https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white |
+|Weights_&_Biases | [![Card Badge](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=social-square&logo=WeightsAndBiases&logoColor=white)]() | https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=social-square&logo=WeightsAndBiases&logoColor=white |
+|Amazon Alexa | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) | https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white |
+|Amazon Alexa | ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=social-square&logo=amazon%20alexa&logoColor=white) | https://img.shields.io/badge/amazon%20alexa-52b5f7?style=social-square&logo=amazon%20alexa&logoColor=white |
+|Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white |
+|Google Assistant | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=social-square&logo=google%20assistant&logoColor=white) | https://img.shields.io/badge/google%20assistant-4285F4?style=social-square&logo=google%20assistant&logoColor=white |
+|Dependa Bots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white |
+|Dependabots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) | https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white |
 
 
 
