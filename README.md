@@ -5,14 +5,6 @@ https://github.com/martageraldo/awesome-badges/blob/main/markdown.png)]()
 
 
 
-
-
-
-
-
-
-
-
 # MARKDOWN BADGES
 
  #### Adicione Badges em seu perfil ou projetos
@@ -27,8 +19,6 @@ Para usar um badge:
   1. Tecle `Ctrl` + `f` no seu teclado, para abrir o modal de busca.
   2. Digite  o nome do badge que você busca.
   3. Copie e cole no seu arquivo README.md
-
-
 
 
 
@@ -267,7 +257,7 @@ Para usar um badge:
 
 
 
-# Grupos
+## Grupos
 
 
 
@@ -391,68 +381,65 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) | https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white |
-| ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=social-square&logo=Analogue&logoColor=white) | https://img.shields.io/badge/Analogue-1A1A1A?style=social-square&logo=Analogue&logoColor=white |
-| [![L Badge](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]() | https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF |
-| [![L Badge](https://img.shields.io/badge/Battle.net-000?style=social-square&logo=battle.net&logoColor=148EFF)]() | https://img.shields.io/badge/Battle.net-000?style=social-square&logo=battle.net&logoColor=148EFF |
-| ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) | https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white |
-| ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=social-square&logo=battle.net&logoColor=white) | https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=social-square&logo=battle.net&logoColor=white |
-| ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) | https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white |
-| ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=social-square&logo=ea&logoColor=white) | https://img.shields.io/badge/ea-%23000000.svg?style=social-square&logo=ea&logoColor=white |
-| ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) | https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine |
-| ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=social-square&logo=godot-engine) | https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=social-square&logo=godot-engine |
-| [![Card Badge](https://img.shields.io/badge/Google_Play-22272E?style=for-the-badge&logo=google-play&logoColor=F53348)]() | https://img.shields.io/badge/Google_Play-22272E?style=for-the-badge&logo=google-play&logoColor=F53348 |
-| [![Card Badge](https://img.shields.io/badge/Google_Play-22272E?style=social-square&logo=google-play&logoColor=F53348)]() | https://img.shields.io/badge/Google_Play-22272E?style=social-square&logo=google-play&logoColor=F53348 |
-| [![Card Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]() | https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Counter_Strike-000000?style=social-square&logo=counter-strike&logoColor=white)]() | https://img.shields.io/badge/Counter_Strike-000000?style=social-square&logo=counter-strike&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]() | https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white |
-|                                                              |                                                              |
-|                                                              |                                                              |
-| [![Card Badge](https://img.shields.io/badge/Epic%20Games-313131?style=social-square&logo=Epic%20Games&logoColor=white)]() | https://img.shields.io/badge/Epic%20Games-313131?style=social-square&logo=Epic%20Games&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)]() | https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/FIFA-B7312F?style=social-square&logo=fifa&logoColor=white)]() | https://img.shields.io/badge/FIFA-B7312F?style=social-square&logo=fifa&logoColor=white |
-| ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) | https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white |
-| ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=social-square&logo=HumbleBundle&logoColor=white) | https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=social-square&logo=HumbleBundle&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]() | https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=social-square&logo=itchdotio&logoColor=white)]() | https://img.shields.io/badge/Itch.io-FA5C5C?style=social-square&logo=itchdotio&logoColor=white |
-| ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white |
-| ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white)]() | https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Origin-F56C2D?style=social-square&logo=origin&logoColor=white)]() | https://img.shields.io/badge/Origin-F56C2D?style=social-square&logo=origin&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D)]() | https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D |
-| [![Card Badge](https://img.shields.io/badge/Origin-1E262C?style=social-square&logo=origin&logoColor=F56C2D)]() | https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D |
-| [![Card Badge](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)]() | https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Nintendo_3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white)]() | https://img.shields.io/badge/Nintendo_3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]() | https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Nintendo_Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white)]() | https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
-| ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white |
-| ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=social-square&logo=nVIDIA&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]() | https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/PlayStation-003791?style=social-square&logo=playstation&logoColor=white)]() | https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=003791 |
-| [![ Badge](https://img.shields.io/badge/PlayStation-white?style=for-the-badge&logo=playstation&logoColor=003791)]() | https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=black)]() | https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=black |
-| ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) | https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white |
-| ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=social-square&logo=Playstation&logoColor=white) | https://img.shields.io/badge/PSN-%230070D1.svg?style=social-square&logo=Playstation&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]() | https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Riot_Games-D32936?style=social-square&logo=riot-games&logoColor=white)]() | https://img.shields.io/badge/Riot_Games-D32936?style=social-square&logo=riot-games&logoColor=white |
-| ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) | https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white |
-| ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=social-square&logo=SquareEnix&logoColor=white) | https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=social-square&logo=SquareEnix&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white)]() | https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Stadia-CD2640?style=social-square&logo=stadia&logoColor=white)]() | https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2 |
-| [![ Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]() | https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Steam-000000?style=social-square&logo=steam&logoColor=white)]() | https://img.shields.io/badge/Steam-000000?style=social-square&logo=steam&logoColor=white |
-| ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) | https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black |
-| ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=social-square&logo=Ubisoft&logoColor=black) | https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=social-square&logo=Ubisoft&logoColor=black |
-| ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white |
-| ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=social-square&logo=unity&logoColor=white) | https://img.shields.io/badge/unity-%23000000.svg?style=social-square&logo=unity&logoColor=white |
-| ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) | https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white |
-| ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=social-square&logo=unrealengine&logoColor=white) | https://img.shields.io/badge/unrealengine-%23313131.svg?style=social-square&logo=unrealengine&logoColor=white |
-| [![Badge](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white |
-| [![Badge](https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white |
-| [![Badge](https://img.shields.io/badge/Xbox-black?style=social-square&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-black?style=for-the-badge&logo=xbox&logoColor=white |
-| [![Badge](https://img.shields.io/badge/Xbox-white?style=social-square&logo=xbox&logoColor=black)]() | https://img.shields.io/badge/Xbox-white?style=for-the-badge&logo=xbox&logoColor=black |
+|    NOME       | BADGE                                                        | URL                                                          |
+|--------------------------| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|Analogue| ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) | https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white |
+| Analogue       | ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=social-square&logo=Analogue&logoColor=white) | https://img.shields.io/badge/Analogue-1A1A1A?style=social-square&logo=Analogue&logoColor=white |
+|Batle   | [![L Badge](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)]() | https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF |
+|Batle .Net   | ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) | https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white |
+|Batle .Net   | ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=social-square&logo=battle.net&logoColor=white) | https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=social-square&logo=battle.net&logoColor=white |
+| EA | ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) | https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white |
+|EA  | ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=social-square&logo=ea&logoColor=white) | https://img.shields.io/badge/ea-%23000000.svg?style=social-square&logo=ea&logoColor=white |
+|Godot   | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) | https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine |
+|Godot | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=social-square&logo=godot-engine) | https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=social-square&logo=godot-engine |
+|Google Play  | [![Card Badge](https://img.shields.io/badge/Google_Play-22272E?style=for-the-badge&logo=google-play&logoColor=F53348)]() | https://img.shields.io/badge/Google_Play-22272E?style=for-the-badge&logo=google-play&logoColor=F53348 |
+|Google Play  | [![Card Badge](https://img.shields.io/badge/Google_Play-22272E?style=social-square&logo=google-play&logoColor=F53348)]() | https://img.shields.io/badge/Google_Play-22272E?style=social-square&logo=google-play&logoColor=F53348 |
+ |Google Play | [![Card Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)]() | https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white |
+|Counter Strike | [![Card Badge](https://img.shields.io/badge/Counter_Strike-000000?style=social-square&logo=counter-strike&logoColor=white)]() | https://img.shields.io/badge/Counter_Strike-000000?style=social-square&logo=counter-strike&logoColor=white |
+|  Epic Games| [![Card Badge](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)]() | https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white |
+| Epic Games | [![Card Badge](https://img.shields.io/badge/Epic%20Games-313131?style=social-square&logo=Epic%20Games&logoColor=white)]() | https://img.shields.io/badge/Epic%20Games-313131?style=social-square&logo=Epic%20Games&logoColor=white |
+|Fifa  | [![Card Badge](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)]() | https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white |
+|Fifa  | [![Card Badge](https://img.shields.io/badge/FIFA-B7312F?style=social-square&logo=fifa&logoColor=white)]() | https://img.shields.io/badge/FIFA-B7312F?style=social-square&logo=fifa&logoColor=white |
+|Humble Bundle | ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) | https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white |
+|Humble Bundle  | ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=social-square&logo=HumbleBundle&logoColor=white) | https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=social-square&logo=HumbleBundle&logoColor=white |
+|Itch.io  | [![Card Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]() | https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white |
+|Itch | [![Card Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=social-square&logo=itchdotio&logoColor=white)]() | https://img.shields.io/badge/Itch.io-FA5C5C?style=social-square&logo=itchdotio&logoColor=whi|
+|Itch  | ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white |
+|Itch  | ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white |
+|Origin | [![Card Badge](https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white)]() | https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white |
+|Origin  | [![Card Badge](https://img.shields.io/badge/Origin-F56C2D?style=social-square&logo=origin&logoColor=white)]() | https://img.shields.io/badge/Origin-F56C2D?style=social-square&logo=origin&logoColor=white |
+|Origin | [![Card Badge](https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D)]() | https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D |
+|Origin  | [![Card Badge](https://img.shields.io/badge/Origin-1E262C?style=social-square&logo=origin&logoColor=F56C2D)]() | https://img.shields.io/badge/Origin-1E262C?style=for-the-badge&logo=origin&logoColor=F56C2D |
+|Nintendo 3DS | [![Card Badge](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)]() | https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white |
+|Nintendo 3DS | [![Card Badge](https://img.shields.io/badge/Nintendo_3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white)]() | https://img.shields.io/badge/Nintendo_3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white |
+|Nintendo Switch | [![Card Badge](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]() | https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
+|Nintendo Switch | [![Card Badge](https://img.shields.io/badge/Nintendo_Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white)]() | https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
+|NVIDIA | ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white |
+|NVIDIA | ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=social-square&logo=nVIDIA&logoColor=white) | https://img.shields.io/badge/Itch-%23FF0B34.svg?style=social-square&logo=Itch.io&logoColor=white |
+|Playstation | [![Card Badge](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)]() | https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white |
+|Playstation | [![ Badge](https://img.shields.io/badge/PlayStation-003791?style=social-square&logo=playstation&logoColor=white)]() | https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=003791 |
+|Playstation  | [![ Badge](https://img.shields.io/badge/PlayStation-white?style=for-the-badge&logo=playstation&logoColor=003791)]() | https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white |
+|PSN | [![ Badge](https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=black)]() | https://img.shields.io/badge/PlayStation-white?style=social-square&logo=playstation&logoColor=black |
+|PSN  | ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) | https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white |
+|PSN | ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=social-square&logo=Playstation&logoColor=white) | https://img.shields.io/badge/PSN-%230070D1.svg?style=social-square&logo=Playstation&logoColor=white |
+|Riot Games | [![ Badge](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)]() | https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white |
+|Riot Games | [![ Badge](https://img.shields.io/badge/Riot_Games-D32936?style=social-square&logo=riot-games&logoColor=white)]() | https://img.shields.io/badge/Riot_Games-D32936?style=social-square&logo=riot-games&logoColor=white |
+|SquareEnix | ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) | https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white |
+|SquareEnix | ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=social-square&logo=SquareEnix&logoColor=white) | https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=social-square&logo=SquareEnix&logoColor=white |
+|Stadia | [![ Badge](https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white)]() | https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white |
+|Stadia | [![ Badge](https://img.shields.io/badge/Stadia-CD2640?style=social-square&logo=stadia&logoColor=white)]() | https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2 |
+|Steam | [![ Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)]() | https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white |
+|Steam | [![ Badge](https://img.shields.io/badge/Steam-000000?style=social-square&logo=steam&logoColor=white)]() | https://img.shields.io/badge/Steam-000000?style=social-square&logo=steam&logoColor=white |
+|Ubisoft | ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) | https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black |
+|Ubisoft | ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=social-square&logo=Ubisoft&logoColor=black) | https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=social-square&logo=Ubisoft&logoColor=black |
+|Unity | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) | https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white |
+|Unity | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=social-square&logo=unity&logoColor=white) | https://img.shields.io/badge/unity-%23000000.svg?style=social-square&logo=unity&logoColor=white |
+|Unreal Engine | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) | https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white |
+|Unreal Engine | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=social-square&logo=unrealengine&logoColor=white) | https://img.shields.io/badge/unrealengine-%23313131.svg?style=social-square&logo=unrealengine&logoColor=white |
+|XBox | [![Badge](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white |
+|Xbox | [![Badge](https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white |
+|XBox | [![Badge](https://img.shields.io/badge/Xbox-black?style=social-square&logo=xbox&logoColor=white)]() | https://img.shields.io/badge/Xbox-black?style=for-the-badge&logo=xbox&logoColor=white |
+|XBox | [![Badge](https://img.shields.io/badge/Xbox-white?style=social-square&logo=xbox&logoColor=black)]() | https://img.shields.io/badge/Xbox-white?style=for-the-badge&logo=xbox&logoColor=black |
 
 
 
@@ -628,12 +615,7 @@ Para usar um badge:
 | [![card Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]() | https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white |
 | [![card Badge](https://img.shields.io/badge/Vercel-000000?style=social-square&logo=vercel&logoColor=white)]() | https://img.shields.io/badge/Vercel-000000?style=social-square&logo=vercel&logoColor=white |
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+
 
 
 
