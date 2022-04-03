@@ -79,36 +79,36 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425 |
-| [![Card Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425 |
-| [![Card Badge](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)]() | https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white)]() | https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)]() | https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/matrix-000000?style=social-square&logo=Matrix&logoColor=white)]() | https://img.shields.io/badge/matrix-000000?style=social-square&logo=Matrix&logoColor=white |
-| [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=social-square&logo=telegram&logoColor=white)]() | https://img.shields.io/badge/Telegram-2CA5E0?style=social-square&logo=telegram&logoColor=white |
-| [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() | https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white |
-| [![Signal Badge](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=social-square&logo=Signal&logoColor=white)]() | https://img.shields.io/badge/Signal-%23039BE5.svg?&style=social-square&logo=Signal&logoColor=white |
-| [![Signal Badge](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)]() | https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white |
-| [![Signal Badge](https://img.shields.io/badge/Messenger-00B2FF?style=-social-square&logo=messenger&logoColor=white)]() | https://img.shields.io/badge/Messenger-00B2FF?style=social-square&logo=messenger&logoColor=white |
-| [![Signal Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)]() | https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)]() | https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/viber-685EA9?style=social-square&logo=viber&logoColor=white)]() | https://img.shields.io/badge/viber-685EA9?style=social-square&logo=viber&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]() | https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/WeChat-07C160?style=social-square&logo=wechat&logoColor=white)]() | https://img.shields.io/badge/WeChat-07C160?style=social-square&logo=wechat&logoColor=white |
-| [![Card Badge](https://aleen42.github.io/badges/src/wechat.svg)]() | https://aleen42.github.io/badges/src/wechat.svg              | 
-| [![Card Badge](https://aleen42.github.io/badges/src/line.svg)]() | https://aleen42.github.io/badges/src/line.svg                |
-| ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) | https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white                                                             |
-| ![Line](https://img.shields.io/badge/Line-00C300?style=social-square&logo=line&logoColor=white) |  https://img.shields.io/badge/Line-00C300?style=social-square&logo=line&logoColor=white                                                            |
-| ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) | https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000                                                             |
-| ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=social-square&logo=kakaotalk&logoColor=000000) | https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=social-square&logo=kakaotalk&logoColor=000000                                                             |
-| [![Card Badge](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)]() | https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Wire-B71C1C?style=social-square&logo=wire&logoColor=white)]() | https://img.shields.io/badge/Wire-B71C1C?style=social-square&logo=wire&logoColor=white |
-| ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) | https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white                                                            |
-| ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) | https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white                                                             |
+| NAME | BADGE                                                        | URL                                                          |
+|-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|Linkedin | [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white |
+|Whatssapp |[![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white |
+|ICQ |[![Card Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425 |
+|ICQ |[![Card Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425 |
+|KiK |[![Card Badge](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)]() | https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white |
+|KiK |[![Card Badge](https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white)]() | https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white |
+|Matrix |[![Card Badge](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)]() | https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white |
+|Matrix |[![Card Badge](https://img.shields.io/badge/matrix-000000?style=social-square&logo=Matrix&logoColor=white)]() | https://img.shields.io/badge/matrix-000000?style=social-square&logo=Matrix&logoColor=white |
+|Telegram |[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=social-square&logo=telegram&logoColor=white)]() | https://img.shields.io/badge/Telegram-2CA5E0?style=social-square&logo=telegram&logoColor=white |
+|Telegram |[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]() | https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white |
+|Signal |[![Signal Badge](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=social-square&logo=Signal&logoColor=white)]() | https://img.shields.io/badge/Signal-%23039BE5.svg?&style=social-square&logo=Signal&logoColor=white |
+|Signal |[![Signal Badge](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)]() | https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white |
+|Signal |[![Signal Badge](https://img.shields.io/badge/Messenger-00B2FF?style=-social-square&logo=messenger&logoColor=white)]() | https://img.shields.io/badge/Messenger-00B2FF?style=social-square&logo=messenger&logoColor=white |
+|Signal |[![Signal Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)]() | https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white |
+|Viber |[![Card Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)]() | https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white |
+|Viber |[![Card Badge](https://img.shields.io/badge/viber-685EA9?style=social-square&logo=viber&logoColor=white)]() | https://img.shields.io/badge/viber-685EA9?style=social-square&logo=viber&logoColor=white |
+|We Chat |[![Card Badge](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]() | https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white |
+|We Chat |[![Card Badge](https://img.shields.io/badge/WeChat-07C160?style=social-square&logo=wechat&logoColor=white)]() | https://img.shields.io/badge/WeChat-07C160?style=social-square&logo=wechat&logoColor=white |
+|We Chat |[![Card Badge](https://aleen42.github.io/badges/src/wechat.svg)]() | https://aleen42.github.io/badges/src/wechat.svg              | 
+|Line |[![Card Badge](https://aleen42.github.io/badges/src/line.svg)]() | https://aleen42.github.io/badges/src/line.svg                |
+|Line |![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) | https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white                                                             |
+|Line |![Line](https://img.shields.io/badge/Line-00C300?style=social-square&logo=line&logoColor=white) |  https://img.shields.io/badge/Line-00C300?style=social-square&logo=line&logoColor=white                                                            |
+|Kakaotalk |![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) | https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000                                                             |
+|Kakaotalk |![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=social-square&logo=kakaotalk&logoColor=000000) | https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=social-square&logo=kakaotalk&logoColor=000000                                                             |
+|Wire |[![Card Badge](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)]() | https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white |
+|Wire |[![Card Badge](https://img.shields.io/badge/Wire-B71C1C?style=social-square&logo=wire&logoColor=white)]() | https://img.shields.io/badge/Wire-B71C1C?style=social-square&logo=wire&logoColor=white |
+|Twitch |![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) | https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white                                                            |
+|Twitch |![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) | https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white                                                             |
 
 
 
