@@ -27,30 +27,30 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)]() | https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=social-square&logo=google%20analytics&logoColor=white)]() | https://img.shields.io/badge/Google%20Analytics-E37400?style=social-square&logo=google%20analytics&logoColor=white |
-| [![Hotjar Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white |
-| [![Kibana Badge](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white |
-| [![Kibana Badge](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white |
-| [![Kibana Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() | https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Tableau-E97627?style=social-square&logo=Tableau&logoColor=white)]() | https://img.shields.io/badge/Tableau-E97627?style=social-square&logo=Tableau&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0)]() | https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0 |
-| [![Card Badge](https://img.shields.io/badge/Fluentd-599CD0?style=social-square&logo=fluentd&logoColor=white&labelColor=599CD0)]() | https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0 |
-| [![Card Badge](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)]() | https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9 |
-| [![Card Badge](https://img.shields.io/badge/Grafana-F2F4F9?style=social-square&logo=grafana&logoColor=orange&labelColor=F2F4F9)]() | https://img.shields.io/badge/Grafana-F2F4F9?style=social-square&logo=grafana&logoColor=orange&labelColor=F2F4F9 |
-| [![Card Badge](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)]() | https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Lighthouse-F44B21?style=social-square&logo=Lighthouse&logoColor=white)]() | https://img.shields.io/badge/Lighthouse-F44B21?style=social-square&logo=Lighthouse&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)]() | https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff |
-| [![Card Badge](https://img.shields.io/badge/Metabase-509EE3?style=social-square&logo=metabase&logoColor=fff)]() | https://img.shields.io/badge/Metabase-509EE3?style=social-square&logo=metabase&logoColor=fff |
-| [![Card Badge](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)]() | https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000 |
-| [![Card Badge](https://img.shields.io/badge/Prometheus-000000?style=social-square&logo=prometheus&labelColor=000000)]() | https://img.shields.io/badge/Prometheus-000000?style=social-square&logo=prometheus&labelColor=000000 |
-| [![Card Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() | https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]() | https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white |
+|NOME | BADGE                                                        | URL                                                          |
+|---------| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Google Analytics  | [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)]() | https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white |
+|Google Analytic| [![Card Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=social-square&logo=google%20analytics&logoColor=white)]() | https://img.shields.io/badge/Google%20Analytics-E37400?style=social-square&logo=google%20analytics&logoColor=white |
+|Hotjar  | [![Hotjar Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white |
+|Hotjar| [![Card Badge](https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white)]() | https://img.shields.io/badge/hotjar-FD3A5C?style=social-square&logo=hotjar&logoColor=white |
+|Kibana | [![Kibana Badge](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white |
+|  | [![Card Badge](https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white)]() | https://img.shields.io/badge/Kibana-005571?style=social-square&logo=Kibana&logoColor=white |
+|Kibana | [![Kibana Badge](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white |
+|Matomo  |[![Card Badge](https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white)]() | https://img.shields.io/badge/Matomo-3152A0?style=social-square&logo=Matomo&logoColor=white |
+|Matomo  |[![Kibana Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]() | https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white |
+|Tableau  | [![Card Badge](https://img.shields.io/badge/Tableau-E97627?style=social-square&logo=Tableau&logoColor=white)]() | https://img.shields.io/badge/Tableau-E97627?style=social-square&logo=Tableau&logoColor=white |
+|Fluentd  | [![Card Badge](https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0)]() | https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0 |
+|Fluentd  | [![Card Badge](https://img.shields.io/badge/Fluentd-599CD0?style=social-square&logo=fluentd&logoColor=white&labelColor=599CD0)]() | https://img.shields.io/badge/Fluentd-599CD0?style=for-the-badge&logo=fluentd&logoColor=white&labelColor=599CD0 |
+|Grafana | [![Card Badge](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)]() | https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9 |
+|Grafana| [![Card Badge](https://img.shields.io/badge/Grafana-F2F4F9?style=social-square&logo=grafana&logoColor=orange&labelColor=F2F4F9)]() | https://img.shields.io/badge/Grafana-F2F4F9?style=social-square&logo=grafana&logoColor=orange&labelColor=F2F4F9 |
+| Ligththouse|[![Card Badge](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white)]() | https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white |
+| Ligththouse| [![Card Badge](https://img.shields.io/badge/Lighthouse-F44B21?style=social-square&logo=Lighthouse&logoColor=white)]() | https://img.shields.io/badge/Lighthouse-F44B21?style=social-square&logo=Lighthouse&logoColor=white |
+|Metabase | [![Card Badge](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff)]() | https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff |
+|Metabase | [![Card Badge](https://img.shields.io/badge/Metabase-509EE3?style=social-square&logo=metabase&logoColor=fff)]() | https://img.shields.io/badge/Metabase-509EE3?style=social-square&logo=metabase&logoColor=fff |
+|Prometheus  | [![Card Badge](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)]() | https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000 |
+|Prometheus  |[![Card Badge](https://img.shields.io/badge/Prometheus-000000?style=social-square&logo=prometheus&labelColor=000000)]() | https://img.shields.io/badge/Prometheus-000000?style=social-square&logo=prometheus&labelColor=000000 |
+|Splunk  | [![Card Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() | https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white |
+|Splunk  | [![Card Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]() | https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white |
 
 
 
