@@ -443,32 +443,32 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) | https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white |
-| ![3DS](https://img.shields.io/badge/3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white) | https://img.shields.io/badge/3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white |
-| ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white) | https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white |
-| ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=social-square&logo=nintendo-gamecube&logoColor=white) | https://img.shields.io/badge/Gamecube-6A5FBB?style=social-square&logo=nintendo-gamecube&logoColor=white |
-| ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) | https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white |
-| ![Playstation](https://img.shields.io/badge/Playstation-003791?style=social-square&logo=playstation&logoColor=white) | https://img.shields.io/badge/Playstation-003791?style=social-square&logo=playstation&logoColor=white |
-| ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white) | https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white |
-| ![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=social-square&logo=playstation-2&logoColor=white) | https://img.shields.io/badge/Playstation%202-003791?style=social-square&logo=playstation-2&logoColor=white |
-| ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white) | https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white |
-| ![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=social-square&logo=playstation-3&logoColor=white) | https://img.shields.io/badge/Playstation%203-003791?style=social-square&logo=playstation-3&logoColor=white |
-| ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white) | https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white |
-| ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=social-square&logo=playstation-4&logoColor=white) | https://img.shields.io/badge/Playstation%204-003791?style=social-square&logo=playstation-4&logoColor=white |
-| ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) | https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white |
-| ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=social-square&logo=playstation-5&logoColor=white) | https://img.shields.io/badge/Playstation%205-003791?style=social-square&logo=playstation-5&logoColor=white |
-| ![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white) | https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white |
-| ![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=social-square&logo=playstation-vita&logoColor=white) | https://img.shields.io/badge/Playstation%20Vita-003791?style=social-square&logo=playstation-vita&logoColor=white |
-| ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) | https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
-| ![Switch](https://img.shields.io/badge/Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white) | https://img.shields.io/badge/Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white |
-| ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) | https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white |
-| ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=social-square&logo=wii&logoColor=white) | https://img.shields.io/badge/Wii-8B8B8B?style=social-square&logo=wii&logoColor=white |
-| ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white) | https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white |
-| ![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=social-square&logo=wiiu&logoColor=white) | (https://img.shields.io/badge/Wii%20U-8B8B8B?style=social-square&logo=wiiu&logoColor=white |
-| ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) | https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white |
-| ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white) | https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white |
+|NOME| BADGE                                                        | URL                                                          |
+|---| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| |![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white) | https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white |
+| |![3DS](https://img.shields.io/badge/3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white) | https://img.shields.io/badge/3DS-D12228?style=social-square&logo=nintendo-3ds&logoColor=white |
+| |![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white) | https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white |
+| |![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=social-square&logo=nintendo-gamecube&logoColor=white) | https://img.shields.io/badge/Gamecube-6A5FBB?style=social-square&logo=nintendo-gamecube&logoColor=white |
+| |![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) | https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white |
+| |![Playstation](https://img.shields.io/badge/Playstation-003791?style=social-square&logo=playstation&logoColor=white) | https://img.shields.io/badge/Playstation-003791?style=social-square&logo=playstation&logoColor=white |
+| |![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white) | https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white |
+| |![Playstation 2](https://img.shields.io/badge/Playstation%202-003791?style=social-square&logo=playstation-2&logoColor=white) | https://img.shields.io/badge/Playstation%202-003791?style=social-square&logo=playstation-2&logoColor=white |
+| |![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white) | https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white |
+| |![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=social-square&logo=playstation-3&logoColor=white) | https://img.shields.io/badge/Playstation%203-003791?style=social-square&logo=playstation-3&logoColor=white |
+| |![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white) | https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white |
+| |![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=social-square&logo=playstation-4&logoColor=white) | https://img.shields.io/badge/Playstation%204-003791?style=social-square&logo=playstation-4&logoColor=white |
+| |![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white) | https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white |
+| |![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=social-square&logo=playstation-5&logoColor=white) | https://img.shields.io/badge/Playstation%205-003791?style=social-square&logo=playstation-5&logoColor=white |
+| |![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white) | https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white |
+| |![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=social-square&logo=playstation-vita&logoColor=white) | https://img.shields.io/badge/Playstation%20Vita-003791?style=social-square&logo=playstation-vita&logoColor=white |
+| |![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) | https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white |
+| |![Switch](https://img.shields.io/badge/Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white) | https://img.shields.io/badge/Switch-E60012?style=social-square&logo=nintendo-switch&logoColor=white |
+| |![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white) | https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white |
+| |![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=social-square&logo=wii&logoColor=white) | https://img.shields.io/badge/Wii-8B8B8B?style=social-square&logo=wii&logoColor=white |
+| |![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white) | https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white |
+| |![Wii U](https://img.shields.io/badge/Wii%20U-8B8B8B?style=social-square&logo=wiiu&logoColor=white) | (https://img.shields.io/badge/Wii%20U-8B8B8B?style=social-square&logo=wiiu&logoColor=white |
+| |![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) | https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white |
+| |![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white) | https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white |
 
 
 
