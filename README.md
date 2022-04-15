@@ -213,19 +213,19 @@ Para usar um badge:
 |Tumblr| [![Card Badge](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=social-square&logo=Tumblr&logoColor=white)]() | https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=social-square&logo=Tumblr&logoColor=white |
 |XDA Developers| [![Card Badge](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)]() | https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white |
 |XDA Developers| [![Card Badge](https://img.shields.io/badge/xda%20developers-2DAAE9?style=social-square&logo=xda-developers&logoColor=white)]() | https://img.shields.io/badge/xda%20developers-2DAAE9?style=social-square&logo=xda-developers&logoColor=white |
-|| ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) | https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white                                                             |
-|| ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social-square&logo=Twitter&logoColor=white) | https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social-square&logo=Twitter&logoColor=white                                                             |
-||![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white) | https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white                                                             |
-||![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white) | https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white                                                             |
+|Twitter| ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) | https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white                                                             |
+|Twitter| ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social-square&logo=Twitter&logoColor=white) | https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social-square&logo=Twitter&logoColor=white                                                             |
+|Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white) | https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white                                                             |
+|Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white) | https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white                                                             |
 
 
 
 #  Blockchain
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]() | https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-squae&logo=hyperledger&logoColor=white)]() | https://img.shields.io/badge/hyperledger-2F3134?style=social-squae&logo=hyperledger&logoColor=white |
+|NOME| BADGE                                                        | URL                                                          |
+|----| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Hyperledger| [![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]() | https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white |
+|Hyperledger |[![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]() | https://img.shields.io/badge/hyperledger-2F3134?style=social-squae&logo=hyperledger&logoColor=white |
 
 
 
@@ -233,21 +233,21 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-square&logo=gmail&logoColor=white)]() | https://img.shields.io/badge/Gmail-D14836?style=social-square&logo=gmail&logoColor=white |
-| [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() | https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white |
-| [![Gmail Badge](https://img.shields.io/badge/Gmail-22272E?style=for-the-badge&logo=gmail&logoColor=D14836)]() | https://img.shields.io/badge/Gmail-22272E?style=for-the-badge&logo=gmail&logoColor=D14836 |
-| [![Gmail Badge](https://img.shields.io/badge/Gmail-22272E?style=social-square&logo=gmail&logoColor=D14836)]() | https://img.shields.io/badge/Gmail-22272E?style=social-square&logo=gmail&logoColor=D14836 |
-| [![hotmail Badge](https://img.shields.io/badge/Hotmail--blue?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/Hotmail--blue?style=social-square&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com |
-| [![hotmail Badge](https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/Hotmail--blue?style=for-the-badge&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com |
-| [![card Badge](https://img.shields.io/badge/-Hotmail-0078D4??style=social-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com)](mailto:fulano@hotmail.com) | https://img.shields.io/badge/-Hotmail-0078D4??style=social-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
-| [![card Badge](https://img.shields.io/badge/-Outlook-ffffff??style=for-the-badge&logo=microsoft-outlook&logoColor=blue&link=mailto:fulano@hotmail.com)](mailto:fulano@outlook.com) | https://img.shields.io/badge/-Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
-| [![card Badge](https://img.shields.io/badge/-Outlook-0078D4??style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/-Outlook-0078D4??style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
-| [![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)]() | https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white |
-| [![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)]() | https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]() | https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]() | https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white |
+|NOME| BADGE                                                        | URL                                                          |
+|---| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|Gmail | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=social-square&logo=gmail&logoColor=white)]() | https://img.shields.io/badge/Gmail-D14836?style=social-square&logo=gmail&logoColor=white |
+|Gmail |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() | https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white |
+|Gmail |[![Gmail Badge](https://img.shields.io/badge/Gmail-22272E?style=for-the-badge&logo=gmail&logoColor=D14836)]() | https://img.shields.io/badge/Gmail-22272E?style=for-the-badge&logo=gmail&logoColor=D14836 |
+|Gmail |[![Gmail Badge](https://img.shields.io/badge/Gmail-22272E?style=social-square&logo=gmail&logoColor=D14836)]() | https://img.shields.io/badge/Gmail-22272E?style=social-square&logo=gmail&logoColor=D14836 |
+|Hotmail |[![hotmail Badge](https://img.shields.io/badge/Hotmail--blue?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/Hotmail--blue?style=social-square&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com |
+|Hotmail| [![hotmail Badge](https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/Hotmail--blue?style=for-the-badge&logo=microsoft-outlook&logoColor=0078d4&link=mailto:fulano@hotmail.com |
+|Hotmail| [![card Badge](https://img.shields.io/badge/-Hotmail-0078D4??style=social-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com)](mailto:fulano@hotmail.com) |https://img.shields.io/badge/-Hotmail-0078D4??style=social-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
+|Outlook |[![card Badge](https://img.shields.io/badge/-Outlook-ffffff??style=for-the-badge&logo=microsoft-outlook&logoColor=blue&link=mailto:fulano@hotmail.com)](mailto:fulano@outlook.com) | https://img.shields.io/badge/-Outlook-0078D4??style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
+|Outlook | [![card Badge](https://img.shields.io/badge/-Outlook-0078D4??style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com)]() | https://img.shields.io/badge/-Outlook-0078D4??style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fulano@hotmail.com |
+|Protonmail |[![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)]() | https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white |
+|Protonmail |[![Proton Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)]() | https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white |
+|Tutanota|[![Card Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]() | https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white |
+|Tutanota |[![Card Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]() | https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white |
 
 
 
