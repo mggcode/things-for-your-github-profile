@@ -255,32 +255,32 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [![Name Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]() | https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white |
-| [![ Name Badge Badge](https://img.shields.io/badge/Discord-5865F2?style=social-square&logo=discord&logoColor=white)]() | https://img.shields.io/badge/Discord-5865F2?style=social-square&logo=discord&logoColor=white |
-| [![ Name Badge Badge](https://img.shields.io/badge/Discord-22272E?style=for-the-badge&logo=discord&logoColor=4E62EE)]() | https://img.shields.io/badge/Discord-22272E?style=for-the-badge&logo=discord&logoColor=4E62EE |
-| [![Name BadgeBadge](https://img.shields.io/badge/Discord-22272E?style=social-square&logo=discord&logoColor=4E62EE)]() | https://img.shields.io/badge/Discord-22272E?style=social-square&logo=discord&logoColor=4E62EE |
-| [![Name Badge Badge](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]() | https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white |
-| [![Name Badge Badge](https://img.shields.io/badge/Google%20Meet-00897B?style=social-square&logo=google-meet&logoColor=white)]() | https://img.shields.io/badge/Google%20Meet-00897B?style=social-square&logo=google-meet&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]() | https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=social-square&logo=microsoft-teams&logoColor=white)]() | https://img.shields.io/badge/Microsoft_Teams-6264A7?style=social-square&logo=microsoft-teams&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]() | https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white |
-| [![Name BadgeBadge](https://img.shields.io/badge/Slack-4A154B?style=social-square&logo=slack&logoColor=white)]() | https://img.shields.io/badge/Slack-4A154B?style=social-square&logo=slack&logoColor=white |
-| [![Name Badge Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)]() | https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Skype-00AFF0?style=social-square&logo=skype&logoColor=white)]() | https://img.shields.io/badge/Skype-00AFF0?style=social-square&logo=skype&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)]() | https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/TeamSpeak-2580C3?style=social-square&logo=teamspeak&logoColor=white)]() | https://img.shields.io/badge/TeamSpeak-2580C3?style=social-square&logo=teamspeak&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]() | https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=social-square&logo=zoom&logoColor=white)]() | https://img.shields.io/badge/Zoom-2D8CFF?style=social-square&logo=zoom&logoColor=white |
-| [![Card Badge](https://aleen42.github.io/badges/src/stackexchange.svg)]() | https://aleen42.github.io/badges/src/stackexchange.svg       |
-| [![Card Badge](https://aleen42.github.io/badges/src/superuser.svg)]() | https://aleen42.github.io/badges/src/superuser.svg           |
-| [![Card Badge](https://aleen42.github.io/badges/src/google_plus.svg)]() | https://aleen42.github.io/badges/src/google_plus.svg         |
-| [![Card Badge](https://aleen42.github.io/badges/src/pinterest.svg)]() | https://aleen42.github.io/badges/src/pinterest.svg           |
-| [![Card Badge](https://aleen42.github.io/badges/src/reddit.svg)]() | https://aleen42.github.io/badges/src/reddit.svg              |
-| [![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=social-sq&logo=reddit&logoColor=white |
-| [![Card Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)]() | https://aleen42.github.io/badges/src/stackoverflow.svg       |
+|NOME | BADGE                                                        | URL                                                          |
+|---| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|Discord |[![Name Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]() | https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white |
+|Discord | [![ Name Badge Badge](https://img.shields.io/badge/Discord-5865F2?style=social-square&logo=discord&logoColor=white)]() | https://img.shields.io/badge/Discord-5865F2?style=social-square&logo=discord&logoColor=white |
+|Discord |[![ Name Badge Badge](https://img.shields.io/badge/Discord-22272E?style=for-the-badge&logo=discord&logoColor=4E62EE)]() | https://img.shields.io/badge/Discord-22272E?style=for-the-badge&logo=discord&logoColor=4E62EE |
+|Discord |[![Name BadgeBadge](https://img.shields.io/badge/Discord-22272E?style=social-square&logo=discord&logoColor=4E62EE)]() | https://img.shields.io/badge/Discord-22272E?style=social-square&logo=discord&logoColor=4E62EE |
+|Google Meet |[![Name Badge Badge](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)]() | https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white |
+|Google Meet |[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=social-square&logo=google-meet&logoColor=white)]() | https://img.shields.io/badge/Google%20Meet-00897B?style=social-square&logo=google-meet&logoColor=white |
+|Microsoft Teams |[![Microsoft Teams Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)]() | https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white |
+|Microsoft Teams |[![Microsoft Teams Badge](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=social-square&logo=microsoft-teams&logoColor=white)]() | https://img.shields.io/badge/Microsoft_Teams-6264A7?style=social-square&logo=microsoft-teams&logoColor=white |
+|Slack |[![card Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]() | https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white |
+|Slack |[![Name BadgeBadge](https://img.shields.io/badge/Slack-4A154B?style=social-square&logo=slack&logoColor=white)]() | https://img.shields.io/badge/Slack-4A154B?style=social-square&logo=slack&logoColor=white |
+|Skype |[![Name Badge Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)]() | https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white |
+|Skype |[![Card Badge](https://img.shields.io/badge/Skype-00AFF0?style=social-square&logo=skype&logoColor=white)]() | https://img.shields.io/badge/Skype-00AFF0?style=social-square&logo=skype&logoColor=white |
+|Teamspeak |[![Card Badge](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)]() | https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white |
+|Teamspeak |[![Card Badge](https://img.shields.io/badge/TeamSpeak-2580C3?style=social-square&logo=teamspeak&logoColor=white)]() | https://img.shields.io/badge/TeamSpeak-2580C3?style=social-square&logo=teamspeak&logoColor=white |
+|Zoom |[![Card Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)]() | https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white |
+|Zoom |[![Card Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=social-square&logo=zoom&logoColor=white)]() | https://img.shields.io/badge/Zoom-2D8CFF?style=social-square&logo=zoom&logoColor=white |
+|Stackexchange |[![Card Badge](https://aleen42.github.io/badges/src/stackexchange.svg)]() | https://aleen42.github.io/badges/src/stackexchange.svg       |
+|Superuser |[![Card Badge](https://aleen42.github.io/badges/src/superuser.svg)]() | https://aleen42.github.io/badges/src/superuser.svg           |
+|Google + |[![Card Badge](https://aleen42.github.io/badges/src/google_plus.svg)]() | https://aleen42.github.io/badges/src/google_plus.svg         |
+|Pinterest |[![Card Badge](https://aleen42.github.io/badges/src/pinterest.svg)]() | https://aleen42.github.io/badges/src/pinterest.svg           |
+|Reddit |[![Card Badge](https://aleen42.github.io/badges/src/reddit.svg)]() | https://aleen42.github.io/badges/src/reddit.svg              |
+|Reddit|[![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white |
+|Stackoverflow |[![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=social-sq&logo=reddit&logoColor=white |
+|Stackoverflow |[![Card Badge](https://aleen42.github.io/badges/src/stackoverflow.svg)]() | https://aleen42.github.io/badges/src/stackoverflow.svg       |
 
 
 
