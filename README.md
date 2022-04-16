@@ -476,28 +476,28 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| [![Gmail Badge](https://img.shields.io/badge/Blogger-FF5722?style=social-square&logo=blogger&logoColor=white)]() | https://img.shields.io/badge/Blogger-FF5722?style=social-square&logo=blogger&logoColor=white |
-| [![Gmail Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]() | https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=social-square&logo=devdotto&logoColor=white)]() | https://img.shields.io/badge/dev.to-0A0A0A?style=social-square&logo=devdotto&logoColor=white |
-| [![Card Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]() | https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]() | https://img.shields.io/badge/GeeksforGeeks-298D46?style=social-square&logo=geeksforgeeks&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=social-square&logo=geeksforgeeks&logoColor=white)]() | https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white |
-| [![card Badge](https://img.shields.io/badge/Ghost-000?style=social-square&logo=ghost&logoColor=yellow)]() | https://img.shields.io/badge/Ghost-000?style=social-square&logo=ghost&logoColor=yellow |
-| [![card Badge](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]() | https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow |
-| [![ Badge](https://img.shields.io/badge/Hashnode-2962FF?style=social-square&logo=hashnode&logoColor=white)]() | https://img.shields.io/badge/Hashnode-2962FF?style=social-square&logo=hashnode&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]() | https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white)]() | https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)]() | https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Wordpress-21759B?style=social-square&logo=wordpress&logoColor=white)]() | https://img.shields.io/badge/Wordpress-21759B?style=social-square&logo=wordpress&logoColor=white |
-| [![ Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]() | https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white |
-| ![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white) | https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white |
-| ![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white) | https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white |
+|NOME| BADGE                                                        | URL                                                          |
+|---| ------------------------------------------------------------ | :----------------------------------------------------------- |
+| |[![Gmail Badge](https://img.shields.io/badge/Blogger-FF5722?style=social-square&logo=blogger&logoColor=white)]() | https://img.shields.io/badge/Blogger-FF5722?style=social-square&logo=blogger&logoColor=white |
+| |[![Gmail Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]() | https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white |
+| |[![Card Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=social-square&logo=devdotto&logoColor=white)]() | https://img.shields.io/badge/dev.to-0A0A0A?style=social-square&logo=devdotto&logoColor=white |
+| |[![Card Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]() | https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white |
+| |[![card Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]() | https://img.shields.io/badge/GeeksforGeeks-298D46?style=social-square&logo=geeksforgeeks&logoColor=white |
+| |[![card Badge](https://img.shields.io/badge/GeeksforGeeks-298D46?style=social-square&logo=geeksforgeeks&logoColor=white)]() | https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white |
+| |[![card Badge](https://img.shields.io/badge/Ghost-000?style=social-square&logo=ghost&logoColor=yellow)]() | https://img.shields.io/badge/Ghost-000?style=social-square&logo=ghost&logoColor=yellow |
+| |[![card Badge](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]() | https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow |
+||[![ Badge](https://img.shields.io/badge/Hashnode-2962FF?style=social-square&logo=hashnode&logoColor=white)]() | https://img.shields.io/badge/Hashnode-2962FF?style=social-square&logo=hashnode&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]() | https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white)]() | https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)]() | https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Wordpress-21759B?style=social-square&logo=wordpress&logoColor=white)]() | https://img.shields.io/badge/Wordpress-21759B?style=social-square&logo=wordpress&logoColor=white |
+| |[![ Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)]() | https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white |
+| |![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white) | https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white |
+| |![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white) | https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white |
 
 
 
