@@ -507,26 +507,26 @@ Para usar um badge:
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | :----------------------------------------------------------- |
-| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white |
-| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white) | https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white |
-| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) | https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white |
-| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white) | https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white |
-| ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white |
-| ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=social-square&logo=Firefox-Browser&logoColor=white) | https://img.shields.io/badge/Firefox-FF7139?style=social-square&logo=Firefox-Browser&logoColor=white |
-| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white |
-| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=social-square&logo=GoogleChrome&logoColor=white) | https://img.shields.io/badge/Google%20Chrome-4285F4?style=social-square&logo=GoogleChrome&logoColor=white |
-| ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white) | https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white |
-| ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=social-square&logo=Internet%20Explorer&logoColor=white) | https://img.shields.io/badge/Internet%20Explorer-0076D6?style=social-square&logo=Internet%20Explorer&logoColor=white |
-| ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) | https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white |
-| ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=social-square&logo=Opera&logoColor=white) | https://img.shields.io/badge/Cirrus_CI-4051B5?style=social-square&logo=cirrusci&logoColor=white |
-| ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white) | https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white |
-| ![Safari](https://img.shields.io/badge/Safari-000000?style=social-square&logo=Safari&logoColor=white) | https://img.shields.io/badge/Safari-000000?style=social-square&logo=Safari&logoColor=white |
-| ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) | https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white |
-| ![Tor](https://img.shields.io/badge/Tor-7D4698?style=social-square&logo=Tor-Browser&logoColor=white) | https://img.shields.io/badge/Tor-7D4698?style=social-square&logo=Tor-Browser&logoColor=white |
-| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) | https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white |
-| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white) | https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white |
+| NOME| BADGE                                                        | URL                                                          |
+|-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|Brave| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white |
+|Brave| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white) | https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white |
+|Edge| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) | https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white |
+|Edge| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white) | https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white |
+|Firefox| ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white |
+|Firefox  | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=social-square&logo=Firefox-Browser&logoColor=white) | https://img.shields.io/badge/Firefox-FF7139?style=social-square&logo=Firefox-Browser&logoColor=white |
+|Chrome| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white |
+|Chrome| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=social-square&logo=GoogleChrome&logoColor=white) | https://img.shields.io/badge/Google%20Chrome-4285F4?style=social-square&logo=GoogleChrome&logoColor=white |
+|IE| ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white) | https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white |
+|IE | ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=social-square&logo=Internet%20Explorer&logoColor=white) | https://img.shields.io/badge/Internet%20Explorer-0076D6?style=social-square&logo=Internet%20Explorer&logoColor=white |
+|Opera| ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) | https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white |
+|Opera| ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=social-square&logo=Opera&logoColor=white) | https://img.shields.io/badge/Cirrus_CI-4051B5?style=social-square&logo=cirrusci&logoColor=white |
+|Safari| ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white) | https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white |
+|Safari| ![Safari](https://img.shields.io/badge/Safari-000000?style=social-square&logo=Safari&logoColor=white) | https://img.shields.io/badge/Safari-000000?style=social-square&logo=Safari&logoColor=white |
+|Tor| ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) | https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white |
+|Tor| ![Tor](https://img.shields.io/badge/Tor-7D4698?style=social-square&logo=Tor-Browser&logoColor=white) | https://img.shields.io/badge/Tor-7D4698?style=social-square&logo=Tor-Browser&logoColor=white |
+|Vivaldi| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) | https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white |
+|Vivaldi| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white) | https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white |
 
 
 
