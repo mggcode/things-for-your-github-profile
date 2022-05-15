@@ -696,16 +696,16 @@ Para usar um badge:
 
 
 
-|              | Badge                                                        | URL                                                          |
+|       Nome    | Badge                                                        | URL                                                          |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Dropbox      | ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white) | https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white |
-|              | ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=social-square&logo=Dropbox&logoColor=white) | https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=social-square&logo=Dropbox&logoColor=white |
+| Dropbox   | ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=social-square&logo=Dropbox&logoColor=white) | https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=social-square&logo=Dropbox&logoColor=white |
 | Google Drive | ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) | https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white |
-|              | ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=social-square&logo=googledrive&logoColor=white) | https://img.shields.io/badge/Google%20Drive-4285F4?style=social-square&logo=googledrive&logoColor=white |
-| Mega         | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) | https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white |
-|              | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=social-square&logo=Mega&logoColor=white) | https://img.shields.io/badge/Mega-%23D90007.svg?style=social-square&logo=Mega&logoColor=white |
-| Next Cloud   | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white) | https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white |
-|              | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white) | https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white |
+| Google Drive | ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=social-square&logo=googledrive&logoColor=white) | https://img.shields.io/badge/Google%20Drive-4285F4?style=social-square&logo=googledrive&logoColor=white |
+| Mega    | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white) | https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white |
+| Mega  | ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=social-square&logo=Mega&logoColor=white) | https://img.shields.io/badge/Mega-%23D90007.svg?style=social-square&logo=Mega&logoColor=white |
+| Next Cloud  | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white) | https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white |
+| Next Cloud  | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white) | https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white |
 
 
 
