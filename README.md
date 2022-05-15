@@ -81,7 +81,7 @@ Para usar um badge:
 
 | NAME | BADGE                                                        | URL                                                          |
 |-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
-|Linkedin | [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white |
+|Whatsapp | [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white |
 |Whatssapp |[![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() | https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white |
 |ICQ |[![Card Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425 |
 |ICQ |[![Card Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() | https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425 |
@@ -122,12 +122,18 @@ Para usar um badge:
 |Facebook| [![Card Badge](https://img.shields.io/badge/Facebook-1877F2?style=social-square&logo=facebook&logoColor=white)]() | https://img.shields.io/badge/Facebook-1877F2?style=social-square&logo=facebook&logoColor=white |
 |Instagram| [![Card Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]() | https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white |
 |Instagram| [![Card Badge](https://img.shields.io/badge/Instagram-E4405F?style=social-square&logo=instagram&logoColor=white)]() | https://img.shields.io/badge/Instagram-E4405F?style=social-square&logo=instagram&logoColor=white |
+|Instagram |[![Instagram Badge](https://img.shields.io/badge/-Instagram-790A56?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jessicajeh/?hl=en)]()| https://img.shields.io/badge/-Instagram-790A56?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jessicajeh/?hl=en|
 |Twitter| [![Card Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() | https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white |
 |Twitter| [![Card Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=social-square&logo=twitter&logoColor=white)]() | https://img.shields.io/badge/Twitter-1DA1F2?style=social-square&logo=twitter&logoColor=white |
+|Twitter|[![Twitter Badge](https://img.shields.io/badge/-Twitter-790A56?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_)](https://twitter.com/_)|https://img.shields.io/badge/-Twitter-790A56?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jessicajeh_(_)
 |Linkedin| [![Card Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() | https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white |
 |Linkedin| [![Card Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social-square&logo=linkedin&logoColor=white)]() | https://img.shields.io/badge/LinkedIn-0077B5?style=social-square&logo=linkedin&logoColor=white |
+|Linkedin| [![Card Badge](https://img.shields.io/badge/-LinkedIn-790A56?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martageraldo/)]() | https://img.shields.io/badge/-LinkedIn-790A56?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/{seu perfil}/ |
+|Linkedin| [![Card Badge](https://img.shields.io/badge/-LinkedIn-790A56?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martageraldo/)]() | https://img.shields.io/badge/-LinkedIn-790A56?style=social-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ {seu perfil}/ |
+|Linkedin| [![Card Badge](https://img.shields.io/badge/-LinkedIn-790A56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martageraldo/)]() | https://img.shields.io/badge/-LinkedIn-790A56?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ {seu perfil}/ |
 |Github| [![Card Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]() | https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white |
 |Github| [![Card Badge](https://img.shields.io/badge/GitHub-100000?style=social-square&logo=github&logoColor=white)]() | https://img.shields.io/badge/GitHub-100000?style=social-square&logo=github&logoColor=white |
+|Github|[![Github Badge](https://img.shields.io/badge/-Github-790A56?style=flat-square&logo=Github&logoColor=white&link=https://github.com/martageraldo)](https://github.com/martageraldo)|https://img.shields.io/badge/-Github-790A56?style=flat-square&logo=Github&logoColor=white&link=https://github.com/martageraldo|
 |Reddit| [![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white |
 |Reddit| [![Card Badge](https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white)]() | https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white |
 |Meetup| ![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white) | https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white                                                             |
@@ -490,6 +496,7 @@ Para usar um badge:
 |Hashnode- |[![ Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]() | https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white |
 |Medium |[![ Badge](https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=social-square&logo=medium&logoColor=white |
 |Medium |[![ Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white |
+|Medium|[![Medium Badge](https://img.shields.io/badge/-Medium-790A56?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@martageraldo/)]()|https://img.shields.io/badge/-Medium-790A56?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@martageraldo/|
 |RSS |[![ Badge](https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=social-square&logo=rss&logoColor=white |
 |RSS |[![ Badge](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)]() | https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white |
 |Wix |[![ Badge](https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white)]() | https://img.shields.io/badge/Wix-000?style=social-square&logo=wix&logoColor=white |
@@ -2010,6 +2017,8 @@ Para usar um badge:
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green) | https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green |
 | ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) | https://github-readme-stats.vercel.app/api?username={username} |
+| ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave) | https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave |
+ 
 
 ## Resumo Status
 
@@ -2145,6 +2154,10 @@ Para usar um badge:
 | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50"/> | https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="50" height="50" |
 | <img src="https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="50"/> | https://github.com/martageraldo/awesome-badges/blob/main/img/logo-dio.png?raw=true" alt="dio" width="50" |
 
+
+# Github Snake
+
+![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)
 
 
 
