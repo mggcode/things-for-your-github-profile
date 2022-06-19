@@ -20,13 +20,58 @@ Para usar um badge:
   *  Copie e cole no seu arquivo README.md
 
 # 📚 Índice
-
+<!--
 [Analytics](#-analytics)<br>
+[IA e Bots](#-ia-e-bots)<br>
 [Mensagens](#-mensagens)<br>
 [Social](#-social)<br>
 [Email](#-email)<br>
-
-
+[Grupos](#-grupos)<br>
+[Pagamentos e Recebimentos](#-pagamentos-e-Recebimentos)<br>
+Blockchain
+Som
+Jogos
+Console Jogos
+Blog
+Browsers
+Cloud
+Educação
+ETL
+Cloud Storage
+Marcas de Smartphone
+ Forum
+Comida
+IDEs /Editores
+Frameworks / Platforms e Libraries
+Testes
+Database
+Design
+Github
+Twitter
+Made with
+Streaming
+Licenças
+Linguagens
+Linters
+Store
+Sistema Operacional
+Plataforma de Trabalho
+Controle de Versão
+ORM
+Servidores
+Terminal
+Espaço de Trabalho
+Documentation Platforms
+Troféu
+ Estatísticas
+status
+Linguagens mais usadas
+Resumo Status
+Gráficos
+Visitantes
+ Carros
+Github Snake
+-->
 
 
 ## Analytics
@@ -307,51 +352,51 @@ Para usar um badge:
 
 |NOME| BADGE                                                        | URL                                                          |
 |---| ------------------------------------------------------------ | :----------------------------------------------------------- |
-|Alipay |[![L Badge](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)]() | ```https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white ```|
-|Alipay |[![L Badge](https://img.shields.io/badge/alipay-00A1E9?style=social-square&logo=alipay&logoColor=white)]() |``` https://img.shields.io/badge/alipay-00A1E9?style=social-square&logo=alipay&logoColor=white``` |
-|Amazon |[![Card Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)]() |``` https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white``` |
-|Amazon |[![Card Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=social-square&logo=amazon%20pay&logoColor=white)]() |``` https://img.shields.io/badge/amazon%20pay-F79114?style=social-square&logo=amazon%20pay&logoColor=white ```|
-|Apple Pay |![Card Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white) |``` https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white ```|
-|Apple Pay  |![Card Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=social-square&logo=apple%20pay&logoColor=white) |``` https://img.shields.io/badge/apple%20pay-007AFF?style=social-square&logo=apple%20pay&logoColor=white ```|
-|Apple Pay  |![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white) |``` https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white``` |
-|Apple Pay  |![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=social-square&logo=Apple-Pay&logoColor=white)|``` https://img.shields.io/badge/ApplePay-000000.svg?style=social-square&logo=Apple-Pay&logoColor=white``` |
-|FamPay |[![Card Badge](https://img.shields.io/badge/fampay-FFAD00?style=for-the-badge&logo=fampay&logoColor=white)]() |``` https://img.shields.io/badge/fampay-FFAD00?style=for-the-badge&logo=fampay&logoColor=white``` |
-|FamPay  |[![Card Badge](https://img.shields.io/badge/fampay-FFAD00?style=social-square&logo=fampay&logoColor=white)]() | ```https://img.shields.io/badge/fampay-FFAD00?style=social-square&logo=fampay&logoColor=white``` |
-|Google Pay |[![Card Badge](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)]() | ```https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white``` |
-|Google Pay |[![Card Badge](https://img.shields.io/badge/G%20pay-2875E3?style=social-square&logo=googlepay&logoColor=white)]() | ```https://img.shields.io/badge/G%20pay-2875E3?style=social-square&logo=googlepay&logoColor=white ```|
-|GooglePay |![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) |``` https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white``` |
-|GooglePay |![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=social-square&logo=Google-Pay&logoColor=white) |``` https://img.shields.io/badge/GooglePay-%233780F1.svg?style=social-square&logo=Google-Pay&logoColor=white``` |
-|Ko-Fi |[![Card Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]() | ```https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white``` |
-|Ko-Fi |[![Card Badge](https://img.shields.io/badge/Ko--fi-F16061?style=social-square&logo=ko-fi&logoColor=white)]() |``` https://img.shields.io/badge/Ko--fi-F16061?style=social-square&logo=ko-fi&logoColor=white``` |
-|Liberapay |[![Card Badge](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)]() |``` https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black``` |
-|LiberaPay |[![Card Badge](https://img.shields.io/badge/Liberapay-F6C915?style=social-square&logo=liberapay&logoColor=black)]() |``` https://img.shields.io/badge/Liberapay-F6C915?style=social-square&logo=liberapay&logoColor=black``` |
-| Open Collective|[![Card Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)]() |```  (https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white``` |
-|Open Collective |[![Card Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=social-square&logo=OpenCollective&logoColor=white)]() |``` https://img.shields.io/badge/OpenCollective-1F87FF?style=social-square&logo=OpenCollective&logoColor=white ```|
-|Patreon |[![ Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]() | ```https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white``` |
-|Patreon |[![ Badge](https://img.shields.io/badge/Patreon-F96854?style=social-square&logo=patreon&logoColor=white)]() | ```https://img.shields.io/badge/Patreon-F96854?style=social-square&logo=patreon&logoColor=white``` |
-|Patreon |[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patreon.com/) |``` https://badgen.net/badge/icon/patreon?icon=patreon&label  ```   |
-|Payoneer |[![ Badge](https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white)]() | ```https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white ```|
-|Payoneer |[![ Badge](https://img.shields.io/badge/Payoneer-D73F03?style=social-square&logo=payoneer&logoColor=white)]() |``` https://img.shields.io/badge/Payoneer-D73F03?style=social-square&logo=payoneer&logoColor=white``` |
-|PayPal |[![ Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() |``` https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white``` |
-|PayPal |[![ Badge](https://img.shields.io/badge/PayPal-00457C?style=social-square&logo=paypal&logoColor=white)]() | ```https://img.shields.io/badge/PayPal-00457C?style=social-square&logo=paypal&logoColor=white``` |
-|Paytm |[![ Badge](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)]() |``` https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2 ```|
-|Paytm |[![ Badge](https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2)]() | ```https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2``` |
-|Phonepe |[![ Badge](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)]() |```https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple``` |
-|Phonepe |[![ Badge](https://img.shields.io/badge/phonepe-3DDC84?style=social-square&logo=phonepe&logoColor=white&color=purple)]() |``` https://img.shields.io/badge/phonepe-3DDC84?style=social-square&logo=phonepe&logoColor=white&color=purple``` |
-|PicPay |[![Badge](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)]() |``` https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white``` |
-|PicPay |[![Badge](https://img.shields.io/badge/picpay-21C25E?style=social-square&logo=picpay&logoColor=white)]() | ```https://img.shields.io/badge/picpay-21C25E?style=social-square&logo=picpay&logoColor=white ```|
-|Razorpay |[![badge](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)]() | ```https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF``` |
-|Razorpay |[![badge](https://img.shields.io/badge/Razorpay-02042B?style=social-square&logo=razorpay&logoColor=3395FF)]() |``` https://img.shields.io/badge/Razorpay-02042B?style=social-square&logo=razorpay&logoColor=3395FF ```|
-|Samsung Pay |[![Card Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white)]() |``` https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white ```|
-|Samsung Pay |[![Card Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=social-square&logo=samsung%20pay&logoColor=white)]() |``` https://img.shields.io/badge/samsung%20pay-1D49C0?style=social-square&logo=samsung%20pay&logoColor=white ```|
-|GitHub Sponsors |[![Card Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)]() |``` https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white``` |
-|GitHub Sponsors |[![Card Badge](https://img.shields.io/badge/sponsor-30363D?style=social-square&logo=GitHub-Sponsors&logoColor=#white)]() |``` https://img.shields.io/badge/sponsor-30363D?style=social-square&logo=GitHub-Sponsors&logoColor=#white``` |
-|Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]() |``` https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white``` |
-|Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white)]() |``` https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white``` |
+|Alipay |[![Alipay Badge](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)]() | ```[![Alipay Badge](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)]() ```|
+|Alipay |[![Alipay Badge](https://img.shields.io/badge/alipay-00A1E9?style=social-square&logo=alipay&logoColor=white)]() |``` [![Alipay Badge](https://img.shields.io/badge/alipay-00A1E9?style=social-square&logo=alipay&logoColor=white)]()``` |
+|Amazon |[![Amazon Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)]() |``` [![Amazon Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)]()``` |
+|Amazon |[![Amazon Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=social-square&logo=amazon%20pay&logoColor=white)]() |``` [![Amazon Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=social-square&logo=amazon%20pay&logoColor=white)]() ```|
+|Apple Pay |![Apple Pay Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white) |``` ![Apple Pay Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white) ```|
+|Apple Pay  |![Apple Pay Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=social-square&logo=apple%20pay&logoColor=white) |``` ![Apple Pay Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=social-square&logo=apple%20pay&logoColor=white) ```|
+|Apple Pay  |![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white) |``` ![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)``` |
+|Apple Pay  |![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=social-square&logo=Apple-Pay&logoColor=white)|``` ![Apple Pay](https://img.shields.io/badge/ApplePay-000000.svg?style=social-square&logo=Apple-Pay&logoColor=white)``` |
+|FamPay |[![FamPay Badge](https://img.shields.io/badge/fampay-FFAD00?style=for-the-badge&logo=fampay&logoColor=white)]() |``` [![FamPay Badge](https://img.shields.io/badge/fampay-FFAD00?style=for-the-badge&logo=fampay&logoColor=white)]()``` |
+|FamPay  |[![FamPay Badge](https://img.shields.io/badge/fampay-FFAD00?style=social-square&logo=fampay&logoColor=white)]() | ```[![FamPay Badge](https://img.shields.io/badge/fampay-FFAD00?style=social-square&logo=fampay&logoColor=white)]()``` |
+|Google Pay |[![Google Pay Badge](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)]() | ```[![Google Pay Badge](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)]()``` |
+|Google Pay |[![Google Pay Badge](https://img.shields.io/badge/G%20pay-2875E3?style=social-square&logo=googlepay&logoColor=white)]() | ```[![Google Pay Badge](https://img.shields.io/badge/G%20pay-2875E3?style=social-square&logo=googlepay&logoColor=white)]() ```|
+|GooglePay |![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white) |``` ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)``` |
+|GooglePay |![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=social-square&logo=Google-Pay&logoColor=white) |``` ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=social-square&logo=Google-Pay&logoColor=white)``` |
+|Ko-Fi |[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]() | ```[![Ko-Fi Badge](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]()``` |
+|Ko-Fi |[![Ko-FiBadge](https://img.shields.io/badge/Ko--fi-F16061?style=social-square&logo=ko-fi&logoColor=white)]() |``` [![Ko-FiBadge](https://img.shields.io/badge/Ko--fi-F16061?style=social-square&logo=ko-fi&logoColor=white)]()``` |
+|Liberapay |[![Liberapay Badge](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)]() |``` [![Liberapay Badge](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)]()``` |
+|LiberaPay |[![Liberapay Badge](https://img.shields.io/badge/Liberapay-F6C915?style=social-square&logo=liberapay&logoColor=black)]() |``` [![Liberapay Badge](https://img.shields.io/badge/Liberapay-F6C915?style=social-square&logo=liberapay&logoColor=black)]()``` |
+| Open Collective|[![Open Collective Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)]() |```  [![Open Collective Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)]()``` |
+|Open Collective |[![Open Collective Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=social-square&logo=OpenCollective&logoColor=white)]() |``` [![Open Collective Badge](https://img.shields.io/badge/OpenCollective-1F87FF?style=social-square&logo=OpenCollective&logoColor=white)]() ```|
+|Patreon |[![ Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]() | ```[![ Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]()``` |
+|Patreon |[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=social-square&logo=patreon&logoColor=white)]() | ```[![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=social-square&logo=patreon&logoColor=white)]()``` |
+|Patreon |[![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patreon.com/) |``` [![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patreon.com/) ```   |
+|Payoneer |[![Payoneer  Badge](https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white)]() | ```[![Payoneer  Badge](https://img.shields.io/badge/Payoneer-D73F03?style=for-the-badge&logo=payoneer&logoColor=white)]() ```|
+|Payoneer |[![Payoneer  Badge](https://img.shields.io/badge/Payoneer-D73F03?style=social-square&logo=payoneer&logoColor=white)]() |``` [![Payoneer  Badge](https://img.shields.io/badge/Payoneer-D73F03?style=social-square&logo=payoneer&logoColor=white)]()``` |
+|PayPal |[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]() |``` [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()``` |
+|PayPal |[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=social-square&logo=paypal&logoColor=white)]() | ```[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=social-square&logo=paypal&logoColor=white)]()``` |
+|Paytm |[![Paytm Badge](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)]() |``` [![Paytm Badge](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)]() ```|
+|Paytm |[![Paytm Badge](https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2)]() | ```[![Paytm Badge](https://img.shields.io/badge/Paytm-002970?style=social-square&logo=paytm&logoColor=00BAF2)]()``` |
+|Phonepe |[![Phonepe Badge](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)]() |```[![Phonepe Badge](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)]()``` |
+|Phonepe |[![Phonepe Badge](https://img.shields.io/badge/phonepe-3DDC84?style=social-square&logo=phonepe&logoColor=white&color=purple)]() |``` [![Phonepe Badge](https://img.shields.io/badge/phonepe-3DDC84?style=social-square&logo=phonepe&logoColor=white&color=purple)]()``` |
+|PicPay |[![PicPay Badge](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)]() |``` [![PicPay Badge](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)]()``` |
+|PicPay |[![PicPay Badge](https://img.shields.io/badge/picpay-21C25E?style=social-square&logo=picpay&logoColor=white)]() | ```[![PicPay Badge](https://img.shields.io/badge/picpay-21C25E?style=social-square&logo=picpay&logoColor=white)]() ```|
+|Razorpay |[![Razorpay badge](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)]() | ```[![Razorpay badge](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)]()``` |
+|Razorpay |[![Razorpay badge](https://img.shields.io/badge/Razorpay-02042B?style=social-square&logo=razorpay&logoColor=3395FF)]() |``` [![Razorpay badge](https://img.shields.io/badge/Razorpay-02042B?style=social-square&logo=razorpay&logoColor=3395FF)]() ```|
+|Samsung Pay |[![Samsung Pay Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white)]() |``` [![Samsung Pay Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white)]() ```|
+|Samsung Pay |[![Samsung Pay Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=social-square&logo=samsung%20pay&logoColor=white)]() |``` [![Samsung Pay Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=social-square&logo=samsung%20pay&logoColor=white)]() ```|
+|GitHub Sponsors |[![GitHub Sponsors Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)]() |``` [![GitHub Sponsors Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)]()``` |
+|GitHub Sponsors |[![GitHub Sponsors Badge](https://img.shields.io/badge/sponsor-30363D?style=social-square&logo=GitHub-Sponsors&logoColor=#white)]() |``` [![GitHub Sponsors Badge](https://img.shields.io/badge/sponsor-30363D?style=social-square&logo=GitHub-Sponsors&logoColor=#white)]()``` |
+|Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]() |``` [![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()``` |
+|Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white)]() |``` [![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white)]()``` |
 
 
 
-##   Sound
+##   Som
 
 
 
@@ -1575,7 +1620,7 @@ Para usar um badge:
 
 
 
-## Languages
+## Linguagens
 
 
 
