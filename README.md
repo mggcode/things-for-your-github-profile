@@ -19,6 +19,13 @@ Para usar um badge:
   *  Digite  o nome do badge que você busca.
   *  Copie e cole no seu arquivo README.md
 
+# 📚 Índice
+
+[Analytics](#-analytics)<br>
+[Mensagens](#-mensagens)<br>
+[Social](#-social)<br>
+[Email](#-email)<br>
+
 
 
 
@@ -51,7 +58,7 @@ Para usar um badge:
 |Splunk  | [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() | ``` [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() ```|
 |Splunk  | [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]() | ```[![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]()``` |
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  IA e Bots
 
@@ -72,7 +79,7 @@ Para usar um badge:
 |Dependa Bots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) |``` ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)``` |
 |Dependabots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) | ```![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) ```|
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<b>[🔙 Voltar ao Índice](#-índice)<b>
 
 ##  Mensagens
 
@@ -111,7 +118,7 @@ Para usar um badge:
 |Twitch | ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) |``` ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)```          |
 |Twitch | ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) | ```![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) ```            |
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<br>[🔙 Voltar ao Ìndice](#-índice)<br>
 
 ##  Social
 
