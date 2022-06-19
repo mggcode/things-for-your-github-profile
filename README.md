@@ -51,7 +51,7 @@ Para usar um badge:
 |Splunk  | [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() | ``` [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]() ```|
 |Splunk  | [![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]() | ```[![Splunk Badge](https://img.shields.io/badge/Splunk-000000?style=social-square&logo=Splunk&logoColor=white)]()``` |
 
-
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 ##  IA e Bots
 
@@ -72,7 +72,7 @@ Para usar um badge:
 |Dependa Bots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) |``` ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)``` |
 |Dependabots | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) | ```![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=social-square&logo=dependabot&logoColor=white) ```|
 
-
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 ##  Mensagens
 
@@ -111,7 +111,7 @@ Para usar um badge:
 |Twitch | ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) |``` ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)```          |
 |Twitch | ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) | ```![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=social-square&logo=Twitch&logoColor=white) ```            |
 
-
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 ##  Social
 
@@ -228,7 +228,7 @@ Para usar um badge:
 |Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white) | ```![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)```|
 |Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white) | ```![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white)```|
 
-
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 #  Blockchain
 
@@ -259,7 +259,7 @@ Para usar um badge:
 |Tutanota| [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]() |``` [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]()``` |
 |Tutanota | [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]() |``` [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]()``` |
 
-
+<br>[🔙 Voltar ao início](../README.md)<br>
 
 ## Grupos
 
