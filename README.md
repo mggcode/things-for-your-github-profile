@@ -1,7 +1,6 @@
 
 
-[![](
-https://github.com/martageraldo/awesome-badges/blob/main/markdown.png)]()
+[![](https://github.com/martageraldo/awesome-badges/blob/main/markdown.png)]()
 
 
 
@@ -948,8 +947,8 @@ Para usar um badge:
 |Babel|![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=social-square&logo=babel&logoColor=black) |```https://img.shields.io/badge/Babel-F9DC3e?style=social-square&logo=babel&logoColor=black```|
 |Backbone js |![Backbone js badge](https://img.shields.io/badge/backbone%20js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=white) |``` https://img.shields.io/badge/backbone%20js-0071B5?style=for-the-badge&logo=backbone.js&logoColor=white ```|
 |Backbone js |![Backbone js badge](https://img.shields.io/badge/backbone%20js-0071B5?style=social-square&logo=backbone.js&logoColor=white) | ``` https://img.shields.io/badge/backbone%20js-0071B5?style=social-square&logo=backbone.js&logoColor=white ```|
-|Bootstrap |![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |``` https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white ```|
-|Bootstrap |!Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=social-square&logo=bootstrap&logoColor=white) | ```https://img.shields.io/badge/Bootstrap-563D7C?style=social-square&logo=bootstrap&logoColor=white``` |
+|Bootstrap | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |``` https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white ```|
+|Bootstrap | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=social-square&logo=bootstrap&logoColor=white) | ```https://img.shields.io/badge/Bootstrap-563D7C?style=social-square&logo=bootstrap&logoColor=white``` |
 |Chakra UI |![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) | ```https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white``` |
 |Chakra UI |![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=social-square&logo=chakra-ui&logoColor=white) | ```https://img.shields.io/badge/Chakra--UI-319795?style=social-square&logo=chakra-ui&logoColor=white ```|
 |Chakra|![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) | ```https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white ```|
