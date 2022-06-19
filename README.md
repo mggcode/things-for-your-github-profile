@@ -81,9 +81,9 @@ Para usar um badge:
 | NAME | BADGE                                                        | URL                                                          |
 |-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
 |Whatsapp | [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]() |``` [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=social-square&logo=whatsapp&logoColor=white)]()``` |
-|Whatssapp | [![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() |``` [![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()``` |
-|ICQ | [![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]() |``` [![Card Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]()``` |
-|ICQ | [![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() | ```[![Card Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() ```|
+|Whatsapp | [![Card Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() |``` [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()``` |
+|ICQ | [![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]() |``` [![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)]()``` |
+|ICQ | [![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() | ```[![ICQ Badge](https://img.shields.io/badge/icq_new-black?style=social-square&logo=icq&logolColor=42F425)]() ```|
 |KiK | [![KiK Badge](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)]() | ```[![KiK Badge](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)]()``` |
 |KiK | [![KiK Badge](https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white)]() | ```[![KiK Badge](https://img.shields.io/badge/Kik-5AC710?style=social-square&logo=kik&logoColor=white)]()``` |
 |Matrix | [![Matrix Badge](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)]() |``` [![Matrix Badge](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)]() ``` |
@@ -234,8 +234,8 @@ Para usar um badge:
 
 |NOME| BADGE                                                        | URL                                                          |
 |----| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|Hyperledger| [![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]() | ``` https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white ``` |
-|Hyperledger |[![Card Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]() | ``` https://img.shields.io/badge/hyperledger-2F3134?style=social-squae&logo=hyperledger&logoColor=white ``` |
+|Hyperledger| [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]() | ``` [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)]()``` |
+|Hyperledger | [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]() | ``` [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]()``` |
 
 
 
