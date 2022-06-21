@@ -959,12 +959,12 @@ Github Snake
 
 |Nome | BADGE                                                        | URL                                                          |
 |-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
-|.NET |![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ```https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white ``` |
-|.NET |![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=social-square&logo=dotnet&logoColor=white) | ```https://img.shields.io/badge/.NET-512BD4?style=social-square&logo=dotnet&logoColor=white ```|
-|.NET |![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ```https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white``` |
-|.NET |![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=social-square&logo=.net&logoColor=white) | ```https://img.shields.io/badge/.NET-5C2D91?style=social-square&logo=.net&logoColor=white ``` |
-|Adonis Js |[![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)]() |``` https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white``` |
-|Adonis Js |[![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=social-square&logo=adonisjs&logoColor=white)]() | ``` https://img.shields.io/badge/adonis%20js-220052?style=social-square&logo=adonisjs&logoColor=white``` |
+|.NET |![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ```![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ``` |
+|.NET |![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=social-square&logo=dotnet&logoColor=white) | ```![.NET badge](https://img.shields.io/badge/.NET-512BD4?style=social-square&logo=dotnet&logoColor=white) ```|
+|.NET |![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | ```![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)``` |
+|.NET |![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=social-square&logo=.net&logoColor=white) | ```![.NET badge](https://img.shields.io/badge/.NET-5C2D91?style=social-square&logo=.net&logoColor=white) ``` |
+|Adonis Js |[![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)]() |``` [![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)]()``` |
+|Adonis Js | [![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=social-square&logo=adonisjs&logoColor=white)]() | ``` [![Adonis Js badge](https://img.shields.io/badge/adonis%20js-220052?style=social-square&logo=adonisjs&logoColor=white)]()``` |
 |Anaconda |![Anaconda badge](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) | ``` https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white ```|
 |Anaconda |![Anaconda badge](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=social-square&logo=anaconda&logoColor=white) | ``` https://img.shields.io/badge/Anaconda-%2344A833.svg?style=social-square&logo=anaconda&logoColor=white ``` |
 |AlpineJS |![AlpineJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black) |  ```https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black``` |
