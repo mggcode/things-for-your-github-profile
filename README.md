@@ -2045,34 +2045,34 @@ Github Snake
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo) | https://img.shields.io/badge/Say-Thanks-ff69b4.svg           |
-| ![Awesome Badges](https://img.shields.io/badge/Badge-awesome-purple.svg) | https://img.shields.io/badge/Badge-awesome-purple.svg        |
-| [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) | https://badges.frapsoft.com/os/v3/open-source.svg?v=103      |
-| [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) | https://badges.frapsoft.com/os/v2/open-source.svg?v=103      |
-| [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) | https://badges.frapsoft.com/os/v1/open-source.svg?v=103      |
-| [![name badge](https://badgen.net/badge/Tornar-se/um%20apoiador/F96854)]() | https://badgen.net/badge/Tornar-se/um%20apoiador/F96854      |
-| [![name badge](https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)]() | https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86 |
-| [![https://github.com/Nathan13888/VisitorBadgeReloaded](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15) | https://github.com/Nathan13888/VisitorBadgeReloaded](url do artigo) |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) | https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 |
-| ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=social-square&logo=firefox&logoColor=#FF7139) | https://img.shields.io/badge/Portfolio-%23000000.svg?style=social-square&logo=firefox&logoColor=#FF7139 |
-| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) | https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi |
-| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=social-square&logo=Raspberry-Pi) | https://img.shields.io/badge/-RaspberryPi-C51A4A?style=social-square&logo=Raspberry-Pi |
-| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white |
-| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=social-square&logo=terraform&logoColor=white) | https://img.shields.io/badge/terraform-%235835CC.svg?style=social-square&logo=terraform&logoColor=white |
-| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white |
-| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=social-square&logo=Trello&logoColor=white) | https://img.shields.io/badge/Trello-%23026AA7.svg?style=social-square&logo=Trello&logoColor=white |
-| ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) | https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white |
-| ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=social-square&logo=vagrant&logoColor=white) | https://img.shields.io/badge/vagrant-%231563FF.svg?style=social-square&logo=vagrant&logoColor=white |
-| ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) | https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white |
-| ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=social-square&logo=xfce&logoColor=white) | https://img.shields.io/badge/XFCE-%232284F2.svg?style=social-square&logo=xfce&logoColor=white |
-| ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8) | https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8 |
-| ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=social-square&logo=aqua&logoColor=#0018A8) | https://img.shields.io/badge/aqua-%231904DA.svg?style=social-square&logo=aqua&logoColor=#0018A8 |
-| ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) | https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred |
-| ![Alfred](https://img.shields.io/badge/Alfred-%235C1F87.svg?style=social-square&logo=alfred) | https://img.shields.io/badge/Alfred-%235C1F87.svg?style=social-square&logo=alfred |
-| ![](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) | https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white |
-| ![](https://img.shields.io/badge/Uber-%23000000.svg?style=social-square&logo=Uber&logoColor=white) | https://img.shields.io/badge/Uber-%23000000.svg?style=social-square&logo=Uber&logoColor=white |
-| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) |                                                              |
-| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=social-square&logo=Airtable&logoColor=white) |                                                              |
+| [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo) |``` [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo)         ``` |
+| ![Awesome Badges](https://img.shields.io/badge/Badge-awesome-purple.svg) |``` ![Awesome Badges](https://img.shields.io/badge/Badge-awesome-purple.svg)     ```|
+| [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) |```[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/)  ``` |
+| [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) |``` [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/)  ``` |
+| [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) |``` https://badges.frapsoft.com/os/v1/open-source.svg?v=103 ``` |
+| [![name badge](https://badgen.net/badge/Tornar-se/um%20apoiador/F96854)]() |``` https://badgen.net/badge/Tornar-se/um%20apoiador/F96854  ```|
+| [![name badge](https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86)]() |``` https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86 ```|
+| [![https://github.com/Nathan13888/VisitorBadgeReloaded](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15) |``` https://github.com/Nathan13888/VisitorBadgeReloaded](url do artigo) ```|
+| ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) | ```https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 ```|
+| ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=social-square&logo=firefox&logoColor=#FF7139) |``` https://img.shields.io/badge/Portfolio-%23000000.svg?style=social-square&logo=firefox&logoColor=#FF7139 ```|
+| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) | ```https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi``` |
+| ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=social-square&logo=Raspberry-Pi) |``` https://img.shields.io/badge/-RaspberryPi-C51A4A?style=social-square&logo=Raspberry-Pi ```|
+| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |``` https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white ```|
+| ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=social-square&logo=terraform&logoColor=white) | ```https://img.shields.io/badge/terraform-%235835CC.svg?style=social-square&logo=terraform&logoColor=white``` |
+| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | ```https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white ```|
+| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=social-square&logo=Trello&logoColor=white) | ```https://img.shields.io/badge/Trello-%23026AA7.svg?style=social-square&logo=Trello&logoColor=white``` |
+| ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) | ```https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white``` |
+| ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=social-square&logo=vagrant&logoColor=white) |``` https://img.shields.io/badge/vagrant-%231563FF.svg?style=social-square&logo=vagrant&logoColor=white ```|
+| ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) |``` https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white``` |
+| ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=social-square&logo=xfce&logoColor=white) | ```https://img.shields.io/badge/XFCE-%232284F2.svg?style=social-square&logo=xfce&logoColor=white ```|
+| ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8) | ```https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8 ```|
+| ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=social-square&logo=aqua&logoColor=#0018A8) | ```![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=social-square&logo=aqua&logoColor=#0018A8) ```|
+| ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) |``` ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)``` |
+| ![Alfred](https://img.shields.io/badge/Alfred-%235C1F87.svg?style=social-square&logo=alfred) |``` ![Alfred](https://img.shields.io/badge/Alfred-%235C1F87.svg?style=social-square&logo=alfred) ```|
+| ![](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) |``` ![](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ```|
+| ![](https://img.shields.io/badge/Uber-%23000000.svg?style=social-square&logo=Uber&logoColor=white) | ```![](https://img.shields.io/badge/Uber-%23000000.svg?style=social-square&logo=Uber&logoColor=white) ```|
+| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) | ``` ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)```                                                            |
+| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=social-square&logo=Airtable&logoColor=white) |  ```![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=social-square&logo=Airtable&logoColor=white)  ```                                                         |
 
 
 
@@ -2082,7 +2082,7 @@ Github Snake
 
 | BADGE                                                        | URL(https://github.com/Envoy-VC/Badges-for-GitHub)        |
 | ------------------------------------------------------------ | --------------------------------------------------------- |
-| [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]() | https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg |
+| [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]() |``` [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]() ```|
 
 
 
