@@ -2104,23 +2104,23 @@ Github Snake
 
 
 
-| BADGE                                                        | URL                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------ |
-| ![](https://aleen42.github.io/badges/src/lamborghini.svg) |``` ![](https://aleen42.github.io/badges/src/lamborghini.svg)```   |
-| ![](https://aleen42.github.io/badges/src/bugatti.svg) | ```![](https://aleen42.github.io/badges/src/bugatti.svg) ```      |
-| ![](https://aleen42.github.io/badges/src/porsche.svg)| ```![](https://aleen42.github.io/badges/src/porsche.svg) ```      |
-| ![](https://aleen42.github.io/badges/src/tesla.svg) |``` ![](https://aleen42.github.io/badges/src/tesla.svg) ```        |
-| ![](https://aleen42.github.io/badges/src/ferrari.svg) | ```![](https://aleen42.github.io/badges/src/ferrari.svg) ```    |
-| ![](https://aleen42.github.io/badges/src/toyota.svg) | ```![](https://aleen42.github.io/badges/src/toyota.svg) ```       |
-| ![](https://aleen42.github.io/badges/src/mitsubishi.svg) | ```![](https://aleen42.github.io/badges/src/mitsubishi.svg```    |
-| ![](https://aleen42.github.io/badges/src/maserati.svg) | ```![](https://aleen42.github.io/badges/src/maserati.svg)```  |
-| ![](https://aleen42.github.io/badges/src/marussia.svg) | ```![](https://aleen42.github.io/badges/src/marussia.svg) ```   |
-| ![](https://aleen42.github.io/badges/src/koenigsegg.svg) | ```![](https://aleen42.github.io/badges/src/koenigsegg.svg) ```   |
-| ![](https://aleen42.github.io/badges/src/bmw.svg) | ```![](https://aleen42.github.io/badges/src/bmw.svg)```    |
-| ![](https://aleen42.github.io/badges/src/land_rover.svg) | ```![](https://aleen42.github.io/badges/src/land_rover.svg) ```  |
-| ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) |``` ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) ```|
-| ![](https://aleen42.github.io/badges/src/audi.svg) | ```![](https://aleen42.github.io/badges/src/audi.svg)  ```       |
-| Créditos:                                                    | https://github.com/Envoy-VC/                           |
+|Nome | BADGE                                                        | URL                                                    |
+|--| ------------------------------------------------------------ | ------------------------------------------------------ |
+|Lamborghini| ![](https://aleen42.github.io/badges/src/lamborghini.svg) |``` ![](https://aleen42.github.io/badges/src/lamborghini.svg)```   |
+|Bugatti| ![](https://aleen42.github.io/badges/src/bugatti.svg) | ```![](https://aleen42.github.io/badges/src/bugatti.svg) ```      |
+|Porsche| ![](https://aleen42.github.io/badges/src/porsche.svg)| ```![](https://aleen42.github.io/badges/src/porsche.svg) ```      |
+|Tesla| ![](https://aleen42.github.io/badges/src/tesla.svg) |``` ![](https://aleen42.github.io/badges/src/tesla.svg) ```        |
+|Ferrari| ![](https://aleen42.github.io/badges/src/ferrari.svg) | ```![](https://aleen42.github.io/badges/src/ferrari.svg) ```    |
+|Toyota| ![](https://aleen42.github.io/badges/src/toyota.svg) | ```![](https://aleen42.github.io/badges/src/toyota.svg) ```       |
+|Mitsubishi| ![](https://aleen42.github.io/badges/src/mitsubishi.svg) | ```![](https://aleen42.github.io/badges/src/mitsubishi.svg```    |
+|Maserati| ![](https://aleen42.github.io/badges/src/maserati.svg) | ```![](https://aleen42.github.io/badges/src/maserati.svg)```  |
+|Marussia| ![](https://aleen42.github.io/badges/src/marussia.svg) | ```![](https://aleen42.github.io/badges/src/marussia.svg) ```   |
+|Koenigsegg| ![](https://aleen42.github.io/badges/src/koenigsegg.svg) | ```![](https://aleen42.github.io/badges/src/koenigsegg.svg) ```   |
+|BMW| ![](https://aleen42.github.io/badges/src/bmw.svg) | ```![](https://aleen42.github.io/badges/src/bmw.svg)```    |
+|LandRover| ![](https://aleen42.github.io/badges/src/land_rover.svg) | ```![](https://aleen42.github.io/badges/src/land_rover.svg) ```  |
+|Mercedes Benz| ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) |``` ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) ```|
+|Audi| ![](https://aleen42.github.io/badges/src/audi.svg) | ```![](https://aleen42.github.io/badges/src/audi.svg)  ```       |
+|| Créditos:                                                    | https://github.com/Envoy-VC/                           |
 
 
 
@@ -2139,7 +2139,7 @@ Github Snake
 |Git| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> | ``` <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> ```|
 |Flutter| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> ```|
 |Go| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> ```|
-|| <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/> ```|
+|Hexo| <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="50" height="50"/> ```|
 |Java| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> ``` |
 |Html5| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> ```|
 |Javascript| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> ```|
@@ -2149,7 +2149,7 @@ Github Snake
 |Linux| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>``` |
 |Mongo db| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> ```|
 |Mysql| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>``` |
-|nginx| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> ```|
+|Nginx| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> ```|
 |Nodejs| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>``` |
 |PostgreSQL| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> ``` |
 |Python| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> ```|
