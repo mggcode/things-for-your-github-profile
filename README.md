@@ -1314,18 +1314,18 @@ Github Snake
 
 |   NOME           |          BADGE                                                    | URL     |
 | --------------- | ------------------------------------------------------------ | ---- |
-| Cypress | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) |https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e      |
-|Cypress | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e) |https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e      |
-| Jasmine | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) |Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white      |
-| Jasmine  | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white) |https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white      |
-| Jest   | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white      |
-|   Jest | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white) |https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white      |
-| Mocha | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) |https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white      |
-| Mocha   | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white) |https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white      |
-| Selenium | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white      |
-| Selenium | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white) |https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white      |
-| Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) |https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white      |
-|Testing Library| ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) |https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white      |
+| Cypress | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) |```https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e   ``` |
+|Cypress | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e) |```https://img.shields.io/badge/-cypress-%23E5E5E5?style=social-square&logo=cypress&logoColor=058a5e ``` |
+| Jasmine | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) |```Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white ``` |
+| Jasmine  | ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white) |```https://img.shields.io/badge/-Jasmine-%238A4182?style=social-square&logo=Jasmine&logoColor=white  ``` |
+| Jest   | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |```https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white ``` |
+|   Jest | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white) |```https://img.shields.io/badge/-jest-%23C21325?style=social-square&logo=jest&logoColor=white ```  |
+| Mocha | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) |```https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white ```  |
+| Mocha   | ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white) |```https://img.shields.io/badge/-mocha-%238D6748?style=social-square&logo=mocha&logoColor=white ```  |
+| Selenium | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) |```https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white ``` |
+| Selenium | ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white) |```https://img.shields.io/badge/-selenium-%43B02A?style=social-square&logo=selenium&logoColor=white ```  |
+| Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) |```https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white ``` |
+|Testing Library| ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) |```https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white ```|
 
 
 
@@ -1335,52 +1335,52 @@ Github Snake
 
 |NOME | BADGE                                                        | URL                                                          |
 |-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
-|Amazon DynamoDB| ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) | https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white |
-|Amazon DynamoDB| ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=social-square&logo=Amazon%20DynamoDB&logoColor=white) | https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=social-square&logo=Amazon%20DynamoDB&logoColor=white |
-|ArangoDB| ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white) | https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white |
-|ArangoDB| ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=social-square&logo=ArangoDB&logoColor=white) | https://img.shields.io/badge/ArangoDB-DDE072?style=social-square&logo=ArangoDB&logoColor=white |
-|Cassandra| [![cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)]() | https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white |
-|Cassandra| [![cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=social-square&logo=apache%20cassandra&logoColor=white)]() | https://img.shields.io/badge/Cassandra-1287B1?style=social-square&logo=apache%20cassandra&logoColor=white |
-|Cockroach Labs| ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) | https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white |
-|Cockroach Labs| ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=social-square&logo=Cockroach%20Labs&logoColor=white) | https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=social-square&logo=Cockroach%20Labs&logoColor=white |
-|Realm| ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) | https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white |
-|Realm| ![Realm](https://img.shields.io/badge/Realm-39477F?style=social-square&logo=realm&logoColor=white) | https://img.shields.io/badge/Realm-39477F?style=social-square&logo=realm&logoColor=white |
-|Couchbase| ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) | https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white |
-|Couchbase| ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=social-square&logo=couchbase&logoColor=white) | https://img.shields.io/badge/Couchbase-EA2328?style=social-square&logo=couchbase&logoColor=white |
-|Elastic Search| [![Elastic_Search Badge](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://codepen.io/fulano) | https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white |
-|Elastic Search| [![Elastic Search Badge](https://img.shields.io/badge/Elastic_Search-005571?style=social-square&logo=elasticsearch&logoColor=white)](https://codepen.io/fulano) | https://img.shields.io/badge/Elastic_Search-005571?style=social-square&logo=elasticsearch&logoColor=white |
-|InfluxDB| ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) | https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white |
-|InfluxDB| ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=social-square&logo=InfluxDB&logoColor=white) | https://img.shields.io/badge/InfluxDB-22ADF6?style=social-square&logo=InfluxDB&logoColor=white |
-|MariaDB| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white |
-|MariaDB| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=social-square&logo=mariadb&logoColor=white) | https://img.shields.io/badge/MariaDB-003545?style=social-square&logo=mariadb&logoColor=white |
-|Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white |
-|Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=social-square&logo=microsoft%20sql%20server&logoColor=white) | https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=social-square&logo=microsoft%20sql%20server&logoColor=white |
-|MongoDB| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white |
-|MongoDB| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=social-square&logo=mongodb&logoColor=white) | https://img.shields.io/badge/MongoDB-4EA94B?style=social-square&logo=mongodb&logoColor=white |
-|MySQL| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white |
-|MySQL| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=social-square&logo=mysql&logoColor=white) | https://img.shields.io/badge/MySQL-005C84?style=social-square&logo=mysql&logoColor=white |
-|MySQL| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white |
-|MySQL| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=social-square&logo=mysql&logoColor=white) | https://img.shields.io/badge/mysql-%2300f.svg?style=social-square&logo=mysql&logoColor=white |
-|MusicBrainz| ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) | https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F |
-|MusicBrainz| ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=social-square&logo=musicbrainz&logoColor=BA478F) | https://img.shields.io/badge/Musicbrainz-EB743B?style=social-square&logo=musicbrainz&logoColor=BA478F |
-|Neo4j| ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white) | https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white |
-|Neo4j| ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=social-square&logo=neo4j&logoColor=white) | https://img.shields.io/badge/Neo4j-018bff?style=social-square&logo=neo4j&logoColor=white |
-|PostgreSQL| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white |
-|PostgreSQL| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=social-square&logo=postgresql&logoColor=white) | https://img.shields.io/badge/PostgreSQL-316192?style=social-square&logo=postgresql&logoColor=white |
-|Postgres| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white |
-|Postgres| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=social-square&logo=postgresql&logoColor=white) | https://img.shields.io/badge/postgres-%23316192.svg?style=social-square&logo=postgresql&logoColor=white |
-|Single Store| ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) | https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white |
-|Single Store| ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=social-square&logo=singlestore&logoColor=white) | https://img.shields.io/badge/Single%20Store-AA00FF?style=social-square&logo=singlestore&logoColor=white |
-|RabbitMQ| ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) | https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white |
-|RabbitMQ| ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=social-square&logo=rabbitmq&logoColor=white) | https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=social-square&logo=rabbitmq&logoColor=white |
-|Redis| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) | https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white |
-|Redis| ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=social-square&logo=redis&logoColor=white) | https://img.shields.io/badge/Cypress-17202C?style=social-square&logo=cypress&logoColor=white |
-|SQLite| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white |
-|SQLite| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=social-square&logo=sqlite&logoColor=white) | https://img.shields.io/badge/SQLite-07405E?style=social-square&logo=sqlite&logoColor=white |
-|Supabase| ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) | https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white |
-|Supabase| ![Supabase](https://img.shields.io/badge/Supabase-181818?style=social-square&logo=supabase&logoColor=white) | https://img.shields.io/badge/Supabase-181818?style=social-square&logo=supabase&logoColor=white |
-|supabase| ![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white |
-|supabase| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white) | https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white |
+|Amazon DynamoDB| ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) | ```https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white ```|
+|Amazon DynamoDB| ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=social-square&logo=Amazon%20DynamoDB&logoColor=white) |``` https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=social-square&logo=Amazon%20DynamoDB&logoColor=white``` |
+|ArangoDB| ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white) |``` https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge&logo=ArangoDB&logoColor=white``` |
+|ArangoDB| ![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=social-square&logo=ArangoDB&logoColor=white) |``` https://img.shields.io/badge/ArangoDB-DDE072?style=social-square&logo=ArangoDB&logoColor=white ```|
+|Cassandra| [![cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)]() |``` https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white``` |
+|Cassandra| [![cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=social-square&logo=apache%20cassandra&logoColor=white)]() |``` https://img.shields.io/badge/Cassandra-1287B1?style=social-square&logo=apache%20cassandra&logoColor=white``` |
+|Cockroach Labs| ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) |``` https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white ```|
+|Cockroach Labs| ![Cockroach Labs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=social-square&logo=Cockroach%20Labs&logoColor=white) |``` https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=social-square&logo=Cockroach%20Labs&logoColor=white``` |
+|Realm| ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) |``` https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white ```|
+|Realm| ![Realm](https://img.shields.io/badge/Realm-39477F?style=social-square&logo=realm&logoColor=white) | ```https://img.shields.io/badge/Realm-39477F?style=social-square&logo=realm&logoColor=white ```|
+|Couchbase| ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) |``` https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white``` |
+|Couchbase| ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=social-square&logo=couchbase&logoColor=white) |``` https://img.shields.io/badge/Couchbase-EA2328?style=social-square&logo=couchbase&logoColor=white ```|
+|Elastic Search| [![Elastic_Search Badge](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://codepen.io/fulano) |``` https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white ```|
+|Elastic Search| [![Elastic Search Badge](https://img.shields.io/badge/Elastic_Search-005571?style=social-square&logo=elasticsearch&logoColor=white)](https://codepen.io/fulano) | ```https://img.shields.io/badge/Elastic_Search-005571?style=social-square&logo=elasticsearch&logoColor=white``` |
+|InfluxDB| ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) | ```https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white``` |
+|InfluxDB| ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=social-square&logo=InfluxDB&logoColor=white) |``` https://img.shields.io/badge/InfluxDB-22ADF6?style=social-square&logo=InfluxDB&logoColor=white``` |
+|MariaDB| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ```https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white``` |
+|MariaDB| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=social-square&logo=mariadb&logoColor=white) | ```https://img.shields.io/badge/MariaDB-003545?style=social-square&logo=mariadb&logoColor=white ```|
+|Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) |``` https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white ```|
+|Microsoft SQL Server| ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=social-square&logo=microsoft%20sql%20server&logoColor=white) |``` https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=social-square&logo=microsoft%20sql%20server&logoColor=white ```|
+|MongoDB| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ```https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white``` |
+|MongoDB| ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=social-square&logo=mongodb&logoColor=white) | ```https://img.shields.io/badge/MongoDB-4EA94B?style=social-square&logo=mongodb&logoColor=white ```|
+|MySQL| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ```https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white``` |
+|MySQL| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=social-square&logo=mysql&logoColor=white) | ```https://img.shields.io/badge/MySQL-005C84?style=social-square&logo=mysql&logoColor=white ```|
+|MySQL| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ```https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white ```|
+|MySQL| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=social-square&logo=mysql&logoColor=white) | ```https://img.shields.io/badge/mysql-%2300f.svg?style=social-square&logo=mysql&logoColor=white ```|
+|MusicBrainz| ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F) |``` https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F ```|
+|MusicBrainz| ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=social-square&logo=musicbrainz&logoColor=BA478F) |``` ```https://img.shields.io/badge/Musicbrainz-EB743B?style=social-square&logo=musicbrainz&logoColor=BA478F ```|
+|Neo4j| ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white) | ```https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white``` |
+|Neo4j| ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=social-square&logo=neo4j&logoColor=white) | ```https://img.shields.io/badge/Neo4j-018bff?style=social-square&logo=neo4j&logoColor=white ```|
+|PostgreSQL| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |``` https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white``` |
+|PostgreSQL| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=social-square&logo=postgresql&logoColor=white) |``` https://img.shields.io/badge/PostgreSQL-316192?style=social-square&logo=postgresql&logoColor=white``` |
+|Postgres| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |``` https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white ```|
+|Postgres| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=social-square&logo=postgresql&logoColor=white) | ```https://img.shields.io/badge/postgres-%23316192.svg?style=social-square&logo=postgresql&logoColor=white ```|
+|Single Store| ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) |``` https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white |
+|Single Store| ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=social-square&logo=singlestore&logoColor=white) | https://img.shields.io/badge/Single%20Store-AA00FF?style=social-square&logo=singlestore&logoColor=white ```|
+|RabbitMQ| ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white) |``` https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white ```|
+|RabbitMQ| ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=social-square&logo=rabbitmq&logoColor=white) |```https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=social-square&logo=rabbitmq&logoColor=white ```|
+|Redis| ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) | ```https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white ```|
+|Redis| ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=social-square&logo=redis&logoColor=white) | ```https://img.shields.io/badge/Cypress-17202C?style=social-square&logo=cypress&logoColor=white ```|
+|SQLite| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |``` https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white```|
+|SQLite| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=social-square&logo=sqlite&logoColor=white) | ```https://img.shields.io/badge/SQLite-07405E?style=social-square&logo=sqlite&logoColor=white ```|
+|Supabase| ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) | ```https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white ```|
+|Supabase| ![Supabase](https://img.shields.io/badge/Supabase-181818?style=social-square&logo=supabase&logoColor=white) |``` https://img.shields.io/badge/Supabase-181818?style=social-square&logo=supabase&logoColor=white``` |
+|supabase| ![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |``` https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white ```|
+|supabase| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white) |``` https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white ```|
 
 
 
@@ -2092,10 +2092,11 @@ Github Snake
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors) | https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) | https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) | https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors |
-| CrÃ©ditos:                                                    | https://github.com/jwenjian/                                 |
+| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors)``` |
+| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes)``` |
+| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) |```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)``` |
+ | ![visitor badge](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS) | ```![visitor badge](![](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS)```|
+| Créditos:                                                    | ```https://github.com/jwenjian/ ```                                |
 
 
 
@@ -2105,20 +2106,20 @@ Github Snake
 
 | BADGE                                                        | URL                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------ |
-| <img src="https://aleen42.github.io/badges/src/lamborghini.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/lamborghini.svg   |
-| <img src="https://aleen42.github.io/badges/src/bugatti.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/bugatti.svg       |
-| <img src="https://aleen42.github.io/badges/src/porsche.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/porsche.svg       |
-| <img src="https://aleen42.github.io/badges/src/tesla.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/tesla.svg         |
-| <img src="https://aleen42.github.io/badges/src/ferrari.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/ferrari.svg       |
-| <img src="https://aleen42.github.io/badges/src/toyota.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/toyota.svg        |
-| <img src="https://aleen42.github.io/badges/src/mitsubishi.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/mitsubishi.svg    |
-| <img src="https://aleen42.github.io/badges/src/maserati.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/maserati.svg      |
-| <img src="https://aleen42.github.io/badges/src/marussia.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/marussia.svg      |
-| <img src="https://aleen42.github.io/badges/src/koenigsegg.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/koenigsegg.svg    |
-| <img src="https://aleen42.github.io/badges/src/bmw.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/bmw.svg           |
-| <img src="https://aleen42.github.io/badges/src/land_rover.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/land_rover.svg    |
-| <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/mercedes_benz.svg |
-| <img src="https://aleen42.github.io/badges/src/audi.svg" alt="name badge" style="zoom:140%;" /> | https://aleen42.github.io/badges/src/audi.svg          |
+| ![](https://aleen42.github.io/badges/src/lamborghini.svg) |``` ![](https://aleen42.github.io/badges/src/lamborghini.svg)```   |
+| ![](https://aleen42.github.io/badges/src/bugatti.svg) | ```![](https://aleen42.github.io/badges/src/bugatti.svg) ```      |
+| ![](https://aleen42.github.io/badges/src/porsche.svg)| ```![](https://aleen42.github.io/badges/src/porsche.svg) ```      |
+| ![](https://aleen42.github.io/badges/src/tesla.svg) |``` ![](https://aleen42.github.io/badges/src/tesla.svg) ```        |
+| ![](https://aleen42.github.io/badges/src/ferrari.svg) | ```![](https://aleen42.github.io/badges/src/ferrari.svg) ```    |
+| ![](https://aleen42.github.io/badges/src/toyota.svg) | ```![](https://aleen42.github.io/badges/src/toyota.svg) ```       |
+| ![](https://aleen42.github.io/badges/src/mitsubishi.svg) | ```![](https://aleen42.github.io/badges/src/mitsubishi.svg```    |
+| ![](https://aleen42.github.io/badges/src/maserati.svg) | ```![](https://aleen42.github.io/badges/src/maserati.svg)```  |
+| ![](https://aleen42.github.io/badges/src/marussia.svg) | ```![](https://aleen42.github.io/badges/src/marussia.svg) ```   |
+| ![](https://aleen42.github.io/badges/src/koenigsegg.svg) | ```![](https://aleen42.github.io/badges/src/koenigsegg.svg) ```   |
+| ![](https://aleen42.github.io/badges/src/bmw.svg) | ```![](https://aleen42.github.io/badges/src/bmw.svg)```    |
+| ![](https://aleen42.github.io/badges/src/land_rover.svg) | ```![](https://aleen42.github.io/badges/src/land_rover.svg) ```  |
+| ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) |``` ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) ```|
+| ![](https://aleen42.github.io/badges/src/audi.svg) | ```![](https://aleen42.github.io/badges/src/audi.svg)  ```       |
 | Créditos:                                                    | https://github.com/Envoy-VC/                           |
 
 
