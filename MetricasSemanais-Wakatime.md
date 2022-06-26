@@ -1,5 +1,7 @@
-# Wakatime Weekly Metrics
+# <img src="https://cdn-icons-png.flaticon.com/512/1340/1340003.png"  width="35"/> Wakatime Weekly Metrics
 
+           
+          
 
 WakaTime dá uma ideia do tempo que você efetivamente codificou.
 
@@ -45,9 +47,12 @@ jobs:
 ```
 <br>
 
+No final ele ficará semelhante a imagem abaixo. <br>
+
 ![Wakatime](https://github.com/martageraldo/awesome-badges/blob/main/img/wakatimeimg.jpg?raw=true)
 
 <br>
+
 
 Referência:
 <a href="https://github.com/Gapur" target="_blank" >Gapur</a>
