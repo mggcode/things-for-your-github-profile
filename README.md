@@ -744,12 +744,12 @@ Github Snake
 
 | Name| Badge                                                        | URL                                                          |
 |-----|  ------------------------------------------------------------ | ------------------------------------------------------------ |
-|Databricks | [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]() |``` https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white ```|
-|Databricks | [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=social-square&logo=Databricks&logoColor=white)]() |``` https://img.shields.io/badge/Databricks-FF3621?style=social-square&logo=Databricks&logoColor=white``` |
-|Talend | [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)]() |``` https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white``` |
-|Talend | [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white)]() |``` https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white ```|
-|Spark AR | [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() |``` https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white ```|
-|Spark AR | [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]() |``` https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white``` |
+|Databricks | [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]() |```  [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)]() ```|
+|Databricks | [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=social-square&logo=Databricks&logoColor=white)]() |``` [![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?style=social-square&logo=Databricks&logoColor=white)]()``` |
+|Talend | [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)]() |``` [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)]()``` |
+|Talend | [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white)]() |``` [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white)]() ```|
+|Spark AR | [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() |``` [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() ```|
+|Spark AR | [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]() |```  [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]()``` |
 
 
 
