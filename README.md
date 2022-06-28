@@ -730,11 +730,11 @@ Github Snake
 |Progate |[![Progate Badge](https://img.shields.io/badge/Progate-380953?style=social-square&logo=progate&logoColor=white)]() |``` [![Progate Badge](https://img.shields.io/badge/Progate-380953?style=social-square&logo=progate&logoColor=white)]()``` |
 |Progate |[![Progate Badge](https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white)]() |``` [![Progate Badge](https://img.shields.io/badge/Progate-380953?style=for-the-badge&logo=progate&logoColor=white)]() ```|
 |Progate |[![Progate Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=social-square&logo=Pluralsight&logoColor=white)]() |``` [![Progate Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=social-square&logo=Pluralsight&logoColor=white)]()```|
-|Pluralsight |[![Pluralsight Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)]() |``` https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white ```|
-|Pluralsight |![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white) |``` https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white ```|
-|Pluralsight |![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white) |``` https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white ```|
-|Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() |``` https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white ```|
-|Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() |``` https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white ```|
+|Pluralsight |[![Pluralsight Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)]() |``` [![Pluralsight Badge](https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white)]() ```|
+|Pluralsight |![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white) |``` ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white) ```|
+|Pluralsight |![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white) |``` ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white) ```|
+|Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() ```|
+|Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() ```|
 
 
 
@@ -860,7 +860,7 @@ Github Snake
 
 |NOME | BADGE                                                        | URL                                                          |
 |------| ------------------------------------------------------------ | :----------------------------------------------------------- |
-|Adobe After Affects |![Adobe After Affects badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) | ```Adobe After Affects |![Adobe After Affects badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)``` |
+|Adobe After Affects |![Adobe After Affects badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) | ```![Adobe After Affects badge](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)``` |
 |Adobe After Affects |![Adobe After Affects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=social-square&logo=Adobe%20after%20effects&logoColor=393665) |``` ![Adobe After Affects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=social-square&logo=Adobe%20after%20effects&logoColor=393665)``` |
 |Adobe Dreamweaver |![Adobe Dreamweaver badge](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400) | ```![Adobe Dreamweaver badge](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400) ```|
 |Adobe Dreamweaver |![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=social-square&logo=Adobe%20Dreamweaver&logoColor=34F400) | ```![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=social-square&logo=Adobe%20Dreamweaver&logoColor=34F400) ```|
@@ -915,41 +915,41 @@ Github Snake
 |p5*js |![p5js Editor badge](https://img.shields.io/badge/p5.js-ED225D?style=social-square&logo=p5.js&logoColor=FFFFFF) | ```![p5js Editor badge](https://img.shields.io/badge/p5.js-ED225D?style=social-square&logo=p5.js&logoColor=FFFFFF) ```|
 |PhpStorm |![PhpStorm badge](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) |``` ![PhpStorm badge](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)``` |
 |PhpStorm |![PhpStorm badge](https://img.shields.io/badge/phpstorm-143?style=social-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) |``` ![PhpStorm badge](https://img.shields.io/badge/phpstorm-143?style=social-square&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ```|
-|PyCharm |![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) |``` https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green``` |
-|PyCharm |![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=social-square&logo=pycharm&logoColor=black&color=black&labelColor=green) |``` https://img.shields.io/badge/pycharm-143?style=social-square&logo=pycharm&logoColor=black&color=black&labelColor=green ``` |
-|PyCharm |![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |``` https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white ``` |
-|PyCharm |![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=social-square&logo=PyCharm&logoColor=white) | ``` https://img.shields.io/badge/PyCharm-000000.svg?&style=social-square&logo=PyCharm&logoColor=white ``` |
+|PyCharm |![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) |``` ![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ``` |
+|PyCharm |![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=social-square&logo=pycharm&logoColor=black&color=black&labelColor=green) |``` ![PyCharm badge](https://img.shields.io/badge/pycharm-143?style=social-square&logo=pycharm&logoColor=black&color=black&labelColor=green) ``` |
+|PyCharm |![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) |``` ![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ``` |
+|PyCharm |![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=social-square&logo=PyCharm&logoColor=white) | ``` ![PyCharm badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=social-square&logo=PyCharm&logoColor=white) ``` |
 |Rider |![Rider badge](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson) | ``` https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson ```|
-|Rider |![Rider Rider](https://img.shields.io/badge/Rider-000000.svg?style=social-square&logo=Rider&logoColor=white&color=black&labelColor=crimson) | ``` https://img.shields.io/badge/Rider-000000.svg?style=social-square&logo=Rider&logoColor=white&color=black&labelColor=crimson ```|
-|Rider |![Rider badge](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) | ```https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white ```|
-|Rider |![Rider badge](https://img.shields.io/badge/Rider-000000?style=social-square&logo=Rider&logoColor=white) | ```https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white ```|
-|Replit |![replit badge](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) | ```https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white ```|
-|Replit |![replit badge](https://img.shields.io/badge/replit-667881?style=social-square&logo=replit&logoColor=white) | ```https://img.shields.io/badge/replit-667881?style=social-square&logo=replit&logoColor=white``` |
-|Spyder |![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) | ```https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon ``` |
-|Spyder |![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=social-square&logo=spyder%20ide&logoColor=maroon) | ```https://img.shields.io/badge/Spyder-838485?style=social-square&logo=spyder%20ide&logoColor=maroon``` |
-|Spyder IDE |![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) |```https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white``` |
-|Spyder IDE |![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) |``` https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white ``` |
-|RStudio |![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) | ```https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white ```|
-|RStudio |![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=social-square&logo=RStudio&logoColor=white) |``` https://img.shields.io/badge/RStudio-75AADB?style=social-square&logo=RStudio&logoColor=white ``` |
-|Sublime Text |![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) |``` https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important ```|
-|Sublime Text |![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=social-square&logo=sublime-text&logoColor=important) |``` https://img.shields.io/badge/sublime_text-%23575757.svg?style=social-square&logo=sublime-text&logoColor=important ```|
-|Vim |![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) | ```https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white ``` |
-|Vim |![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=social-square&logo=vim&logoColor=white) | ```https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=social-square&logo=apache-netbeans-ide&logoColor=white``` |
-|Vim |![Vim badge](https://img.shields.io/badge/--019733?logo=vim)       | ```https://img.shields.io/badge/--01973?logo=vim ``` |
-|Visual Studio Code |![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |``` https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white``` |
-|Visual Studio Code |![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=social-square&logo=visual-studio-code&logoColor=white) | ```https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=social-square&logo=visual-studio-code&logoColor=white ``` |
-|Visual Studio Code |![Visual Studio badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |``` https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white ```|
-|Visual Studio |![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=social-square&logo=visual-studio&logoColor=white) |``` https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=social-square&logo=visual-studio&logoColor=white ``` |
-|Visual Studio |[![Visual Studio badge](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) |``` https://img.shields.io/badge/--6C33AF?logo=visual%20studio ```  |
-|Visual Studio Code |[![Visual Studio Code badge](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) | ```https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff``` |
-|Visual Studio Code |[![Visual Studio badge](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) |``` https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label ```|
-|WebStorm |![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) | ``` https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black ``` |
-|WebStorm |![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=social-square&logo=webstorm&logoColor=white&color=black) | ``` https://img.shields.io/badge/webstorm-143?style=social-square&logo=webstorm&logoColor=white&color=black ``` |
-|Xcode |![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) |``` https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white ```|
-|Xcode |![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=social-square&logo=Xcode&logoColor=white) | ```https://img.shields.io/badge/Xcode-007ACC?style=social-square&logo=Xcode&logoColor=white ``` |
-|Zend |![Zend badge](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA) | ```https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA ```|
-|Zend |![Zend badge](https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA) | ```https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA ```|
-|Azure |[![Azure badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) |``` https://badgen.net/badge/icon/azure?icon=azure&label ```|
+|Rider |![Rider Rider](https://img.shields.io/badge/Rider-000000.svg?style=social-square&logo=Rider&logoColor=white&color=black&labelColor=crimson) | ``` ![Rider Rider](https://img.shields.io/badge/Rider-000000.svg?style=social-square&logo=Rider&logoColor=white&color=black&labelColor=crimson) ```|
+|Rider |![Rider badge](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) | ```![Rider badge](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white) ```|
+|Rider |![Rider badge](https://img.shields.io/badge/Rider-000000?style=social-square&logo=Rider&logoColor=white) | ```![Rider badge](https://img.shields.io/badge/Rider-000000?style=social-square&logo=Rider&logoColor=white) ```|
+|Replit |![replit badge](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) | ```![replit badge](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white) ```|
+|Replit |![replit badge](https://img.shields.io/badge/replit-667881?style=social-square&logo=replit&logoColor=white) | ```![replit badge](https://img.shields.io/badge/replit-667881?style=social-square&logo=replit&logoColor=white) ``` |
+|Spyder |![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) | ```![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ``` |
+|Spyder |![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=social-square&logo=spyder%20ide&logoColor=maroon) | ``` ![Spyder badge](https://img.shields.io/badge/Spyder-838485?style=social-square&logo=spyder%20ide&logoColor=maroon) ``` |
+|Spyder IDE |![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) |``` ![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) ``` |
+|Spyder IDE |![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) |``` h![Spyder badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white) ``` |
+|RStudio |![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) | ```![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ```|
+|RStudio |![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=social-square&logo=RStudio&logoColor=white) |``` ![RStudio badge](https://img.shields.io/badge/RStudio-75AADB?style=social-square&logo=RStudio&logoColor=white) ``` |
+|Sublime Text |![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) |``` ![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ```|
+|Sublime Text |![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=social-square&logo=sublime-text&logoColor=important) |``` ![Sublime Text badge](https://img.shields.io/badge/sublime_text-%23575757.svg?style=social-square&logo=sublime-text&logoColor=important) ```|
+|Vim |![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) | ```![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ``` |
+|Vim |![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=social-square&logo=vim&logoColor=white) | ``` ![Vim badge](https://img.shields.io/badge/VIM-%2311AB00.svg?style=social-square&logo=vim&logoColor=white) ``` |
+|Vim |![Vim badge](https://img.shields.io/badge/--019733?logo=vim)       | ``` ![Vim badge](https://img.shields.io/badge/--019733?logo=vim) ``` |
+|Visual Studio Code |![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |``` ![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)``` |
+|Visual Studio Code |![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=social-square&logo=visual-studio-code&logoColor=white) | ``` ![Visual Studio Code badge](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=social-square&logo=visual-studio-code&logoColor=white) ``` |
+|Visual Studio Code |![Visual Studio badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) |``` ![Visual Studio badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ```|
+|Visual Studio |![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=social-square&logo=visual-studio&logoColor=white) |``` ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=social-square&logo=visual-studio&logoColor=white) ``` |
+|Visual Studio |[![Visual Studio badge](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) |``` [![Visual Studio badge](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/) ```  |
+|Visual Studio Code |[![Visual Studio Code badge](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) | ```[![Visual Studio Code badge](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) ``` |
+|Visual Studio Code |[![Visual Studio badge](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) |``` [![Visual Studio badge](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) ```|
+|WebStorm |![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) | ``` ![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ``` |
+|WebStorm |![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=social-square&logo=webstorm&logoColor=white&color=black) | ``` ![WebStorm badge](https://img.shields.io/badge/webstorm-143?style=social-square&logo=webstorm&logoColor=white&color=black) ``` |
+|Xcode |![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) |``` ![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ```|
+|Xcode |![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=social-square&logo=Xcode&logoColor=white) | ```![Xcode badge](https://img.shields.io/badge/Xcode-007ACC?style=social-square&logo=Xcode&logoColor=white) ``` |
+|Zend |![Zend badge](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA) | ```![Zend badge](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA) ```|
+|Zend |![Zend badge](https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA) | ```![Zend badge](https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA)```|
+|Azure |[![Azure badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) |``` [![Azure badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) ```|
 
 
 
@@ -1477,44 +1477,44 @@ Github Snake
 
 
 
-| Badge                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white) | https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white |
-| ![Amp](https://img.shields.io/badge/Amp-005AF0?style=social-square&logo=amp&logoColor=white) | https://img.shields.io/badge/Amp-005AF0?style=social-square&logo=amp&logoColor=white |
-| ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) | https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0 |
-| ![Amp](https://img.shields.io/badge/Amp-000?style=social-square&logo=amp&logoColor=005AF0) | https://img.shields.io/badge/Amp-000?style=social-square&logo=amp&logoColor=005AF0 |
-| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) | https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white |
-| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=social-square&logo=bitcoin&logoColor=white) | https://img.shields.io/badge/Bitcoin-000?style=social-square&logo=bitcoin&logoColor=white |
-| ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) | https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white |
-| ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=social-square&logo=Bitcoin%20Cash&logoColor=white) | https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=social-square&logo=Bitcoin%20Cash&logoColor=white |
-| ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white) | https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white |
-| ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=social-square&logo=Bitcoin%20SV&logoColor=white) | https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=social-square&logo=Bitcoin%20SV&logoColor=white |
-| ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) | https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white |
-| ![Binance](https://img.shields.io/badge/Binance-FCD535?style=social-square&logo=binance&logoColor=white) | https://img.shields.io/badge/Binance-FCD535?style=social-square&logo=binance&logoColor=white |
-| ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white) | https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white |
-| ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=social-square&logo=Chainlink&logoColor=white) | https://img.shields.io/badge/Chainlink-375BD2?style=social-square&logo=Chainlink&logoColor=white |
-| ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) | https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white |
-| ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=social-square&logo=dogecoin&logoColor=white) | https://img.shields.io/badge/dogecoin-B59A30?style=social-square&logo=dogecoin&logoColor=white |
-| ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) | https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white |
-| ![Dash](https://img.shields.io/badge/dash-008DE4?style=social-square&logo=dash&logoColor=white) | https://img.shields.io/badge/dash-008DE4?style=social-square&logo=dash&logoColor=white |
-| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) | https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white |
-| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=social-square&logo=Ethereum&logoColor=white) | https://img.shields.io/badge/Ethereum-3C3C3D?style=social-square&logo=Ethereum&logoColor=white |
-| ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white) | https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white |
-| ![Iota](https://img.shields.io/badge/iota-29334C?style=social-square&logo=iota&logoColor=white) | https://img.shields.io/badge/iota-29334C?style=social-square&logo=iota&logoColor=white |
-| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white) | https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white |
-| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=social-square&logo=Litecoin&logoColor=white) | https://img.shields.io/badge/Litecoin-A6A9AA?style=social-square&logo=Litecoin&logoColor=white |
-| ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) | https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white |
-| ![Monero](https://img.shields.io/badge/monero-FF6600?style=social-square&logo=monero&logoColor=white) | https://img.shields.io/badge/monero-FF6600?style=social-square&logo=monero&logoColor=white |
-| ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) | https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white |
-| ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=social-square&logo=polkadot&logoColor=white) | https://img.shields.io/badge/polkadot-E6007A?style=social-square&logo=polkadot&logoColor=white |
-| ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white) | https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white |
-| ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=social-square&logo=Stellar&logoColor=white) | https://img.shields.io/badge/Stellar-7D00FF?style=social-square&logo=Stellar&logoColor=white |
-| ![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) | https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white |
-| ![Tether](https://img.shields.io/badge/tether-168363?style=social-square&logo=tether&logoColor=white) | https://img.shields.io/badge/tether-168363?style=social-square&logo=tether&logoColor=white |
-| ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) | https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white |
-| ![Xrp](https://img.shields.io/badge/Xrp-black?style=social-square&logo=xrp&logoColor=white) | https://img.shields.io/badge/Xrp-black?style=social-square&logo=xrp&logoColor=white |
-| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white) | https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white |
-| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white) | https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white |
+|Nome | Badge                                                        | URL                                                          |
+|--| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Amp| ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white) | ```![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white) ``` |
+|Amp| ![Amp](https://img.shields.io/badge/Amp-005AF0?style=social-square&logo=amp&logoColor=white) | ```![Amp](https://img.shields.io/badge/Amp-005AF0?style=social-square&logo=amp&logoColor=white)``` |
+|Amp| ![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) | ```![Amp](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0) ```|
+|Amp| ![Amp](https://img.shields.io/badge/Amp-000?style=social-square&logo=amp&logoColor=005AF0) | ```![Amp](https://img.shields.io/badge/Amp-000?style=social-square&logo=amp&logoColor=005AF0)``` |
+|Bitcoin| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) | ```![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ```|
+|Bitcoin| ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=social-square&logo=bitcoin&logoColor=white) | ```![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=social-square&logo=bitcoin&logoColor=white) ```|
+|Bitcoin Cash| ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) |``` ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white) ```|
+|Bitcoin Cash| ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=social-square&logo=Bitcoin%20Cash&logoColor=white) |``` ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=social-square&logo=Bitcoin%20Cash&logoColor=white) ```|
+|Bitcoin SV| ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white) |``` ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white)```|
+|Bitcoin SV |![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=social-square&logo=Bitcoin%20SV&logoColor=white) |``` ![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=social-square&logo=Bitcoin%20SV&logoColor=white) ```|
+|Binance |![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) |``` ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) ```|
+|Binance| ![Binance](https://img.shields.io/badge/Binance-FCD535?style=social-square&logo=binance&logoColor=white) |``` ![Binance](https://img.shields.io/badge/Binance-FCD535?style=social-square&logo=binance&logoColor=white) ```|
+|Chainlink| ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white) |``` ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)```|
+|Chainlink| ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=social-square&logo=Chainlink&logoColor=white) |``` ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=social-square&logo=Chainlink&logoColor=white)``` |
+|Dogecoin |![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) |``` ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white) ```|
+|Dogecoin| ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=social-square&logo=dogecoin&logoColor=white) |``` ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=social-square&logo=dogecoin&logoColor=white)``` |
+|Dash| ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) |``` ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white) ```|
+|Dash| ![Dash](https://img.shields.io/badge/dash-008DE4?style=social-square&logo=dash&logoColor=white) | ```![Dash](https://img.shields.io/badge/dash-008DE4?style=social-square&logo=dash&logoColor=white) ```|
+|Ethereum |![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) |``` ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)``` |
+|Ethereum| ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=social-square&logo=Ethereum&logoColor=white) |``` ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=social-square&logo=Ethereum&logoColor=white``` |
+|Iota| ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white) |``` ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white) ```|
+|Iota| ![Iota](https://img.shields.io/badge/iota-29334C?style=social-square&logo=iota&logoColor=white) | ```![Iota](https://img.shields.io/badge/iota-29334C?style=social-square&logo=iota&logoColor=white)``` |
+|Litecoin| ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white) | ```![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)``` |
+|Litecoin |![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=social-square&logo=Litecoin&logoColor=white) |``` ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=social-square&logo=Litecoin&logoColor=white)``` |
+|Monero| ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) | ```![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) ```|
+|Monero| ![Monero](https://img.shields.io/badge/monero-FF6600?style=social-square&logo=monero&logoColor=white) | ```![Monero](https://img.shields.io/badge/monero-FF6600?style=social-square&logo=monero&logoColor=white) ```|
+|Polkadot| ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) | ```![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) ```|
+|Polkadot| ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=social-square&logo=polkadot&logoColor=white) |``` ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=social-square&logo=polkadot&logoColor=white) ```|
+|Stellar| ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white) | ```![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white) ```|
+|Stellar| ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=social-square&logo=Stellar&logoColor=white) |``` ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=social-square&logo=Stellar&logoColor=white) ```|
+|Tether |![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) | ```![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white) ```|
+|Tether| ![Tether](https://img.shields.io/badge/tether-168363?style=social-square&logo=tether&logoColor=white) | ```![Tether](https://img.shields.io/badge/tether-168363?style=social-square&logo=tether&logoColor=white) ```|
+|Xrp| ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white) |``` ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)``` |
+|Xrp| ![Xrp](https://img.shields.io/badge/Xrp-black?style=social-square&logo=xrp&logoColor=white) |``` ![Xrp](https://img.shields.io/badge/Xrp-black?style=social-square&logo=xrp&logoColor=white) ```|
+|Z Cash| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white) |``` ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white) ```|
+|Z Cash| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white) | ```![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white) ```|
 
 
 
@@ -1526,13 +1526,13 @@ Github Snake
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Badge](https://img.shields.io/github/forks/badges/shields.svg?style=social)]() | https://img.shields.io/github/forks/badges/shields.svg?style=social |
-| [![BADGE](https://img.shields.io/github/stars/badges/shields.svg?style=social)]() | https://img.shields.io/github/stars/badges/shields.svg?style=social |
-| [![Badge](https://img.shields.io/github/watchers/badges/shields.svg?style=social)]() | https://img.shields.io/github/watchers/badges/shields.svg?style=social |
-| [![Badge](https://img.shields.io/github/followers/espadrine.svg?style=social)]() | https://img.shields.io/github/followers/espadrine.svg?style=social |
-| [![tag](https://img.shields.io/github/tag/expressjs/express.svg)]() | https://img.shields.io/github/tag/expressjs/express.svg      |
-| [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) | https://badgen.net/badge/icon/github?icon=github&label       |
-| [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com) | https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff |
+| [![Badge](https://img.shields.io/github/forks/badges/shields.svg?style=social)]() | ```[![Badge](https://img.shields.io/github/forks/badges/shields.svg?style=social)]() ```|
+| [![BADGE](https://img.shields.io/github/stars/badges/shields.svg?style=social)]() |``` [![BADGE](https://img.shields.io/github/stars/badges/shields.svg?style=social)]() ```|
+| [![Badge](https://img.shields.io/github/watchers/badges/shields.svg?style=social)]() |``` [![Badge](https://img.shields.io/github/watchers/badges/shields.svg?style=social)]() ```|
+| [![Badge](https://img.shields.io/github/followers/espadrine.svg?style=social)]() | ```[![Badge](https://img.shields.io/github/followers/espadrine.svg?style=social)]() ```|
+| [![tag](https://img.shields.io/github/tag/expressjs/express.svg)]() | ```[![tag](https://img.shields.io/github/tag/expressjs/express.svg)]()   ```   |
+| [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) | ```[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)    ```   |
+| [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com) | ``` [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com) ```|
 
 
 
@@ -1542,9 +1542,9 @@ Github Snake
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Badge](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() | https://img.shields.io/twitter/url/http/shields.io.svg?style=social |
-| [![BADGE](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]() | https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow |
-| [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) | https://badgen.net/badge/icon/twitter?icon=twitter&label     |
+| [![Badge](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() | ``` [![Badge](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() ```|
+| [![BADGE](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]() |``` [![BADGE](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]() ```|
+| [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) | ```[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) ```|
 
 
 
