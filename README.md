@@ -1554,20 +1554,20 @@ Github Snake
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square)]() | https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square |
-| [![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=social-square)]() | https://img.shields.io/badge/made%20with-python-blue.svg?style=social-square |
-| [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) | http://ForTheBadge.com/images/badges/made-with-python.svg    |
-| [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/) | https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg   |
-| [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) | https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter |
-| [![Vscode Badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]() | https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg    |
-| [![Java Badge](https://img.shields.io/badge/Made%20with-Java-orange.svg)]() | https://img.shields.io/badge/Made%20with-Java-orange.svg     |
-| [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) | https://img.shields.io/badge/Made%20with-Go-1f425f.svg       |
-| [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) | https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg |
-| [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) | https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg |
-| [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) | https://img.shields.io/badge/Made%20with-Bash-1f425f.svg     |
-| [![Built with](http://ForTheBadge.com/images/badges/built-with-love.svg)]() | http://ForTheBadge.com/images/badges/built-with-love.svg     |
-| [![Built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)]() | http://ForTheBadge.com/images/badges/built-by-developers.svg |
-| [![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() | http://ForTheBadge.com/images/badges/built-with-science.svg  |
+| [![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square)]() |``` [![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square)]()``` |
+| [![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=social-square)]() | ```[![Badge](https://img.shields.io/badge/made%20with-python-blue.svg?style=social-square)]()``` |
+| [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) | ```[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)   ``` |
+| [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/) |``` [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/) ``` |
+| [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) |``` [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) ```|
+| [![Vscode Badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]() | ```[![Vscode Badge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)]()  ```  |
+| [![Java Badge](https://img.shields.io/badge/Made%20with-Java-orange.svg)]() |``` [![Java Badge](https://img.shields.io/badge/Made%20with-Java-orange.svg)]()  ``` |
+| [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org) |``` [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)  ``` |
+| [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) |``` [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ``` |
+| [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) | ``` [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) ```|
+| [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) |``` [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)  ``` |
+| [![Built with](http://ForTheBadge.com/images/badges/built-with-love.svg)]() |``` [![Built with](http://ForTheBadge.com/images/badges/built-with-love.svg)]()  ``` |
+| [![Built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)]() | ```[![Built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)]() ```|
+| [![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() | ```[![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() ``` |
 
 
 
@@ -1579,28 +1579,27 @@ Github Snake
 
 
 
-|                 | BADGE                                                        | URL                                                          |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| YouTube         | [![Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() | https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white |
-|                 | [![Badge](https://img.shields.io/badge/YouTube-FF0000?style=social-square&logo=youtube&logoColor=white)]() | https://img.shields.io/badge/YouTube-FF0000?style=social-square&logo=youtube&logoColor=white |
-| Apple Tv        | ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white) | https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white                                                             |
-|                 | ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=social-square&logo=Apple%20TV&logoColor=white) | https://img.shields.io/badge/Apple%20TV-000000?style=social-square&logo=Apple%20TV&logoColor=white                                                             |
-| Fire Tv         | ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white) | https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white                                                              |
-|                 | ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=social-square&logo=amazon%20fire%20tv&logoColor=white) | https://img.shields.io/badge/fire%20tv-fc3b2d?style=social-square&logo=amazon%20fire%20tv&logoColor=white                                                             |
-| Amazon Prime    | [![Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)]() | https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white |
-|                 | [![Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=social-square&logo=netflix&logoColor=white)]() | https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=social-square&logo=netflix&logoColor=white |
-| Twitch          | [![badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]() | https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white |
-|                 | [![badge](https://img.shields.io/badge/Twitch-9146FF?style=social-square&logo=twitch&logoColor=white)]() | https://img.shields.io/badge/Twitch-9146FF?style=social-square&logo=twitch&logoColor=white |
-| Youtube Gaming  | [![badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)]() | https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white |
-|                 | [![badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=social-square&logo=youtube-gaming&logoColor=white)]() | https://img.shields.io/badge/YouTube_Gaming-FF0000?style=social-square&logo=youtube-gaming&logoColor=white |
-| Hulu            | [![badge](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)]() | https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white |
-|                 | [![badge](https://img.shields.io/badge/Hulu-1CE783?style=social-square&logo=hulu&logoColor=white)]() | https://img.shields.io/badge/Hulu-1CE783?style=social-square&logo=hulu&logoColor=white |
-| Facebook Gaming | [![badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)]() | https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white |
-|                 | [![badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=social-square&logo=facebook-gaming&logoColor=white)]() | https://img.shields.io/badge/Facebook_Gaming-005FED?style=social-square&logo=facebook-gaming&logoColor=white |
-| Crunchyroll     | [![Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)]() | https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white |
-|                 | [![badge](https://img.shields.io/badge/Crunchyroll-F47521?style=social-square&logo=crunchyroll&logoColor=white)]() | https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white |
-| Netflix         | [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() | https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white |
-|                 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]() | https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white |
+| YouTube         | [![YouTube  Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() |```[![YouTube  Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() ``` |
+|  YouTube     | [![YouTube  Badge](https://img.shields.io/badge/YouTube-FF0000?style=social-square&logo=youtube&logoColor=white)]() | ```[![YouTube  Badge](https://img.shields.io/badge/YouTube-FF0000?style=social-square&logo=youtube&logoColor=white)]() ```|
+| Apple Tv        | ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white) |``` ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white)  ``` |
+| Apple Tv    | ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=social-square&logo=Apple%20TV&logoColor=white) |``` ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?style=social-square&logo=Apple%20TV&logoColor=white)  ```    |
+| Fire Tv         | ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white) |```![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white) ```         |
+| Fire Tv | ![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=social-square&logo=amazon%20fire%20tv&logoColor=white) |```![Fire TV](https://img.shields.io/badge/fire%20tv-fc3b2d?style=social-square&logo=amazon%20fire%20tv&logoColor=white)  ```      |
+| Amazon Prime    | [![Amazon Prime Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)]() |```[![Amazon Prime Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)]() ```|
+|  Amazon Prime    | [![Amazon Prime Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=social-square&logo=netflix&logoColor=white)]() |``` [![Amazon Prime Badge](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=social-square&logo=netflix&logoColor=white)]() ```|
+| Twitch          | [![Twitch badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]() |``` [![Twitch badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()``` |
+|  Twitch      | [![Twitch badge](https://img.shields.io/badge/Twitch-9146FF?style=social-square&logo=twitch&logoColor=white)]() |``` [![Twitch badge](https://img.shields.io/badge/Twitch-9146FF?style=social-square&logo=twitch&logoColor=white)]() ```|
+| Youtube Gaming  | [![Youtube Gaming badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)]() |``` [![Youtube Gaming badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)]() ```|
+| Youtube Gaming   | [![Youtube Gaming badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=social-square&logo=youtube-gaming&logoColor=white)]() |``` [![Youtube Gaming badge](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=social-square&logo=youtube-gaming&logoColor=white)]() ```|
+| Hulu            | [![Hulu  badge](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)]() |``` [![Hulu  badge](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)]() ```|
+| Hulu      | [![Hulu  badge](https://img.shields.io/badge/Hulu-1CE783?style=social-square&logo=hulu&logoColor=white)]() |``` [![Hulu  badge](https://img.shields.io/badge/Hulu-1CE783?style=social-square&logo=hulu&logoColor=white)]() ```|
+| Facebook Gaming | [![Facebook Gaming badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)]() |``` [![Facebook Gaming badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)]() ```|
+| Facebook Gaming  | [![Facebook Gaming badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=social-square&logo=facebook-gaming&logoColor=white)]() |``` [![Facebook Gaming badge](https://img.shields.io/badge/Facebook_Gaming-005FED?style=social-square&logo=facebook-gaming&logoColor=white)]() ```|
+| Crunchyroll     | [![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)]() |```[![Crunchyroll Badge](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)]() ```|
+|  Crunchyroll    | [![Crunchyroll badge](https://img.shields.io/badge/Crunchyroll-F47521?style=social-square&logo=crunchyroll&logoColor=white)]() |```[![Crunchyroll badge](https://img.shields.io/badge/Crunchyroll-F47521?style=social-square&logo=crunchyroll&logoColor=white)]()```|
+| Netflix         | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() |``` [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() ```|
+|   Netflix      | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]() |```[![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]()``` |
 
 
 
@@ -1608,15 +1607,15 @@ Github Snake
 
 
 
-| BADGE                                                        | URL                                                          |
+ | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) | https://img.shields.io/github/license/Naereen/StrapDown.js.svg |
-| [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) | https://img.shields.io/badge/License-MIT-blue.svg            |
-| [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html) | https://img.shields.io/badge/License-GPL-blue.svg            |
-| [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) | https://img.shields.io/badge/License-GPLv3-blue.svg          |
-| [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/) | https://img.shields.io/badge/License-Unlicense-blue.svg      |
-| [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) | https://img.shields.io/badge/License-CC--0-blue.svg          |
-| [![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js) | https://badgen.net/npm/llicense/discord.js                   |
+| [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)]() |``` https://img.shields.io/github/license/Naereen/StrapDown.js.svg ```|
+| [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |``` https://img.shields.io/badge/License-MIT-blue.svg            ```|
+| [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html) | ```https://img.shields.io/badge/License-GPL-blue.svg    ``` |
+| [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) | ```https://img.shields.io/badge/License-GPLv3-blue.svg  ```|
+| [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/) |``` https://img.shields.io/badge/License-Unlicense-blue.svg ```  |
+| [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) | ```https://img.shields.io/badge/License-CC--0-blue.svg  ``` |
+| [![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js) |``` https://badgen.net/npm/llicense/discord.js ```       |
 
 
 
