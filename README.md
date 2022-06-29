@@ -1937,27 +1937,27 @@ Github Snake
 
 ### Terminal
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![name Badge](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)]() | https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/alacritty-F46D01?style=social-square&logo=alacritty&logoColor=white)]() | https://img.shields.io/badge/alacritty-F46D01?style=social-square&logo=alacritty&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() | https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/GIT-E44C30?style=social-square&logo=git&logoColor=white)]() | https://img.shields.io/badge/GIT-E44C30?style=social-square&logo=git&logoColor=white |
-| [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) | https://badgen.net/badge/icon/git?icon=git&label             |
-| [![name Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]() | https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white)]() | https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]() | https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white)]() | https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)]() | https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/iTerm2-000000?style=social-square&logo=iterm2&logoColor=white)]() | https://img.shields.io/badge/iTerm2-000000?style=social-square&logo=iterm2&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]() | https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/powershell-5391FE?style=social-square&logo=powershell&logoColor=white)]() | https://img.shields.io/badge/powershell-5391FE?style=social-square&logo=powershell&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)]() | https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/starship-DD0B78?style=social-square&logo=starship&logoColor=white)]() | https://img.shields.io/badge/starship-DD0B78?style=social-square&logo=starship&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)]() | https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/tmux-1BB91F?style=social-square&logo=tmux&logoColor=white)]() | https://img.shields.io/badge/tmux-1BB91F?style=social-square&logo=tmux&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() | https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() | https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white |
+|Nome |       BADGE                                                       |       URL                                                       |
+|---| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Alacritty| [![Alacritty Badge](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)]() |```  [![Alacritty Badge](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)]() ```|
+|Alacritty| [![Alacritty Badge](https://img.shields.io/badge/alacritty-F46D01?style=social-square&logo=alacritty&logoColor=white)]() |``` [![Alacritty Badge](https://img.shields.io/badge/alacritty-F46D01?style=social-square&logo=alacritty&logoColor=white)]() ```|
+|GIT| [![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() | ```[![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]() ```|
+|GIT| [![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=social-square&logo=git&logoColor=white)]() | ```[![GIT Badge](https://img.shields.io/badge/GIT-E44C30?style=social-square&logo=git&logoColor=white)]() ```|
+|GIT| [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) |``` [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) ```  |
+|GNU Bash| [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]() |```[![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]() ```|
+|GNU Bash| [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white)]() |``` [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white)]() ```|
+|Hyper| [![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]() |```[![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()``` |
+|Hyper| [![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white)]() | ```[![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white)]() ```|
+|ITerm2| [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)]() |```  [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)]()``` |
+|ITerm2| [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=social-square&logo=iterm2&logoColor=white)]() |``` [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=social-square&logo=iterm2&logoColor=white)]()``` |
+|Powershell| [![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]() |``` [![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]() ```|
+|Powershell| [![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=social-square&logo=powershell&logoColor=white)]() |``` [![Powershell Badge](https://img.shields.io/badge/powershell-5391FE?style=social-square&logo=powershell&logoColor=white)]() ```|
+|Starship| [![Starship Badge](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)]() |``` [![Starship Badge](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)]()```|
+|Starship| [![Starship Badge](https://img.shields.io/badge/starship-DD0B78?style=social-square&logo=starship&logoColor=white)]() |``` [![Starship Badge](https://img.shields.io/badge/starship-DD0B78?style=social-square&logo=starship&logoColor=white)]() ```|
+|tmux| [![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)]() |``` [![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)]() ```|
+|tmux| [![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=social-square&logo=tmux&logoColor=white)]() | ```[![tmux Badge](https://img.shields.io/badge/tmux-1BB91F?style=social-square&logo=tmux&logoColor=white)]()``` |
+|Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() ```|
+|Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() ```|
 
 ###  Sites de busca
 
@@ -2106,20 +2106,20 @@ Github Snake
 
 |Nome | BADGE                                                        | URL                                                    |
 |--| ------------------------------------------------------------ | ------------------------------------------------------ |
-|Lamborghini| ![](https://aleen42.github.io/badges/src/lamborghini.svg) |``` ![](https://aleen42.github.io/badges/src/lamborghini.svg)```   |
-|Bugatti| ![](https://aleen42.github.io/badges/src/bugatti.svg) | ```![](https://aleen42.github.io/badges/src/bugatti.svg) ```      |
-|Porsche| ![](https://aleen42.github.io/badges/src/porsche.svg)| ```![](https://aleen42.github.io/badges/src/porsche.svg) ```      |
-|Tesla| ![](https://aleen42.github.io/badges/src/tesla.svg) |``` ![](https://aleen42.github.io/badges/src/tesla.svg) ```        |
-|Ferrari| ![](https://aleen42.github.io/badges/src/ferrari.svg) | ```![](https://aleen42.github.io/badges/src/ferrari.svg) ```    |
-|Toyota| ![](https://aleen42.github.io/badges/src/toyota.svg) | ```![](https://aleen42.github.io/badges/src/toyota.svg) ```       |
-|Mitsubishi| ![](https://aleen42.github.io/badges/src/mitsubishi.svg) | ```![](https://aleen42.github.io/badges/src/mitsubishi.svg```    |
-|Maserati| ![](https://aleen42.github.io/badges/src/maserati.svg) | ```![](https://aleen42.github.io/badges/src/maserati.svg)```  |
-|Marussia| ![](https://aleen42.github.io/badges/src/marussia.svg) | ```![](https://aleen42.github.io/badges/src/marussia.svg) ```   |
-|Koenigsegg| ![](https://aleen42.github.io/badges/src/koenigsegg.svg) | ```![](https://aleen42.github.io/badges/src/koenigsegg.svg) ```   |
-|BMW| ![](https://aleen42.github.io/badges/src/bmw.svg) | ```![](https://aleen42.github.io/badges/src/bmw.svg)```    |
-|LandRover| ![](https://aleen42.github.io/badges/src/land_rover.svg) | ```![](https://aleen42.github.io/badges/src/land_rover.svg) ```  |
-|Mercedes Benz| ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) |``` ![](https://aleen42.github.io/badges/src/mercedes_benz.svg) ```|
-|Audi| ![](https://aleen42.github.io/badges/src/audi.svg) | ```![](https://aleen42.github.io/badges/src/audi.svg)  ```       |
+|Lamborghini| ![Lamborghini](https://aleen42.github.io/badges/src/lamborghini.svg) |``` ![Lamborghini](https://aleen42.github.io/badges/src/lamborghini.svg)```   |
+|Bugatti| ![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg) | ```![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg) ```      |
+|Porsche| ![Porsche](https://aleen42.github.io/badges/src/porsche.svg)| ```![Porsche](https://aleen42.github.io/badges/src/porsche.svg) ```      |
+|Tesla| ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) |``` ![Tesla](https://aleen42.github.io/badges/src/tesla.svg) ```        |
+|Ferrari| ![Ferrari](https://aleen42.github.io/badges/src/ferrari.svg) | ```![Ferrari](https://aleen42.github.io/badges/src/ferrari.svg) ```    |
+|Toyota| ![Toyota](https://aleen42.github.io/badges/src/toyota.svg) | ```![Toyota](https://aleen42.github.io/badges/src/toyota.svg) ```       |
+|Mitsubishi| ![Mitsubishi](https://aleen42.github.io/badges/src/mitsubishi.svg) | ```![Mitsubishi](https://aleen42.github.io/badges/src/mitsubishi.svg```    |
+|Maserati| ![Maserati](https://aleen42.github.io/badges/src/maserati.svg) | ```![Maserati](https://aleen42.github.io/badges/src/maserati.svg)```  |
+|Marussia| ![Marussia](https://aleen42.github.io/badges/src/marussia.svg) | ```![Marussia](https://aleen42.github.io/badges/src/marussia.svg) ```   |
+|Koenigsegg| ![Koenigsegg](https://aleen42.github.io/badges/src/koenigsegg.svg) | ```![Koenigsegg](https://aleen42.github.io/badges/src/koenigsegg.svg) ```   |
+|BMW| ![BMW](https://aleen42.github.io/badges/src/bmw.svg) | ```![BMW](https://aleen42.github.io/badges/src/bmw.svg)```    |
+|LandRover| ![LandRover](https://aleen42.github.io/badges/src/land_rover.svg) | ```![LandRover](https://aleen42.github.io/badges/src/land_rover.svg) ```  |
+|Mercedes Benz| ![Mercedes Benz](https://aleen42.github.io/badges/src/mercedes_benz.svg) |``` ![Mercedes Benz](https://aleen42.github.io/badges/src/mercedes_benz.svg) ```|
+|Audi| ![Audi](https://aleen42.github.io/badges/src/audi.svg) | ```![Audi](https://aleen42.github.io/badges/src/audi.svg)  ```       |
 || Créditos:                                                    | https://github.com/Envoy-VC/                           |
 
 
