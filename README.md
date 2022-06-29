@@ -1963,18 +1963,18 @@ Github Snake
 
 
 
-| BADGE                                                        | URL  |
-| ------------------------------------------------------------ | ---- |
-| ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) |      |
-| ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) |      |
-| ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) |      |
-| ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) |      |
-| ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) |      |
-| ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) |      |
-| ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) |      |
-| ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) |      |
-| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) |      |
-| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) |      |
+|Nome| BADGE                                                        | URL  |
+|---| ------------------------------------------------------------ | ---- |
+|Baidu| ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) | ``` ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) ```     |
+|Baidu| ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) | ``` ![Baidu](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white) ```     |
+|Bing| ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) | ``` ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ```     |
+|Bing| ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) | ``` ![Bing](https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white) ```     |
+|DuckDuckGo| ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) | ``` ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) ```     |
+|DuckDuckGo| ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) | ``` ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white) ```     |
+|Google| ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) | ``` ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ```     |
+|Google| ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) | ``` ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ```     |
+|Yahoo| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) | ``` ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) ```     |
+|Yahoo| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) | ``` ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) ```     |
 
 
 
@@ -1982,48 +1982,48 @@ Github Snake
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Acer](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() | https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=social-square&logo=acer&logoColor=white)]() | https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=social-square&logo=acer&logoColor=white |
-| [![Acer Laptop](https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() | https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/acer%20laptop-83B81A?style=social-square&logo=acer&logoColor=white)]() | https://img.shields.io/badge/acer%20laptop-83B81A?style=social-square&logo=acer&logoColor=white |
-| [![AMD](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() | https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white |
-| [![AMD](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=social-square&logo=amd&logoColor=white)]() | https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=social-square&logo=amd&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() | https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=social-square&logo=amd&logoColor=white)]() | https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=social-square&logo=amd&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)]() | https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/apple%20silicon-333333?style=social-square&logo=apple&logoColor=white)]() | https://img.shields.io/badge/apple%20silicon-333333?style=social-square&logo=apple&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)]() | https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=social-square&logo=apple&logoColor=white)]() | https://img.shields.io/badge/Apple%20laptop-333333?style=social-square&logo=apple&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white)]() | https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=social-square&logo=apple&logoColor=white)]() | https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=social-square&logo=apple&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)]() | https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/asus%20laptop-000000?style=social-square&logo=asus&logoColor=white)]() | https://img.shields.io/badge/asus%20laptop-000000?style=social-square&logo=asus&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)]() | https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=for-the-badge&logo=dell&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=social-square&logo=dell&logoColor=white)]() | https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=social-square&logo=dell&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)]() | https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=social-square&logo=hp&logoColor=white)]() | https://img.shields.io/badge/hp%20laptop-0096D6?style=social-square&logo=hp&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)]() | https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Huawei-FF0000?style=social-square&logo=huawei&logoColor=white)]() | https://img.shields.io/badge/Huawei-FF0000?style=social-square&logo=huawei&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=social-square&logo=intel&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=social-square&logo=intel&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() | https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=social-square&logo=intel&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white)]() | https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=social-square&logo=acer&logoColor=white)]() | https://img.shields.io/badge/lenovo%20laptop-E2231A?style=social-square&logo=acer&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]() | https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=social-square&logo=nvidia&logoColor=white)]() | https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=social-square&logo=nvidia&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)]() | https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525 |
-| [![name Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=social-square&logo=razer&logoColor=252525)]() | https://img.shields.io/badge/razer%20laptop-44D62D?style=social-square&logo=razer&logoColor=252525 |
-| [![Nome Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white)]() | https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=social-square&logo=Samsung&logoColor=white)]() | https://img.shields.io/badge/samsung%20laptop-1428A0?style=social-square&logo=Samsung&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() | https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=social-square&logo=windows&logoColor=white)]() | https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=social-square&logo=windows&logoColor=white |
-| [![Nome Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)]() | https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white |
-| [![name Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white)]() | https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white |
+|Nome | BADGE                                                        | URL                                                          |
+|---|  ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Acer Aspire| [![Acer](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() |```  [![Acer](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() ``` |
+|Acer Aspire| [![Acer Badge](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=social-square&logo=acer&logoColor=white)]() |```  [![Acer Badge](https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=social-square&logo=acer&logoColor=white)]() ``` |
+|Acer Laptop| [![Acer Laptop](https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() |```  [![Acer Laptop](https://img.shields.io/badge/acer%20laptop-83B81A?style=for-the-badge&logo=acer&logoColor=white)]() ``` |
+|Acer Laptop| [![Acer Laptop Badge](https://img.shields.io/badge/acer%20laptop-83B81A?style=social-square&logo=acer&logoColor=white)]() |```  [![Acer Laptop Badge](https://img.shields.io/badge/acer%20laptop-83B81A?style=social-square&logo=acer&logoColor=white)]() ``` |
+|AMD Ryzen| [![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() |``` [![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() ``` |
+|AMD Ryzen| [![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=social-square&logo=amd&logoColor=white)]() |```  [![AMD Ryzen](https://img.shields.io/badge/AMD%20Ryzen_7_3800X-ED1C24?style=social-square&logo=amd&logoColor=white)]() ``` |
+|AMD Radeon| [![AMD Radeon Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() |```  [![AMD Radeon Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]() ```  |
+|AMD Radeon| [![AMD Radeon Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=social-square&logo=amd&logoColor=white)]() |```  [![AMD Radeon Badge](https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=social-square&logo=amd&logoColor=white)]() ``` |
+|Apple Silicon| [![Apple Silicon Badge](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)]() |```  [![Apple Silicon Badge](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)]() ```|
+|Apple Silicon| [![Apple Silicon Badge](https://img.shields.io/badge/apple%20silicon-333333?style=social-square&logo=apple&logoColor=white)]() |``` [![Apple Silicon Badge](https://img.shields.io/badge/apple%20silicon-333333?style=social-square&logo=apple&logoColor=white)]()``` |
+|Apple Laptop |[![Apple Laptop Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)]() |``` [![Apple Laptop Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white)]() ```|
+|Apple Laptop| [![Apple Laptop Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=social-square&logo=apple&logoColor=white)]() |```[![Apple Laptop Badge](https://img.shields.io/badge/Apple%20laptop-333333?style=social-square&logo=apple&logoColor=white)]() ```|
+|Apple MacBook Pro| [![Apple MacBook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white)]() |``` [![Apple MacBook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white)]() ```|
+|Apple MacBook Pro| [![Apple MacBook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=social-square&logo=apple&logoColor=white)]() |``` [![Apple MacBook Pro Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=social-square&logo=apple&logoColor=white)]() ```|
+|Asus Laptop| [![Asus Laptop Badge](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)]() |```  [![Asus Laptop Badge](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)]() ```|
+|Asus Laptop| [![Asus Laptop Badge](https://img.shields.io/badge/asus%20laptop-000000?style=social-square&logo=asus&logoColor=white)]() |``` https://img.shields.io/badge/asus%20laptop-000000?style=social-square&logo=asus&logoColor=white ```|
+|Dell XPS| [![Dell XPS Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)]() |``` [![Dell XPS Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)]()``` |
+|Dell XPS| [![Dell XPS Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=social-square&logo=dell&logoColor=white)]() |``` [![Dell XPS Badge](https://img.shields.io/badge/dell-XPS%201%20-007DB8?style=social-square&logo=dell&logoColor=white)]() ```|
+|HP Laptop| [![HP Laptop Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)]() |``` [![HP Laptop Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)]()```|
+|HP Laptop| [![HP Laptop Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=social-square&logo=hp&logoColor=white)]() |``` [![HP Laptop Badge](https://img.shields.io/badge/hp%20laptop-0096D6?style=social-square&logo=hp&logoColor=white)]()``` |
+|Huawei| [![Huawei Badge](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)]() |``` [![Huawei Badge](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)]() ```|
+|Huawei| [![Huawei Badge](https://img.shields.io/badge/Huawei-FF0000?style=social-square&logo=huawei&logoColor=white)]() | ```[![Huawei Badge](https://img.shields.io/badge/Huawei-FF0000?style=social-square&logo=huawei&logoColor=white)]() ```|
+|Intel Core i5| [![Intel Core i5 Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() |``` [![Intel Core i5 Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() ```|
+|Intel Core i5| [![Intel Core i5 Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() |```[![Intel Core i5 Badge](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() ```|
+|Intel Core i7| [![Intel Core i7 Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() |``` [![Intel Core i7 Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() ```|
+|Intel Core i7| [![Intel Core i7 Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() |``` [![Intel Core i7 Badge](https://img.shields.io/badge/Intel%20Core_i7_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() ```|
+|Intel Core i9| [![Intel Core i9 Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() |``` [![Intel Core i9 Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)]() ```|
+|Intel Core i9| [![Intel Core i9 Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=social-square&logo=intel&logoColor=white)]() |``` [![Intel Core i9 Badge](https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=social-square&logo=intel&logoColor=white)]()```|
+|Lenovo Laptop| [![Lenovo Laptop Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white)]() |``` [![Lenovo Laptop Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white)]() ```|
+|Lenovo Laptop|[![Lenovo Laptop Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=social-square&logo=acer&logoColor=white)]() |``` [![Lenovo Laptop Badge](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=social-square&logo=acer&logoColor=white)]() ```|
+|NVIDIA GTX 1650| [![NVIDIA GTX 1650 Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]() |``` [![NVIDIA GTX 1650 Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]() ```|
+|NVIDIA GTX 1650| [![NVIDIA GTX 1650 Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=social-square&logo=nvidia&logoColor=white)]() |``` [![NVIDIA GTX 1650 Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=social-square&logo=nvidia&logoColor=white)]()``` |
+|Razer Laptop| [![Razer Laptop Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)]() |``` [![Razer Laptop Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)]() ```|
+|Razer Laptop| [![Razer Laptop Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=social-square&logo=razer&logoColor=252525)]() |``` [![Razer Laptop Badge](https://img.shields.io/badge/razer%20laptop-44D62D?style=social-square&logo=razer&logoColor=252525)]() ```|
+|Samsung Laptop| [![Samsung Laptop Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white)]() |``` [![Samsung Laptop Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=for-the-badge&logo=Samsung&logoColor=white)]() ```|
+|Samsung Laptop| [![Samsung Laptop Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=social-square&logo=Samsung&logoColor=white)]() |``` [![Samsung Laptop Badge](https://img.shields.io/badge/samsung%20laptop-1428A0?style=social-square&logo=Samsung&logoColor=white)]()``` |
+|ASUS Zenbook| [![ASUS Zenbook Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() |``` [![ASUS Zenbook Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() ```|
+|ASUS Zenbook| [![ASUS Zenbook Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=social-square&logo=windows&logoColor=white)]() |``` [![ASUS Zenbook Badge](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=social-square&logo=windows&logoColor=white)]() ```|
+|Xiaomi Laptop| [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)]() |``` [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)]() ```|
+|Xiaomi Laptop| [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white)]() |``` [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white)]() ```|
 
 
 
@@ -2031,21 +2031,21 @@ Github Snake
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) | https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white |
-| ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=social-square&logo=bookstack&logoColor=white) | https://img.shields.io/badge/Bookstack-%230288D1.svg?style=social-square&logo=bookstack&logoColor=white |
-| ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white |
-| ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=social-square&logo=wikipedia&logoColor=white) | https://img.shields.io/badge/Wikipedia-%23000000.svg?style=social-square&logo=wikipedia&logoColor=white |
-| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) | https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white |
-| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) | https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white |
+|Nome | BADGE                                                        | URL                                                          |
+|--| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Bookstack| ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) | ```  ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white) ``` |
+|Bookstack| ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=social-square&logo=bookstack&logoColor=white) | ``` ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=social-square&logo=bookstack&logoColor=white) ``` |
+|Wikipedia| ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) | ``` ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white) ``` |
+|Wikipedia| ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=social-square&logo=wikipedia&logoColor=white) | ``` ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=social-square&logo=wikipedia&logoColor=white) ``` |
+|Wiki.js| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) |```  ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) ``` |
+|Wiki.js| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) | ``` ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) ``` |
 
 
 
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo) |``` [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo)         ``` |
+| [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo) | ``` [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo)         ``` |
 | ![Awesome Badges](https://img.shields.io/badge/Badge-awesome-purple.svg) |``` ![Awesome Badges](https://img.shields.io/badge/Badge-awesome-purple.svg)     ```|
 | [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) |```[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/)  ``` |
 | [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/) |``` [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/martageraldo/open-source-badges/)  ``` |
