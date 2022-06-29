@@ -280,7 +280,7 @@ Github Snake
 |Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white) | ```![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)```|
 |Xing|![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white) | ```![XING](https://img.shields.io/badge/xing-%23006567.svg?style=social-square&logo=xing&logoColor=white)```|
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 #  Blockchain
 
@@ -290,7 +290,7 @@ Github Snake
 |Hyperledger | [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]() | ``` [![Hyperledger Badge](https://img.shields.io/badge/hyperledger-2F3134?style=social-square&logo=hyperledger&logoColor=white)]()``` |
 
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 # Email
 
 
@@ -311,7 +311,7 @@ Github Snake
 |Tutanota| [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]() |``` [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)]()``` |
 |Tutanota | [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]() |``` [![Tutanota Badge](https://img.shields.io/badge/Tutanota-840010?style=social-square&logo=Tutanota&logoColor=white)]()``` |
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Grupos
 
@@ -344,7 +344,7 @@ Github Snake
 |Stackoverflow | [![Stackoverflow Badge](https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white)]() | ```[![Stackoverflow Badge](https://img.shields.io/badge/Reddit-FF4500?style=social-square&logo=reddit&logoColor=white)]()``` |
 |Stackoverflow | [![StackoverflowBadge](https://aleen42.github.io/badges/src/stackoverflow.svg)]() | ```[![StackoverflowBadge](https://aleen42.github.io/badges/src/stackoverflow.svg)]()``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Pagamentos e Recebimentos
 
@@ -394,7 +394,7 @@ Github Snake
 |Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]() |``` [![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)]()``` |
 |Stripe |[![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white)]() |``` [![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=social-square&logo=Stripe&logoColor=white)]()``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##   Som
 
@@ -431,7 +431,7 @@ Github Snake
 |1001tracklists |[![1001tracklists Badge](https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white)]() | ```[![1001tracklists Badge](https://img.shields.io/badge/1001tracklists-40AEF0?style=for-the-badge&logo=1001tracklists&logoColor=white)]()``` |
 |1001tracklists |[![1001tracklists Badge](https://img.shields.io/badge/1001tracklists-40AEF0?style=social-square&logo=1001tracklists&logoColor=white)]() |``` [![1001tracklists Badge](https://img.shields.io/badge/1001tracklists-40AEF0?style=social-square&logo=1001tracklists&logoColor=white)]() ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Jogos
 
@@ -530,7 +530,7 @@ Github Snake
 |Xbox | ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) |```  ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ``` |
 |Xbox| ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white) | ``` ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=social-square&logo=xbox&logoColor=white) ``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Blog
 
@@ -560,7 +560,7 @@ Github Snake
 |Micro.blog | ![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white) |``` ![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white) ```|
 |Micro.blog | ![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white) | ```![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=social-square&logo=micro.blog&logoColor=white)``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Browsers
 
@@ -589,7 +589,7 @@ Github Snake
 |Vivaldi| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) |``` ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) ```|
 |Vivaldi| ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white) | ```![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=social-square&logo=Vivaldi&logoColor=white) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  Cloud
 
@@ -672,7 +672,7 @@ Github Snake
 |Vercel| [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]() | ```[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()``` |
 |Vercel |[![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=social-square&logo=vercel&logoColor=white)]() |``` [![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=social-square&logo=vercel&logoColor=white)]() ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 
 ## Educação
@@ -736,7 +736,7 @@ Github Snake
 |Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() ```|
 |Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  ETL
 
@@ -751,7 +751,7 @@ Github Snake
 |Spark AR | [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() |``` [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() ```|
 |Spark AR | [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]() |```  [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]()``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  Cloud Storage
 
@@ -768,7 +768,7 @@ Github Snake
 | Next Cloud  | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white) |``` ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white) ```|
 | Next Cloud  | ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white) |``` ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=social-square&logo=nextcloud&logoColor=white)``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Marcas de Smartphone
 
@@ -798,7 +798,7 @@ Github Snake
 | Xiaomi     | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white) |```![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)```|
 | Xiaomi   | ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=social-square&logo=xiaomi&logoColor=white) |```![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=social-square&logo=xiaomi&logoColor=white)```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  Forum
 
@@ -819,7 +819,7 @@ Github Snake
 |XDA-Developers| ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white) |``` ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)``` |
 |XDA-Developers| ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=social-square&logo=XDA-Developers&logoColor=white) |``` ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=social-square&logo=XDA-Developers&logoColor=white)``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Comida
 
@@ -852,7 +852,7 @@ Github Snake
 |Zomato| [![Zomato Badge](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)]() |```[![Zomato Badge](https://img.shields.io/badge/Zomato-E23744?style=for-the-badge&logo=zomato&logoColor=white)]()``` |
 |Zomato| [![ZomatoBadge](https://img.shields.io/badge/Zomato-E23744?style=social-square&logo=zomato&logoColor=white)]() |``` [![ZomatoBadge](https://img.shields.io/badge/Zomato-E23744?style=social-square&logo=zomato&logoColor=white)]()``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## IDEs /Editores
 
@@ -951,7 +951,7 @@ Github Snake
 |Zend |![Zend badge](https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA) | ```![Zend badge](https://img.shields.io/badge/Zend-fff?style=social-square&logo=zend&logoColor=0679EA)```|
 |Azure |[![Azure badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) |``` [![Azure badge](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Frameworks / Platforms e Libraries
 
@@ -1310,6 +1310,9 @@ Github Snake
 |Qiskit |![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | ```https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white  ```|
 |Qiskit |![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white) | ```https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white   ``` |
 
+ <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+ 
 ## Testes
 
 |   NOME           |          BADGE                                                    | URL     |
@@ -1327,7 +1330,7 @@ Github Snake
 | Testing Library | ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) | ``` ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)  ``` |
 |Testing Library| ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) | ``` ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=social-square&logo=testing-library&logoColor=white) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Database
 
@@ -1382,7 +1385,7 @@ Github Snake
 |Supabase| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |``` ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white ```|
 |Supabase| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white) |``` ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=social-square&logo=supabase&logoColor=white) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Design
 
@@ -1471,7 +1474,7 @@ Github Snake
 || ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) |``` https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white ```|
 || ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=social-square&logo=adobe&logoColor=white) | ```https://img.shields.io/badge/adobe-%23FF0000.svg?style=social-square&logo=adobe&logoColor=white ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Criptomoedas
 
@@ -1516,7 +1519,7 @@ Github Snake
 |Z Cash| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white) |``` ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white) ```|
 |Z Cash| ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white) | ```![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=social-square&logo=zcash&logoColor=white) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 # Github
 
@@ -1534,7 +1537,7 @@ Github Snake
 | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) | ```[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)    ```   |
 | [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com) | ``` [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Twitter
 
@@ -1546,7 +1549,7 @@ Github Snake
 | [![BADGE](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]() |``` [![BADGE](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)]() ```|
 | [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) | ```[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Made with
 
@@ -1570,7 +1573,7 @@ Github Snake
 | [![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() | ```[![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() ``` |
 
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 
 ## Streaming
@@ -1601,7 +1604,7 @@ Github Snake
 | Netflix         | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() |``` [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() ```|
 |   Netflix      | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]() |```[![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]()``` |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Licenças
 
@@ -1617,7 +1620,7 @@ Github Snake
 | [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0) | ```https://img.shields.io/badge/License-CC--0-blue.svg  ``` |
 | [![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js) |``` https://badgen.net/npm/llicense/discord.js ```       |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Linguagens
 
@@ -1738,7 +1741,7 @@ Github Snake
 | [![badge](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)]() | https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white |
 | [![badge](https://img.shields.io/badge/WebAssembly-654FF0?style=social-square&logo=WebAssembly&logoColor=white)]() | https://img.shields.io/badge/WebAssembly-654FF0?style=social-square&logo=WebAssembly&logoColor=white |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ##  Linters
 
@@ -1758,7 +1761,7 @@ Github Snake
 | [![badge](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)]() | https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white |
 | ![Badge](https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white) | https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Store
 
@@ -1777,7 +1780,7 @@ Github Snake
 | ![Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white) | https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white |
 | ![Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=social-square&logo=gumroad&logoColor=white) | https://img.shields.io/badge/GUMROAD-36a9ae?style=social-square&logo=gumroad&logoColor=white |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ### Sistema Operacional
 
@@ -1851,7 +1854,7 @@ Github Snake
 | ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) |                                                              |
 | ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) |                                                              |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Plataforma de Trabalho
 
@@ -1875,7 +1878,7 @@ Github Snake
 | [![name Badge](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white)]() | https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white |
 | [![name Badge](https://img.shields.io/badge/TeamCity-000000?style=social-square&logo=TeamCity&logoColor=white)]() | https://img.shields.io/badge/TeamCity-000000?style=social-square&logo=TeamCity&logoColor=white |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Controle de Versão
 
@@ -1911,7 +1914,9 @@ Github Snake
 | Sequelize | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) | https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white |
 |           | ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=social-square&logo=Sequelize&logoColor=white) | https://img.shields.io/badge/Sequelize-52B0E7?style=social-square&logo=Sequelize&logoColor=white |
 
-## Servidores
+<b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+ ## Servidores
 
 |                 |                                                              |                                                              |
 | --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -1932,7 +1937,7 @@ Github Snake
 | Nginx           | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white |
 |                 | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=social-square&logo=nginx&logoColor=white) | https://img.shields.io/badge/nginx-%23009639.svg?style=social-square&logo=nginx&logoColor=white |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ### Terminal
 
@@ -1958,6 +1963,8 @@ Github Snake
 |Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() ```|
 |Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() ```|
 
+ <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
 ###  Sites de busca
 
 
@@ -1975,7 +1982,7 @@ Github Snake
 |Yahoo| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) | ``` ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) ```     |
 |Yahoo| ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) | ``` ![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white) ```     |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ### Espaço de Trabalho
 
@@ -2024,7 +2031,7 @@ Github Snake
 |Xiaomi Laptop| [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)]() |``` [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)]() ```|
 |Xiaomi Laptop| [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white)]() |``` [![Xiaomi Laptop Badge](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=social-square&logo=xiaomi&logoColor=white)]() ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Documentation Platforms
 
@@ -2040,7 +2047,7 @@ Github Snake
 |Wiki.js| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) | ``` ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) ``` |
 
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -2073,7 +2080,7 @@ Github Snake
 | ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) | ``` ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)```                                                            |
 | ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=social-square&logo=Airtable&logoColor=white) |  ```![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=social-square&logo=Airtable&logoColor=white)  ```                                                         |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Feedback
 
@@ -2083,7 +2090,7 @@ Github Snake
 | ------------------------------------------------------------ | --------------------------------------------------------- |
 | [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]() |``` [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]() ```|
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Visitantes
 
@@ -2097,7 +2104,7 @@ Github Snake
  | ![visitor badge](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS) | ```![visitor badge](![](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS)```|
 | Créditos:                                                    | ```https://github.com/jwenjian/ ```                                |
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 ## Carros
 
@@ -2123,7 +2130,7 @@ Github Snake
 
 
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 
 
@@ -2161,6 +2168,9 @@ Github Snake
 
  Para mais imagens: https://devicon.dev/
 
+ <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+ 
 # Github Snake
 
 ![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)
@@ -2168,7 +2178,7 @@ Github Snake
 
 
 
-
+<b>[🔙 Voltar ao topo](#-índice)<b>
 
 
 
