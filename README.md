@@ -1750,19 +1750,18 @@ Github Snake
 
 
 
-| BADGE                                                        | URL                                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
-| [![badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)]() | https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white |
-| [![badge](https://img.shields.io/badge/eslint-3A33D1?style=social-square&logo=eslint&logoColor=white)]() | https://img.shields.io/badge/eslint-3A33D1?style=social-square&logo=eslint&logoColor=white |
-| ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) | https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white |
-| ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=social-square&logo=eslint&logoColor=white) | https://img.shields.io/badge/ESLint-4B3263?style=social-square&logo=eslint&logoColor=white |
-| [![badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)](https://github.com/) | https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E |
-| [![badge](https://img.shields.io/badge/prettier-1A2C34?style=social-square&logo=prettier&logoColor=F7BA3E)]() | https://img.shields.io/badge/prettier-1A2C34?style=social-square&logo=prettier&logoColor=F7BA3E |
-| [![Visual Studio](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)]() | https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white |
-| [![Visual Studio](https://img.shields.io/badge/stylelint-000?style=social-square&logo=stylelint&logoColor=white)](https://visualstudio.microsoft.com) | https://img.shields.io/badge/stylelint-000?style=social-square&logo=stylelint&logoColor=white |
-| [![badge](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)]() | https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white |
-| ![Badge](https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white) | https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white |
+|| BADGE                                                        | URL                                                          |
+|---| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|Eslint| [![Eslint badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)]() | ```[![Eslint badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)]()``` |
+|Eslint| [![Eslint badge](https://img.shields.io/badge/eslint-3A33D1?style=social-square&logo=eslint&logoColor=white)]() | ```[![Eslint badge](https://img.shields.io/badge/eslint-3A33D1?style=social-square&logo=eslint&logoColor=white)]() ```|
+|ESLint |![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) | ```![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)``` |
+|ESLint| ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=social-square&logo=eslint&logoColor=white) | ```![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=social-square&logo=eslint&logoColor=white) ```|
+|Prettier |[![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)]() |``` [![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)]() ```|
+|Prettier| [![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=social-square&logo=prettier&logoColor=F7BA3E)]() |``` [![Prettier badge](https://img.shields.io/badge/prettier-1A2C34?style=social-square&logo=prettier&logoColor=F7BA3E)]() ```|
+|Stylelint |[![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)]() |``` [![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)]()``` |
+|Stylelint| [![Stylelint](https://img.shields.io/badge/stylelint-000?style=social-square&logo=stylelint&logoColor=white)]() | ```[![Stylelint](https://img.shields.io/badge/stylelint-000?style=social-square&logo=stylelint&logoColor=white)]() ```|
+|SonarLint| [![ SonarLintbadge](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)]() | ```[![ SonarLintbadge](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)]()``` |
+|SonarLint |![SonarLint Badge](https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white) |``` ![SonarLint Badge](https://img.shields.io/badge/SonarLint-CB2029?style=social-square&logo=sonarlint&logoColor=white) ```|
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
 
