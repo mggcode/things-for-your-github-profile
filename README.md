@@ -2181,13 +2181,17 @@ Github Snake
 # Github Snake
 
 ![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
+<br>
+![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
+
 
 <br>
   
   
  | Nome |                    URL                          |
  |------|-------------------------------------------------| 
- |Snake Animation|```![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
+ |White Snake Animation|```![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
+ |Black Snake Animation|```![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) ```| 
 
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
