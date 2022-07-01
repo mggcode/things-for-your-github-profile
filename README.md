@@ -2141,7 +2141,7 @@ Github Snake
 
 
 
-| | IMAGE                                                        | URL                                                          |
+| Nome | IMAGE                                                        | URL                                                          |
 |--| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |Android| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> ```|
 |Gnu bash | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="dio" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>``` |
@@ -2182,7 +2182,12 @@ Github Snake
 
 ![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg)
 
-
+<br>
+  
+  
+ | Nome |                    URL                          |
+ |------|-------------------------------------------------| 
+ |Snake Animation|```![Snake animation](https://github.com/maisamaximo/maisamaximo/blob/output/github-contribution-grid-snake.svg) ```| 
 
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
