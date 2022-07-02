@@ -113,6 +113,8 @@ Github Snake
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -140,6 +142,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao Índice](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -187,6 +191,8 @@ Github Snake
 <br>
 
 <br>[🔙 Voltar ao Ìndice](#-índice)<br>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -359,6 +365,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -398,6 +406,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -456,6 +466,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -501,6 +513,8 @@ Github Snake
 
  <b>[🔙 Voltar ao topo](#-índice)<b>
  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  
 <br>
 <br>
 
@@ -569,7 +583,12 @@ Github Snake
 |Xbox | [![XBox Badge](https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white)]() | ```[![XBox Badge](https://img.shields.io/badge/Xbox-107C10?style=social-square&logo=xbox&logoColor=white)]()``` |
 |XBox | [![XBox Badge](https://img.shields.io/badge/Xbox-black?style=social-square&logo=xbox&logoColor=white)]() |``` [![XBox Badge](https://img.shields.io/badge/Xbox-black?style=social-square&logo=xbox&logoColor=white)]()``` |
 |XBox | [![XBox Badge](https://img.shields.io/badge/Xbox-white?style=social-square&logo=xbox&logoColor=black)]() |``` [![XBox Badge](https://img.shields.io/badge/Xbox-white?style=social-square&logo=xbox&logoColor=black)]()``` |
-
+  
+<br>
+<br>
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+ 
 <br>
 <br>
 
@@ -609,6 +628,8 @@ Github Snake
 <br>
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
 
 <br>
 <br>
@@ -648,6 +669,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
 
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+
 <br>
 <br>
  
@@ -684,6 +707,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+ 
 <br>
 <br>
  
@@ -775,6 +800,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+ 
 <br>
 <br>
 
@@ -846,6 +873,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+ 
 <br>
 <br>
  
@@ -863,12 +892,21 @@ Github Snake
 |Talend | [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white)]() |``` [![Talend Badge](https://img.shields.io/badge/Talend-FF6D70?style=social-square&logo=Talend&logoColor=white)]() ```|
 |Spark AR | [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() |``` [![Spark AR- Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)]() ```|
 |Spark AR | [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]() |```  [![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-FF5C83?style=social-square&logo=SparkAR&logoColor=white)]()``` |
-
+ 
+<br>
+<br>
+ 
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+ 
+<br>
+<br>
+ 
 ##  Cloud Storage
 
-
+<br>
+<br>
 
 |       Nome    | Badge                                                        | URL                                                          |
 | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -885,6 +923,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
  
 <br>
 <br>
@@ -925,6 +965,8 @@ Github Snake
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -953,6 +995,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 <br>
 <br>
@@ -963,7 +1007,7 @@ Github Snake
 <br>
 
 |NOME| BADGE                                                        | URL                                                          |
-|-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
+|-----| ------------------------------------------------------------ | ----------------------------------------------------------- |
 |iFood| [![iFood Badge](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)]() | ``` [![iFood Badge](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)]() ``` |
 |iFood| [![iFood Badge](https://img.shields.io/badge/iFood-EA1D2C?style=social-square&logo=ifood&logoColor=white)]() | ``` [![iFood Badge](https://img.shields.io/badge/iFood-EA1D2C?style=social-square&logo=ifood&logoColor=white)]() ``` |
 |KFC| [![KFC Badge](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]() | ``` [![KFC Badge](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)]() ``` |
@@ -993,7 +1037,9 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -1100,6 +1146,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -1460,12 +1508,22 @@ Github Snake
 |Xamarin |[![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?style=social-square&logo=xamarin&logoColor=white)]() |``` [![Xamarin Badge](https://img.shields.io/badge/Xamarin-3498DB?style=social-square&logo=xamarin&logoColor=white)]()``` |
 |Qiskit |![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) | ```![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)  ```|
 |Qiskit |![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white) | ```![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=social-square&logo=Qiskit&logoColor=white)   ``` |
-
+ 
+<br>
+<br>
+ 
  <b>[🔙 Voltar ao topo](#-índice)<b>
- 
- 
+  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  
+ <br>
+<br>
+  
 ## Testes
-
+  
+<br>
+<br>
+  
 |   NOME           |          BADGE                                                    | URL     |
 | --------------- | ------------------------------------------------------------ | ---- |
 | Cypress | ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) |``` ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)   ``` |
@@ -1485,7 +1543,9 @@ Github Snake
 <br>
   
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -1548,6 +1608,8 @@ Github Snake
 
  <b>[🔙 Voltar ao topo](#-índice)<b>
  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  
 <br>
 <br>
 
@@ -1646,6 +1708,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -1698,8 +1762,10 @@ Github Snake
 <br>
 <br>
 
- <b>[🔙 Voltar ao topo](#-índice)<b>
- 
+<b>[🔙 Voltar ao topo](#-índice)<b>
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  
 <br>
 <br>
  
@@ -1725,6 +1791,8 @@ Github Snake
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -1743,6 +1811,9 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -1768,13 +1839,20 @@ Github Snake
 | [![Built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)]() | ```[![Built with](http://ForTheBadge.com/images/badges/built-by-developers.svg)]() ```|
 | [![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() | ```[![Built with](http://ForTheBadge.com/images/badges/built-with-science.svg)]() ``` |
 
+<br>
+<br>
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-
+<br>
+<br>
+ 
 ## Streaming
 
-
+<br>
+<br>
 
 
 | Nome    | BADGE  |URL|
@@ -1804,6 +1882,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -1829,6 +1909,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -1838,7 +1920,7 @@ Github Snake
 <br>
 
 
-| | BADGE                                                        | URL                                                          |
+|NOME | BADGE                                                     | URL                                                          |
 |--| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |Apache Groovy |[![Apache Groovy BADGE](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)]() | ```[![Apache Groovy BADGE](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)]() ```|
 |Apache Groovy| [![Apache Groovy badge](https://img.shields.io/badge/apache%20Groovy-4298B8?style=social-square&logo=apachegroovy&logoColor=white)]() | ```[![Apache Groovy badge](https://img.shields.io/badge/apache%20Groovy-4298B8?style=social-square&logo=apachegroovy&logoColor=white)]() ```|
@@ -1958,6 +2040,9 @@ Github Snake
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
+ 
 <br>
 <br>
  
@@ -1985,6 +2070,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -2006,10 +2093,13 @@ Github Snake
 |Fiverr|![fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=social-square&logo=fiverr&logoColor=white) | ```![fiverr Badge](https://img.shields.io/badge/fiverr-1DBF73?style=social-square&logo=fiverr&logoColor=white) ```|
 |GUMROAD |![GUMROAD Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white) | ```![GUMROAD Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white) ```|
 |GUMROAD| ![GUMROAD Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=social-square&logo=gumroad&logoColor=white) | ```![GUMROAD Badge](https://img.shields.io/badge/GUMROAD-36a9ae?style=social-square&logo=gumroad&logoColor=white) ``` |
+ 
 <br>
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -2093,6 +2183,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -2124,6 +2216,8 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -2158,6 +2252,10 @@ Github Snake
 <br>
 <br>
  
+ <b>[🔙 Voltar ao topo](#-índice)<b>
+  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 ## ORM
  
 <br>
@@ -2174,6 +2272,8 @@ Github Snake
 <br>
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -2206,7 +2306,9 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
- <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
+<br>
 <br>
 
 ## Terminal
@@ -2239,7 +2341,9 @@ Github Snake
 <br>
 <br>
 
- <b>[🔙 Voltar ao topo](#-índice)<b>
+<b>[🔙 Voltar ao topo](#-índice)<b>
+  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
   
 <br>
 <br>
@@ -2266,6 +2370,8 @@ Github Snake
 <br>
   
 <b>[🔙 Voltar ao topo](#-índice)<b>
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
 <br>
 <br>
@@ -2323,6 +2429,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
 
@@ -2340,11 +2448,21 @@ Github Snake
 |Wiki.js| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) |```  ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white) ``` |
 |Wiki.js| ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) | ``` ![Wiki.js](https://img.shields.io/badge/wiki.js-%231976D2.svg?style=social-square&logo=wikidotjs&logoColor=white) ``` |
 
-
+<br>
+<br>
+ 
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
-
+<br>
+<br>
+ 
+ ##
+ 
+<br>
+<br>
+ 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo) | ``` [![saythanks](https://img.shields.io/badge/Say-Thanks-ff69b4.svg)](https://saythanks.io/to/martageraldo)         ``` |
@@ -2381,6 +2499,8 @@ Github Snake
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
  <br>
  <br>
  
@@ -2397,7 +2517,9 @@ Github Snake
 <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
  
@@ -2418,7 +2540,9 @@ Github Snake
  <br>
  
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
  <br>
  <br>
  
@@ -2450,9 +2574,13 @@ Github Snake
 <br>
 
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
 <br>
 <br>
+ 
+ ## Imagens
 
 | Nome | IMAGE                                                        | URL                                                          |
 |--| ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -2495,7 +2623,9 @@ Github Snake
 <br>
  
  <b>[🔙 Voltar ao topo](#-índice)<b>
- 
+  
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+  
  <br>
 <br>
   
@@ -2517,10 +2647,15 @@ Github Snake
  |White Snake Animation|```![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
  |Black Snake Animation|```![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) ```| 
 
-
+<br>
+<br>
+  
 <b>[🔙 Voltar ao topo](#-índice)<b>
-
-
+ 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+ 
+<br>
+<br>
 
 
 
