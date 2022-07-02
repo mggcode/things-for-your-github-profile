@@ -867,6 +867,8 @@ Para usar um badge:
 |Pluralsight |![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white) |``` ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=social-square&logo=pluralsight&logoColor=white) ```|
 |Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)]() ```|
 |Coding Ninjas |[![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() |``` [![Coding Ninjas Badge](https://img.shields.io/badge/coding%20ninjas-DD6620?style=social-square&logo=codingninjas&logoColor=white)]() ```|
+ |Platzi |[![Platzi Badge](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)]() |``` [![Platzi Badge](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)]() ```|
+ |Platzi |[![Platzi Badge](https://img.shields.io/badge/Platzi-98CA3F?style=social-square&logo=platzi&logoColor=white)]() |``` [![Platzi Badge](https://img.shields.io/badge/Platzi-98CA3F?style=social-square&logo=platzi&logoColor=white)]() ```|
  
 <br>
 <br>
