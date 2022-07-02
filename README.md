@@ -22,58 +22,58 @@ Para usar um badge:
 <br>
 <br>
 
-# 📚 Índice
+# 📚 [Índice](#-indice)
 <!--
-[Analytics](#-analytics)<br>
-[IA e Bots](#-ia-e-bots)<br>
-[Mensagens](#-mensagens)<br>
-[Social](#-social)<br>
-[Email](#-email)<br>
-[Grupos](#-grupos)<br>
-[Pagamentos e Recebimentos](#-pagamentos-e-Recebimentos)<br>
-Blockchain
-Som
-Jogos
-Console Jogos
-Blog
-Browsers
-Cloud
-Educação
-ETL
-Cloud Storage
-Marcas de Smartphone
- Forum
-Comida
-IDEs /Editores
-Frameworks / Platforms e Libraries
-Testes
-Database
-Design
-Github
-Twitter
-Made with
-Streaming
-Licenças
-Linguagens
-Linters
-Store
-Sistema Operacional
-Plataforma de Trabalho
-Controle de Versão
-ORM
-Servidores
-Terminal
-Espaço de Trabalho
-Documentation Platforms
-Troféu
- Estatísticas
-status
-Linguagens mais usadas
-Resumo Status
-Gráficos
-Visitantes
- Carros
-Github Snake
+- [Analytics](#-analytics)<br>
+- [IA e Bots](#-ia-e-bots)<br>
+- [Mensagens](#-mensagens)<br>
+- [Social](#-social)<br>
+- [Email](#-email)<br>
+- [Grupos](#-grupos)<br>
+- [Carteira Digital](#-carteira-digital)<br>
+- [Blockchain](#-)
+- [Som](#-)
+- [Jogos](#-)
+- [Console Jogos](#-)
+- [Blog](#-)
+- [Browsers](#-)
+- [Cloud](#-)
+- [Educação](#-)
+- [ETL](#-)
+- [Cloud Storage](#-)
+- [Marcas de Smartphone](#-)
+- [Forum](#-)
+- [Comida](#-)
+- [IDEs /Editores](#-)
+- [Frameworks / Platforms e Libraries](#-)
+- [Testes](#-)
+- [Database](#-)
+- [Design](#-)
+- [Github](#-)
+- [Twitter](#-)
+- [Made with](#-)
+- [Streaming](#-)
+- [Licenças](#-)
+- [Linguagens](#-)
+- [Linters](#-)
+- [Store](#-)
+- [Sistema Operacional](#-)
+- [Plataforma de Trabalho](#-)
+- [Controle de Versão](#-)
+- [ORM](#-)
+- [Servidores](#-)
+- [Terminal](#-)
+- [Espaço de Trabalho](#-)
+- [Documentation Platforms](#-)
+- [Troféu](#-)
+- [Estatísticas](#-)
+- [status](#-)
+- [Linguagens mais usadas](#-)
+- [Resumo Status](#-)
+- [Gráficos](#-)
+- [Visitantes](#-)
+- [Carros](#-)(#-)
+- [Github Snake](#-)
 -->
 <br>
 <br>
