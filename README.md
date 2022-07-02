@@ -1877,6 +1877,8 @@ Para usar um badge:
 |  Crunchyroll    | [![Crunchyroll badge](https://img.shields.io/badge/Crunchyroll-F47521?style=social-square&logo=crunchyroll&logoColor=white)]() |```[![Crunchyroll badge](https://img.shields.io/badge/Crunchyroll-F47521?style=social-square&logo=crunchyroll&logoColor=white)]()```|
 | Netflix         | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() |``` [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)]() ```|
 |   Netflix      | [![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]() |```[![Netflix  Netflix](https://img.shields.io/badge/Netflix-E50914?style=social-square&logo=netflix&logoColor=white)]()``` |
+ |   Roku     | [![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)]() |```[![Roku](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)]()``` |
+ |   Roku     | [![Roku](https://img.shields.io/badge/roku-6f1ab1?style=social-square&logo=roku&logoColor=white)]() |```[![Roku](https://img.shields.io/badge/roku-6f1ab1?style=social-square&logo=roku&logoColor=white)]()``` |
 
 <br>
 <br>
