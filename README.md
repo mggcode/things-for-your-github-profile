@@ -22,59 +22,59 @@ Para usar um badge:
 <br>
 <br>
 
-# 📚 [Índice](#-indice)
-<!--
-- [Analytics](#-analytics)<br>
-- [IA e Bots](#-ia-e-bots)<br>
-- [Mensagens](#-mensagens)<br>
-- [Social](#-social)<br>
-- [Email](#-email)<br>
-- [Grupos](#-grupos)<br>
-- [Carteira Digital](#-carteira-digital)<br>
-- [Blockchain](#-)
-- [Som](#-)
-- [Jogos](#-)
-- [Console Jogos](#-)
-- [Blog](#-)
-- [Browsers](#-)
-- [Cloud](#-)
-- [Educação](#-)
-- [ETL](#-)
-- [Cloud Storage](#-)
-- [Marcas de Smartphone](#-)
-- [Forum](#-)
-- [Comida](#-)
-- [IDEs /Editores](#-)
-- [Frameworks / Platforms e Libraries](#-)
-- [Testes](#-)
-- [Database](#-)
-- [Design](#-)
-- [Github](#-)
-- [Twitter](#-)
-- [Made with](#-)
-- [Streaming](#-)
-- [Licenças](#-)
-- [Linguagens](#-)
-- [Linters](#-)
-- [Store](#-)
-- [Sistema Operacional](#-)
-- [Plataforma de Trabalho](#-)
-- [Controle de Versão](#-)
-- [ORM](#-)
-- [Servidores](#-)
-- [Terminal](#-)
+# [📚 Índice](#indice)
+
+- [Analytics](#analytics)
+- [IA e Bots](#ia-e-bots)
+- [Mensagens](#mensagens)
+- [Social](#social)
+- [Email](#email)
+- [Grupos](#grupos)
+- [Carteira Digital](#carteira-digital)
+- [Blockchain](#blockchain)
+- [Som](#som)
+- [Jogos](#jogos)
+- [Console Jogos](#console-jogos)
+- [Blog](#blog)
+- [Browsers](#browsers)
+- [Cloud](#cloud)
+- [Educação](#educação)
+- [ETL](#etl)
+- [Cloud Storage](#cloud-storage)
+- [Marcas de Smartphone](#marcas-de-smartphone)
+- [Forum](#forum)
+- [Comida](#comida)
+- [IDEs /Editores](#ides-editores)
+- [Frameworks Platformas e Livrarias](#frameworks-plataforms-e-libraries)
+- [Testes](#testes)
+- [Database](#database)
+- [Design](#design)
+- [Github](#github)
+- [Twitter](#twitter)
+- [Made with](#made-with)
+- [Streaming](#streaming)
+- [Licenças](#licencas)
+- [Linguagens](#linguagens)
+- [Linters](#linters)
+- [Store](#store)
+- [Sistema Operacional](#sistema-operacional)
+- [Plataforma de Trabalho](#plataformas)
+- [Controle de Versão](#controle-versao)
+- [ORM](#orm)
+- [Servidores](#servidores)
+- [Terminal](#terminal)
 - [Espaço de Trabalho](#-)
-- [Documentation Platforms](#-)
-- [Troféu](#-)
-- [Estatísticas](#-)
-- [status](#-)
-- [Linguagens mais usadas](#-)
-- [Resumo Status](#-)
-- [Gráficos](#-)
-- [Visitantes](#-)
-- [Carros](#-)(#-)
-- [Github Snake](#-)
--->
+- [Documentation Platforms](#documentation)
+- [Troféu](#trofeu)
+- [Estatísticas](#estatisticas)
+- [Status](#status)
+- [Resumo Status](#-resumo-status)
+- [Gráficos](#-graficos)
+- [Visitantes](#visitantes)
+- [Carros](#carros)
+- [Github Snake](#github-snake)
+
+---
 <br>
 <br>
 
@@ -141,7 +141,7 @@ Para usar um badge:
 <br>
 <br>
  
-<b>[🔝 Voltar ao Índice](#-índice)<b>
+<b>[🔝 Voltar ao topo](#-índice)<b>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
@@ -190,7 +190,7 @@ Para usar um badge:
 <br>
 <br>
 
-<br>[🔝 Voltar ao Ìndice](#-índice)<br>
+<br>[🔝 Voltar ao topo](#-índice)<br>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
  
@@ -767,7 +767,7 @@ Para usar um badge:
 |Mix Cloud |[![Mix Cloud Badge](https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white)]() |``` [![Mix Cloud Badge](https://img.shields.io/badge/mix%20cloud-5000ff?style=for-the-badge&logo=mixcloud&logoColor=white)]() ```|
 |Mix Cloud| [![Mix Cloud Badge](https://img.shields.io/badge/mix%20cloud-5000ff?style=social-square&logo=mixcloud&logoColor=white)]() |``` [![Mix Cloud Badge](https://img.shields.io/badge/mix%20cloud-5000ff?style=social-square&logo=mixcloud&logoColor=white)]() ```|
 |Netlify |[![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]() |``` [![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()``` |
-|Netlify |[![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]() |``` [![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]() ```|
+|Netlify |[![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)]() |``` [![Netlify  Badge](https://img.shields.io/badge/Netlify-00C7B7?style=social-square&logo=netlify&logoColor=white)]() ```|
 |Netlify |![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) |``` ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)``` |
 |Netlify |![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=social-square&logo=netlify&logoColor=#00C7B7) |``` ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=social-square&logo=netlify&logoColor=#00C7B7) ```|
 |Nextcloud |[![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)]() |``` [![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)]() ```|
