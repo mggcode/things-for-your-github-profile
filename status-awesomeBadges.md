@@ -1,4 +1,8 @@
 
+# [ESTATÍSTICAS ](#estatiscicas)
+
+
+[Voltar ao Índice](#indice)
 
 ## Troféu
 
@@ -61,7 +65,7 @@
 | [![Stargazers over time](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) |``` [![Stargazers over time](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) ```              |
  
  
- 
+[🔝 Voltar ao Topo](#estatisticas) 
 
 
 
