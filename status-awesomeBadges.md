@@ -12,8 +12,13 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![git](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]() | ```[![git](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
+| [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]() | ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
+|[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
 
+
+  
+ 
+ 
 
 
 ## Linguagens mais usadas
