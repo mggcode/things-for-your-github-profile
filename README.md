@@ -2038,7 +2038,7 @@ Para usar um badge:
 |TypeScript|[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) | ```[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) ``` |
 |WebAssembly| [![WebAssembly badge](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)]() |``` [![WebAssembly badge](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)]() ```|
 |WebAssembly| [![WebAssembly badge](https://img.shields.io/badge/WebAssembly-654FF0?style=social-square&logo=WebAssembly&logoColor=white)]() |``` [![WebAssembly badge](https://img.shields.io/badge/WebAssembly-654FF0?style=social-square&logo=WebAssembly&logoColor=white)]()``` |
- 
+ |Assembly| [![Assembly badge](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)]() |``` [![Assembly badge](https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)]()``` |
 <br>
 <br>
 
@@ -2331,6 +2331,7 @@ Para usar um badge:
 |GIT| [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) |``` [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com) ```  |
 |GNU Bash| [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]() |```[![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]() ```|
 |GNU Bash| [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white)]() |``` [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=social-square&logo=GNU%20Bash&logoColor=white)]() ```|
+ |GNU Bash| [![GNU Bash Badge](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)]() |``` [![GNU Bash Badge]( https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)]() ```|
 |Hyper| [![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]() |```[![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)]()``` |
 |Hyper| [![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white)]() | ```[![Hyper Badge](https://img.shields.io/badge/Hyper-000000?style=social-square&logo=hyper&logoColor=white)]() ```|
 |ITerm2| [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)]() |```  [![ITerm2 Badge](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)]()``` |
@@ -2344,6 +2345,8 @@ Para usar um badge:
 |Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)]() ```|
 |Windows Terminal| [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() |``` [![Windows Terminal Badge](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=social-square&logo=windows%20terminal&logoColor=white)]() ```|
  
+ 
+
 <br>
 <br>
 
