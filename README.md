@@ -24,6 +24,8 @@ Para usar um badge:
 
 # [📚 Índice](#indice)
 
+ <b>[Ir para estatísticas](#statusawesomeBadges)<b>
+
 - [Analytics](#analytics)
 - [IA e Bots](#ia-e-bots)
 - [Mensagens](#mensagens)
