@@ -25,7 +25,7 @@ Para usar um badge:
 # [📚 Índice](#indice)
 
  <b>[Ir para estatísticas](#statusawesomeBadges)<b>
-
+<!--
 - [Analytics](#analytics)
 - [IA e Bots](#ia-e-bots)
 - [Mensagens](#mensagens)
@@ -75,13 +75,16 @@ Para usar um badge:
 - [Visitantes](#visitantes)
 - [Carros](#carros)
 - [Github Snake](#github-snake)
-
+-->
 ---
 <br>
 <br>
 
 ## Analytics
-
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -115,13 +118,23 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+
+---
+
  
 <br>
 <br>
+ 
+ </details>
+
+---
+ 
  
 ##  IA e Bots
-
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -150,8 +163,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ##  Mensagens
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -198,9 +218,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ##  Social
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -323,8 +350,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ##  Blockchain
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -341,8 +375,15 @@ Para usar um badge:
 <br>
 <br>
  
-# Email
+ </details>
 
+---
+ 
+# Email
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -372,8 +413,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ## Grupos
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -414,8 +462,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ## Carteira Digital
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -474,8 +529,14 @@ Para usar um badge:
 <br>
 <br>
  
-##   Som
+ </details>
 
+---
+ 
+##   Som
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -519,9 +580,16 @@ Para usar um badge:
   
 <br>
 <br>
+  
+</details>
+
+---
 
 ## Jogos
 
+  <details>
+<summary>Mostrar Badges</summary>
+   
 <br>
 <br>
 
@@ -593,9 +661,16 @@ Para usar um badge:
  
 <br>
 <br>
+  
+ </details>
+
+---
 
 ## Console Jogos
 
+  <details>
+<summary>Mostrar Badges</summary>
+   
 <br>
 <br>
 
@@ -636,8 +711,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ## Blog
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -676,8 +758,13 @@ Para usar um badge:
 <br>
 <br>
  
-## Browsers
+ </details>
 
+---
+ 
+## Browsers
+<details>
+<summary>Mostrar Badges</summary>
 
 <br>
 <br>
@@ -713,9 +800,15 @@ Para usar um badge:
  
 <br>
 <br>
+ </details>
+
+---
  
 ##  Cloud
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -806,9 +899,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Educação
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -882,8 +982,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ##  ETL
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -907,8 +1014,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ##  Cloud Storage
 
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -932,9 +1046,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Marcas de Smartphone
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -973,10 +1094,15 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+</details>
 
+---
 
 ##  Forum
-
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1005,8 +1131,15 @@ Para usar um badge:
 <br>
 <br>
  
-## Comida
+ </details>
 
+---
+ 
+## Comida
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1046,9 +1179,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## IDEs /Editores
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -1155,8 +1295,15 @@ Para usar um badge:
 <br>
 <br>
 
+ </details>
+
+---
+ 
 ## Frameworks / Platforms e Libraries
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -1523,8 +1670,14 @@ Para usar um badge:
  <br>
 <br>
   
-## Testes
+  </details>
+
+---
   
+## Testes
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
   
@@ -1552,9 +1705,15 @@ Para usar um badge:
  
 <br>
 <br>
+ </details>
+
+---
 
 ## Database
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -1616,10 +1775,16 @@ Para usar um badge:
   
 <br>
 <br>
+  
+</details>
 
+---
 
 ## Design
- 
+
+  <details>
+<summary>Mostrar Badges</summary>
+   
 <br>
 <br>
 
@@ -1717,8 +1882,14 @@ Para usar um badge:
 <br>
 <br>
  
-## Criptomoedas
+ </details>
 
+---
+ 
+## Criptomoedas
+ 
+<details>
+<summary>Mostrar Badges</summary>
  
 <br>
 <br>
@@ -1773,8 +1944,15 @@ Para usar um badge:
 <br>
 <br>
  
-# Github
+ </details>
 
+---
+ 
+# Github
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1799,9 +1977,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Twitter
-
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1821,8 +2006,15 @@ Para usar um badge:
 <br>
 <br>
  
-## Made with
+ </details>
 
+---
+ 
+## Made with
+ 
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1853,8 +2045,14 @@ Para usar um badge:
 <br>
 <br>
  
-## Streaming
+ </details>
 
+---
+ 
+## Streaming
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -1894,8 +2092,15 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
 ## Licenças
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -1920,8 +2125,14 @@ Para usar um badge:
 <br>
 <br>
  
-## Linguagens
+ </details>
+
+---
  
+## Linguagens
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -2051,9 +2262,15 @@ Para usar um badge:
  
 <br>
 <br>
+ </details>
+
+---
  
 ##  Linters
  
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -2081,8 +2298,14 @@ Para usar um badge:
 <br>
 <br>
  
-## Store
+ </details>
+
+---
  
+## Store
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -2110,8 +2333,14 @@ Para usar um badge:
 <br>
 <br>
  
-### Sistema Operacional
+ </details>
 
+---
+ 
+### Sistema Operacional
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
  
@@ -2193,9 +2422,14 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Plataforma de Trabalho
- 
+ <details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2228,8 +2462,14 @@ Para usar um badge:
 <br>
 <br>
  
-## Controle de Versão
+ </details>
+
+---
  
+## Controle de Versão
+
+ <details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2261,9 +2501,14 @@ Para usar um badge:
  <b>[🔝 Voltar ao topo](#-índice)<b>
   
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
- 
+
+  </details>
+
+---
+  
 ## ORM
- 
+ <details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
  
@@ -2284,7 +2529,14 @@ Para usar um badge:
 <br>
 <br>
  
+ </details>
+
+---
+ 
  ## Servidores
+ <details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
  
@@ -2318,9 +2570,16 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Terminal
- 
+
+ <details>
+<summary>Mostrar Badges</summary>
+  
 <br>
 <br>
 
@@ -2359,8 +2618,14 @@ Para usar um badge:
 <br>
 <br>
  
-###  Sites de busca
+ </details>
 
+---
+ 
+###  Sites de busca
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -2387,8 +2652,13 @@ Para usar um badge:
 <br>
 <br>
  
-### Espaço de Trabalho
+ </details>
 
+---
+ 
+### Espaço de Trabalho
+<details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2444,9 +2714,15 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+ </details>
+
+---
 
 ## Documentation Platforms
-
+<details>
+<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -2468,9 +2744,13 @@ Para usar um badge:
  
 <br>
 <br>
+ </details>
+
+---
  
- ##
- 
+ ## Vários
+ <details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
  
@@ -2514,9 +2794,12 @@ Para usar um badge:
  
  <br>
  <br>
- 
-## Feedback
+ </details>
 
+---
+## Feedback
+<details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2533,9 +2816,12 @@ Para usar um badge:
  
 <br>
 <br>
- 
-## Visitantes
+ </details>
 
+---
+## Visitantes
+<details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2557,8 +2843,13 @@ Para usar um badge:
  <br>
  <br>
  
-## Carros
+ </details>
+
+---
  
+## Carros
+ <details>
+<summary>Mostrar Badges</summary>
 <br>
 <br>
 
@@ -2590,9 +2881,16 @@ Para usar um badge:
  
 <br>
 <br>
+ </details>
+
+---
  
  ## Imagens
-
+  
+<details>
+<summary>Mostrar Badges</summary>
+ 
+ 
 | Nome | IMAGE                                                        | URL                                                          |
 |--| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |Android| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> ```|
@@ -2639,9 +2937,13 @@ Para usar um badge:
   
  <br>
 <br>
-  
-# Github Snake
-  
+  </details>
+
+---
+## Github Snake
+<details>
+<summary>Mostrar </summary>
+ 
 <br>
 <br>
   
@@ -2669,7 +2971,10 @@ Para usar um badge:
  
 <br>
 <br>
+ 
+</details>
 
+---
 
 
 
