@@ -82,9 +82,7 @@ Para usar um badge:
 
 ## Analytics
  
-<details>
-<summary>Mostrar Badges</summary>
- 
+
 <br>
 <br>
 
@@ -125,8 +123,7 @@ Para usar um badge:
  
 <br>
 <br>
- 
- </details>
+
 
 ---
  
@@ -163,14 +160,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ##  Mensagens
 
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -219,15 +215,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ##  Social
 
- <details>
-<summary>Mostrar Badges</summary>
-  
 <br>
 <br>
 
@@ -350,14 +343,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ##  Blockchain
  
- <details>
-<summary>Mostrar Badges</summary>
+ 
   
 <br>
 <br>
@@ -375,14 +367,11 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 # Email
- 
-<details>
-<summary>Mostrar Badges</summary>
  
 <br>
 <br>
@@ -413,14 +402,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Grupos
 
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -462,14 +450,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
-
+ 
 ---
  
 ## Carteira Digital
 
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -528,14 +514,12 @@ Para usar um badge:
  
 <br>
 <br>
- 
- </details>
+
 
 ---
  
 ##   Som
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -581,14 +565,12 @@ Para usar um badge:
 <br>
 <br>
   
-</details>
 
 ---
 
 ## Jogos
 
-  <details>
-<summary>Mostrar Badges</summary>
+ 
    
 <br>
 <br>
@@ -662,14 +644,13 @@ Para usar um badge:
 <br>
 <br>
   
- </details>
+
 
 ---
 
 ## Console Jogos
 
-  <details>
-<summary>Mostrar Badges</summary>
+ 
    
 <br>
 <br>
@@ -711,14 +692,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 ## Blog
  
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -758,13 +738,11 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Browsers
-<details>
-<summary>Mostrar Badges</summary>
 
 <br>
 <br>
@@ -800,14 +778,13 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+ 
 
 ---
  
 ##  Cloud
  
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -900,14 +877,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Educação
  
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -982,14 +958,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ##  ETL
 
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -1014,14 +989,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ##  Cloud Storage
 
- <details>
-<summary>Mostrar Badges</summary>
   
 <br>
 <br>
@@ -1047,14 +1020,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Marcas de Smartphone
  
- <details>
-<summary>Mostrar Badges</summary>
+ 
   
 <br>
 <br>
@@ -1095,14 +1067,12 @@ Para usar um badge:
 <br>
 <br>
  
-</details>
+
 
 ---
 
 ##  Forum
-<details>
-<summary>Mostrar Badges</summary>
- 
+
 <br>
 <br>
 
@@ -1131,14 +1101,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Comida
  
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -1180,14 +1149,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## IDEs /Editores
  
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -1295,14 +1263,11 @@ Para usar um badge:
 <br>
 <br>
 
- </details>
-
 ---
  
 ## Frameworks / Platforms e Libraries
  
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -1670,13 +1635,12 @@ Para usar um badge:
  <br>
 <br>
   
-  </details>
+  
 
 ---
   
 ## Testes
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -1705,14 +1669,13 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+
 
 ---
 
 ## Database
  
- <details>
-<summary>Mostrar Badges</summary>
+ 
   
 <br>
 <br>
@@ -1776,14 +1739,11 @@ Para usar um badge:
 <br>
 <br>
   
-</details>
-
 ---
 
 ## Design
 
-  <details>
-<summary>Mostrar Badges</summary>
+  
    
 <br>
 <br>
