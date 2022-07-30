@@ -1841,14 +1841,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Criptomoedas
  
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -1903,14 +1902,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 # Github
  
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -1937,14 +1935,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Twitter
  
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -1965,14 +1962,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 ## Made with
  
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2004,13 +2000,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 ## Streaming
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2051,14 +2046,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Licenças
  
- <details>
-<summary>Mostrar Badges</summary>
+ 
   
 <br>
 <br>
@@ -2084,14 +2078,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Linguagens
- <details>
-<summary>Mostrar Badges</summary>
-  
+ 
 <br>
 <br>
 
@@ -2221,14 +2213,13 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+ 
 
 ---
  
 ##  Linters
  
- <details>
-<summary>Mostrar Badges</summary>
+ 
   
 <br>
 <br>
@@ -2257,13 +2248,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Store
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -2292,13 +2282,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 ### Sistema Operacional
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2764,7 +2753,7 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+ 
 
 ---
 ## Visitantes
