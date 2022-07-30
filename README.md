@@ -129,8 +129,7 @@ Para usar um badge:
  
  
 ##  IA e Bots
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2383,13 +2382,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Plataforma de Trabalho
- <details>
-<summary>Mostrar Badges</summary>
+
 <br>
 <br>
 
@@ -2422,15 +2420,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ## Controle de Versão
 
- <details>
-<summary>Mostrar Badges</summary>
-<br>
+
 <br>
 
 
@@ -2462,13 +2458,12 @@ Para usar um badge:
   
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-  </details>
+ 
 
 ---
   
 ## ORM
- <details>
-<summary>Mostrar Badges</summary>
+
 <br>
 <br>
  
@@ -2489,13 +2484,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
  ## Servidores
- <details>
-<summary>Mostrar Badges</summary>
+ 
  
 <br>
 <br>
@@ -2531,14 +2525,13 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Terminal
 
- <details>
-<summary>Mostrar Badges</summary>
+
   
 <br>
 <br>
@@ -2578,13 +2571,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+ 
 
 ---
  
 ###  Sites de busca
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2612,13 +2604,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
  
 ### Espaço de Trabalho
-<details>
-<summary>Mostrar Badges</summary>
+
 <br>
 <br>
 
@@ -2675,13 +2666,12 @@ Para usar um badge:
 <br>
 <br>
  
- </details>
+
 
 ---
 
 ## Documentation Platforms
-<details>
-<summary>Mostrar Badges</summary>
+
  
 <br>
 <br>
@@ -2704,13 +2694,12 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+ 
 
 ---
  
  ## Vários
- <details>
-<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
  
@@ -2754,12 +2743,11 @@ Para usar um badge:
  
  <br>
  <br>
- </details>
+
 
 ---
 ## Feedback
-<details>
-<summary>Mostrar Badges</summary>
+
 <br>
 <br>
 
@@ -2897,13 +2885,11 @@ Para usar um badge:
   
  <br>
 <br>
-  </details>
+  
 
 ---
 ## Github Snake
-<details>
-<summary>Mostrar </summary>
- 
+
 <br>
 <br>
   
@@ -2932,7 +2918,7 @@ Para usar um badge:
 <br>
 <br>
  
-</details>
+
 
 ---
 
