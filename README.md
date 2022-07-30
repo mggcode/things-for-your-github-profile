@@ -118,14 +118,13 @@ Para usar um badge:
  
 
 
----
+
 
  
 <br>
 <br>
 
 
----
  
  
 ##  IA e Bots
@@ -161,7 +160,7 @@ Para usar um badge:
  
 
 
----
+
  
 ##  Mensagens
 
@@ -216,7 +215,7 @@ Para usar um badge:
  
 
 
----
+
 
 ##  Social
 
@@ -368,8 +367,7 @@ Para usar um badge:
  
  
 
----
- 
+
 # Email
  
 <br>
@@ -403,7 +401,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Grupos
 
@@ -450,7 +448,7 @@ Para usar um badge:
 <br>
  
  
----
+
  
 ## Carteira Digital
 
@@ -515,7 +513,7 @@ Para usar um badge:
 <br>
 
 
----
+
  
 ##   Som
 
@@ -565,7 +563,7 @@ Para usar um badge:
 <br>
   
 
----
+
 
 ## Jogos
 
@@ -645,7 +643,7 @@ Para usar um badge:
   
 
 
----
+
 
 ## Console Jogos
 
@@ -693,7 +691,7 @@ Para usar um badge:
  
  
 
----
+
  
 ## Blog
  
@@ -739,7 +737,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Browsers
 
@@ -779,8 +777,7 @@ Para usar um badge:
 <br>
  
 
----
- 
+
 ##  Cloud
  
 
@@ -878,7 +875,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Educação
  
@@ -959,7 +956,7 @@ Para usar um badge:
  
 
 
----
+
  
 ##  ETL
 
@@ -990,7 +987,7 @@ Para usar um badge:
  
 
 
----
+
  
 ##  Cloud Storage
 
@@ -1021,7 +1018,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Marcas de Smartphone
  
@@ -1068,7 +1065,6 @@ Para usar um badge:
  
 
 
----
 
 ##  Forum
 
@@ -1102,7 +1098,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Comida
  
@@ -1150,7 +1146,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## IDEs /Editores
  
@@ -1636,7 +1632,7 @@ Para usar um badge:
   
   
 
----
+
   
 ## Testes
 
@@ -1670,7 +1666,7 @@ Para usar um badge:
 <br>
 
 
----
+
 
 ## Database
  
@@ -1738,7 +1734,7 @@ Para usar um badge:
 <br>
 <br>
   
----
+
 
 ## Design
 
@@ -1843,7 +1839,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Criptomoedas
  
@@ -1904,7 +1900,7 @@ Para usar um badge:
  
 
 
----
+
  
 # Github
  
@@ -1937,7 +1933,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Twitter
  
@@ -1964,7 +1960,7 @@ Para usar um badge:
  
  
 
----
+
  
 ## Made with
  
@@ -2002,7 +1998,7 @@ Para usar um badge:
  
  
 
----
+
  
 ## Streaming
 
@@ -2048,7 +2044,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Licenças
  
@@ -2080,7 +2076,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Linguagens
  
@@ -2215,7 +2211,7 @@ Para usar um badge:
 <br>
  
 
----
+
  
 ##  Linters
  
@@ -2250,7 +2246,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Store
 
@@ -2284,7 +2280,7 @@ Para usar um badge:
  
  
 
----
+
  
 ### Sistema Operacional
 
@@ -2373,7 +2369,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Plataforma de Trabalho
 
@@ -2411,7 +2407,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Controle de Versão
 
@@ -2449,7 +2445,7 @@ Para usar um badge:
 
  
 
----
+
   
 ## ORM
 
@@ -2475,7 +2471,7 @@ Para usar um badge:
  
 
 
----
+
  
  ## Servidores
  
@@ -2516,7 +2512,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Terminal
 
@@ -2562,7 +2558,7 @@ Para usar um badge:
  
  
 
----
+
  
 ###  Sites de busca
 
@@ -2595,7 +2591,7 @@ Para usar um badge:
  
 
 
----
+
  
 ### Espaço de Trabalho
 
@@ -2657,7 +2653,7 @@ Para usar um badge:
  
 
 
----
+
 
 ## Documentation Platforms
 
@@ -2685,7 +2681,7 @@ Para usar um badge:
 <br>
  
 
----
+
  
  ## Vários
  
@@ -2755,7 +2751,7 @@ Para usar um badge:
 <br>
  
 
----
+
 ## Visitantes
 
 <br>
@@ -2781,7 +2777,7 @@ Para usar um badge:
  
 
 
----
+
  
 ## Carros
  
@@ -2818,7 +2814,6 @@ Para usar um badge:
 <br>
 
 
----
  
  ## Imagens
   
@@ -2873,7 +2868,7 @@ Para usar um badge:
 <br>
   
 
----
+
 ## Github Snake
 
 <br>
@@ -2906,7 +2901,7 @@ Para usar um badge:
  
 
 
----
+
 
 
 
