@@ -2768,8 +2768,7 @@ Para usar um badge:
 
 ---
 ## Visitantes
-<details>
-<summary>Mostrar Badges</summary>
+
 <br>
 <br>
 
@@ -2791,13 +2790,12 @@ Para usar um badge:
  <br>
  <br>
  
- </details>
+
 
 ---
  
 ## Carros
- <details>
-<summary>Mostrar Badges</summary>
+ 
 <br>
 <br>
 
@@ -2829,14 +2827,13 @@ Para usar um badge:
  
 <br>
 <br>
- </details>
+
 
 ---
  
  ## Imagens
   
-<details>
-<summary>Mostrar Badges</summary>
+
  
  
 | Nome | IMAGE                                                        | URL                                                          |
