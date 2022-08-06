@@ -1,8 +1,8 @@
 
-# [ESTATÍSTICAS ](#estatiscicas)
+<br>[🔙 Voltar ao Índice](./README.md)<br>
 
 
-[Voltar ao Índice](#indice)
+
 
 ## Troféu
 
