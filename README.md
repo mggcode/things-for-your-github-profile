@@ -3,4 +3,6 @@
 
 <br>
 
-### [Badges](#badges.md)
+### [Badges](./badges.md)
+
+### [Status](./status.md)
