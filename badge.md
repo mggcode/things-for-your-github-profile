@@ -1,10 +1,10 @@
 
 
-[![](https://github.com/martageraldo/awesome-badges/blob/main/markdown.png)]()
+<br>[🔙 Voltar ao Índice](./README.md)<br>
 
 
 
-# SEU PERFIL DO GITHUB MAIS CRIATIVO!
+
 
  #### Adicione Badges em seu perfil ou projetos
 
