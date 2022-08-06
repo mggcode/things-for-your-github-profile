@@ -4,7 +4,7 @@
 
 
 
-# MARKDOWN BADGES
+# SEU PERFIL DO GITHUB MAIS CRIATIVO!
 
  #### Adicione Badges em seu perfil ou projetos
 
@@ -24,7 +24,7 @@ Para usar um badge:
 
 # [📚 Índice](#indice)
 
- <b>[Ir para estatísticas](#statusawesomeBadges)<b>
+ [Ir para estatísticas](#statusawesomeBadges)
 <!--
 - [Analytics](#analytics)
 - [IA e Bots](#ia-e-bots)
