@@ -1,5 +1,7 @@
 <br>[🔙 Voltar ao Índice](./README.md)<br>
 
+<br>
+
 ## Imagens
   
 <br>
@@ -48,14 +50,14 @@
   
   <img src="https://github.com/martageraldo/things-for-your-github-profile/blob/main/img/suaimagem.png?raw=true" alt="suaimagem" width="500"/>
   
-  ```<img src="Colar o endereço da sua imagem aqui" alt="suaimagem" width=""/>```
+  ```<img src="Colar o endereço da sua imagem aqui e colar no seu README" alt="suaimagem" width=""/>```
  
  
 
- 
+  
  <br>
  
- Poderá encontrar outras imagens svg aqui: [Devicon](https://devicon.dev/), [Vector Logo](https://www.vectorlogo.zone/?q=)
+ Poderá encontrar outras imagens svg aqui: [Devicon](https://devicon.dev/) | [Vector Logo](https://www.vectorlogo.zone/?q=)
  
 <br>
 <br>
