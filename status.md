@@ -47,6 +47,7 @@
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) |``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)``` |
 |![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` |
 |![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&title_color=ff3068) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=seuusuarioaqui&theme=radical&title_color=ff3068)``` |
+
  
  
 
