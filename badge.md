@@ -153,7 +153,9 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -208,7 +210,8 @@ Para usar um badge:
 
 <br>[🔝 Voltar ao topo](#-índice)<br>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -343,7 +346,8 @@ Para usar um badge:
  
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 ##  Blockchain
  
@@ -366,6 +370,7 @@ Para usar um badge:
 <br>
  
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
 
 # Email
@@ -394,7 +399,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -442,7 +448,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -512,6 +519,7 @@ Para usar um badge:
 <br>
 <br>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
 
  
@@ -557,7 +565,8 @@ Para usar um badge:
 
  <b>[🔝 Voltar ao topo](#-índice)<b>
  
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
   
 <br>
 <br>
@@ -636,7 +645,8 @@ Para usar um badge:
 <br>
 <br>
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -684,7 +694,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 
 <br>
 <br>
@@ -730,7 +741,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 
 <br>
 <br>
@@ -776,6 +788,7 @@ Para usar um badge:
 <br>
 <br>
  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
 
 ##  Cloud
@@ -874,8 +887,10 @@ Para usar um badge:
 <br>
  
 
-
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+ 
+<br>
+<br>
 
 ## Educação
  
@@ -949,7 +964,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -980,7 +996,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1011,7 +1028,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+ 
  
 <br>
 <br>
@@ -1058,7 +1076,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1091,7 +1110,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 
 <br>
 <br>
@@ -1139,7 +1159,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1253,12 +1274,13 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
 
----
+
  
 ## Frameworks / Platforms e Libraries
  
@@ -1625,7 +1647,8 @@ Para usar um badge:
  
  <b>[🔝 Voltar ao topo](#-índice)<b>
   
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
   
  <br>
 <br>
@@ -1660,7 +1683,8 @@ Para usar um badge:
   
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1729,7 +1753,8 @@ Para usar um badge:
 
  <b>[🔝 Voltar ao topo](#-índice)<b>
  
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
   
 <br>
 <br>
@@ -1832,7 +1857,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1893,7 +1919,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
   
 <br>
 <br>
@@ -1926,7 +1953,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1953,7 +1981,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -1991,7 +2020,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 
 <br>
 <br>
@@ -2037,7 +2067,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2069,7 +2100,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2204,7 +2236,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
  
 <br>
@@ -2239,7 +2272,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2273,7 +2307,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2362,7 +2397,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2400,7 +2436,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2441,7 +2478,8 @@ Para usar um badge:
  
  <b>[🔝 Voltar ao topo](#-índice)<b>
   
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
 
  
 
@@ -2464,7 +2502,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2505,7 +2544,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2551,7 +2591,8 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
   
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+ 
   
 <br>
 <br>
@@ -2584,7 +2625,8 @@ Para usar um badge:
   
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2646,7 +2688,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2675,7 +2718,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2724,7 +2768,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
  <br>
  <br>
@@ -2745,7 +2790,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
@@ -2770,7 +2816,8 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
  <br>
  <br>
@@ -2808,15 +2855,13 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
  
-<br>
-<br>
- 
- <b>[🔝 Voltar ao topo](#-índice)<b>
+
   
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
   
  <br>
 <br>
@@ -2848,7 +2893,8 @@ Para usar um badge:
   
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
+
  
 <br>
 <br>
