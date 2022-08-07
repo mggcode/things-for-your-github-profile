@@ -35,7 +35,7 @@
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) | ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) ```|
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) |``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) ```|
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=7&theme=algolia) |``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=7&theme=algolia) ```|
-
+|![Marta´s Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=8&hide_border=true)|``` ![Marta´s Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martageraldo&layout=compact&langs_count=8&hide_border=true) ```|
 
 
 ## Status
