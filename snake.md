@@ -21,13 +21,15 @@
 
 Você poderá fazer o seu:
 
-Para implementar ela, primeiro coloque o seguinte código no seu arquivo README.md:
+Assista este tutorial no YouTube que explica rápido e fácil como fazer:
+
+[FernandoDev](https://www.youtube.com/watch?v=JywQJ2qHfPg)
 <br>
 
 ```
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 ```
-
+<!--
 Tome cuidado para colocar o seu nome de usuário do GitHub  correto onde diz `seu-usuario-aqui` seu para que seja demonstrado seu grid de contribuições, caso contrário, poderá dar erro.
 
 Em seguida, vá em Actions e selecione set up a workflow yourself →
@@ -65,7 +67,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
           
           ```
--->
+
          
          
  Aqui, novamente tome cuidado para  colocar o seu nome de usuário do GitHub  correto onde diz `seu-usuario-aqui` seu para que seja demonstrado seu grid de contribuições, caso contrário, poderá dar erro.
@@ -84,6 +86,6 @@ E rodar com **Run workflow**
 imagem
 
 <br>
-
+-->
 
 
