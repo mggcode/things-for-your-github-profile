@@ -22,6 +22,7 @@
 
 
 
+
   
  
  
@@ -45,8 +46,9 @@
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) | ``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) ```|
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave) |``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave)``` |
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) |``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)``` |
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` |
-|![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&title_color=ff3068) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=seuusuarioaqui&theme=radical&title_color=ff3068)``` |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&title_color=ff3068) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=seuusuarioaqui&theme=radical&title_color=ff3068)``` |
+| [![status](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/martageraldo/github-readme-stats) | ```[![status](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)]``` |
 
  
  
