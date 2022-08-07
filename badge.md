@@ -3,10 +3,11 @@
 <br>[🔙 Voltar ao Índice](./README.md)<br>
 
 
+<br>
+<br>
 
 
-
- #### Adicione Badges em seu perfil ou projetos
+ # Adicione Badges em seu perfil ou projetos
 
 
 
@@ -23,9 +24,9 @@ Para usar um badge:
 <br>
 
 # [📚 Índice](#indice)
-
- [Ir para estatísticas](#statusawesomeBadges)
 <!--
+ [Ir para estatísticas](#statusawesomeBadges)
+
 - [Analytics](#analytics)
 - [IA e Bots](#ia-e-bots)
 - [Mensagens](#mensagens)
@@ -116,7 +117,7 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
 
 
@@ -341,10 +342,6 @@ Para usar um badge:
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
-<br>
-<br>
- 
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
@@ -365,9 +362,6 @@ Para usar um badge:
 <br>
 
 <b>[🔝 Voltar ao topo](#-índice)<b>
- 
-<br>
-<br>
  
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
@@ -514,10 +508,6 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
- 
-<br>
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
@@ -644,6 +634,8 @@ Para usar um badge:
   
 <br>
 <br>
+  
+ <b>[🔝 Voltar ao topo](#-índice)<b>
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
@@ -783,10 +775,7 @@ Para usar um badge:
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
- 
-<br>
-<br>
+
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
 
@@ -880,11 +869,6 @@ Para usar um badge:
 <br>
  
 <b>[🔝 Voltar ao topo](#-índice)<b>
- 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img> 
- 
-<br>
-<br>
  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
@@ -2808,8 +2792,8 @@ Para usar um badge:
 | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors)``` |
 | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes)``` |
 | ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) |```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)``` |
- | ![visitor badge](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS) | ```![visitor badge](![](https://komarev.com/ghpvc/?username=martageraldo&style=plastic&label=PROFILE+VIEWS)```|
-| Créditos:                                                    | ```https://github.com/jwenjian/ ```                                |
+ 
+
 
  <br>
  <br>
@@ -2856,11 +2840,6 @@ Para usar um badge:
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
-
- 
- 
-
-  
 
   
  <br>
