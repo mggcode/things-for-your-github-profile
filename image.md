@@ -8,7 +8,7 @@
 | Nome | IMAGE                                                        | URL                                                          |
 |--| ------------------------------------------------------------ | ------------------------------------------------------------ |
 |Android| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> ```|
-|Gnu bash | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="dio" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>``` |
+|Gnu bash | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnubash" width="50" height="50"/> | ```<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="gnubash" width="50" height="50"/>``` |
 |C| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> ```|
 |C++| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> ```|
 |CSS3| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> |``` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> ```|
@@ -42,11 +42,20 @@
 
  # Suas imagens 
  
-  <p>Voce pode usar suas próprias imagens salvas em quaisquer arquivos salvos no github. Basta clicar com o botão esquerdo</p>
+  <p>Você pode usar suas próprias imagens salvas em quaisquer arquivos salvos no github. Basta clicar com o botão esquerdo, clicar em copiar endereço da imagem e colar o local desejado, conforme imagem abaixo:</p>
+  
+  <br>
+  
+  <img src="https://github.com/martageraldo/things-for-your-github-profile/blob/main/img/suaimagem.png?raw=true" alt="suaimagem" width="500"/>
+  
+  ```<img src="Colar o endereço da sua imagem aqui" alt="suaimagem" width=""/>```
  
- <p></p>
  
- Para mais imagens: https://devicon.dev/
+
+ 
+ <br>
+ 
+ Poderá encontrar outras imagens svg aqui: [Devicon](https://devicon.dev/), [Vector Logo](https://www.vectorlogo.zone/?q=)
  
 <br>
 <br>
