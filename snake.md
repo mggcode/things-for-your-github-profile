@@ -24,12 +24,15 @@ Você poderá fazer o seu:
 Assista este tutorial no YouTube que explica rápido e fácil como fazer:
 
 [FernandoDev](https://www.youtube.com/watch?v=JywQJ2qHfPg)
-<br>
 
+ou este artigo do blog Dev: [Github Snake](https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2)
+
+<br>
+<!--
 ```
 ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 ```
-<!--
+
 Tome cuidado para colocar o seu nome de usuário do GitHub  correto onde diz `seu-usuario-aqui` seu para que seja demonstrado seu grid de contribuições, caso contrário, poderá dar erro.
 
 Em seguida, vá em Actions e selecione set up a workflow yourself →
