@@ -14,10 +14,12 @@
 
 ### Estatísticas
 
-|                                                              |                                                              |
+|           BADGE                                                   |        URL                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]() | ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
-|[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
+| [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
+| [![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]() | ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` |
+
 
 
   
@@ -27,7 +29,7 @@
 
 ## Linguagens mais usadas
 
-|                                                              |                                                              |
+|                 BADGE                                             |              URL                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) | ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) ```|
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) |``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) ```|
@@ -44,7 +46,7 @@
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave) |``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=synthwave)``` |
 | ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) |``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)``` |
 |![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` |
-
+|![Github Stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&title_color=ff3068) |``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068)``` |
  
  
 
