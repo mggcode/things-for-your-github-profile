@@ -10,20 +10,38 @@
 
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]()```|
+| [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]()``` |
 
 ### Estatísticas
 
-|           BADGE                                                   |        URL                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]() | ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
+|          BADGE                                           |  
+| :------------------------------------------------------------: | 
+|<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo" /> <br> <br> <p> URL </p>   <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` <br><br> | 
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` <br> <br> |
+
+
+
 | [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
+
+<br>
+
+|            BADGE                                                   |        URL                                                      |
+| :------------------------------------------------------------: | ------------------------------------------------------------ |
 | [![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]() | ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` |
-| [![status](https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]() | ```[![status](https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]()``` |
+
+<br>
+
+|            BADGE                                                   |        URL                                                      |
+| :------------------------------------------------------------: | ------------------------------------------------------------ |
+ [![status](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]() | ```[![status](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]()``` 
 
 
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()  ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` 
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]() ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` 
+ [![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()  ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` 
+ [![status](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]()  ```[![status](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]()``` 
 
-
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=martageraldo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   
  
  
