@@ -18,18 +18,13 @@
 | :------------------------------------------------------------: | 
 |<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo" /> <br> <br> <p> URL </p>   <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` <br><br> | 
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` <br> <br> |
-
-
-
-| [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
-
-<br>
-
-|            BADGE                                                   |        URL                                                      |
-| :------------------------------------------------------------: | ------------------------------------------------------------ |
-| [![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]() | ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` |
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` <br> <br> |
+|<img height="140px" src="http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` <br> <br> |
+|<img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <br> <br> <p> URL </p>  <br> <br> ```[![status]()]()``` <br> <br> |
 
 <br>
+
+
 
 |            BADGE                                                   |        URL                                                      |
 | :------------------------------------------------------------: | ------------------------------------------------------------ |
