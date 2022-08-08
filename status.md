@@ -19,6 +19,7 @@
 | [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]() | ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
 | [![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()| ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` |
 | [![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]() | ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` |
+| [![status](https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]() | ```[![status](https://github-readme-stats.vercel.app/api/top-langs/?username=bilardi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite)]()``` |
 
 
 
