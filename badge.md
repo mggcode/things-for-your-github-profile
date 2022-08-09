@@ -1920,6 +1920,7 @@ Para usar um badge:
 <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=martageraldo&color=447ff7&label=Visitor+count)
 
 
 | BADGE                                                        | URL                                                          |
@@ -2837,39 +2838,6 @@ Para usar um badge:
 <br>
 <br>
 
-<b>[🔝 Voltar ao topo](#-índice)<b>
- 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
-
-  
- <br>
-<br>
-  
-
-
-## Github Snake
-
-<br>
-<br>
-  
-![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-<br>
-  
-  
- | Nome |                    URL                          |
- |------|-------------------------------------------------| 
- |White Snake Animation|```![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
- |Black Snake Animation|```![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) ```| 
-
-<br>
-<br>
-  
 <b>[🔝 Voltar ao topo](#-índice)<b>
  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2,5"/>
