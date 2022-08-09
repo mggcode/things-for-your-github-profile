@@ -253,7 +253,7 @@
 | [![Photoshop](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=minimal)]() | ```[![Photoshop](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=minimal)]()``` |
 | ![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=martageraldo/badges) | ``` ![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=martageraldo/badges)``` |
 | [![Stargazers over time](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) |``` [![Stargazers over time](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) ```              |
- 
+  <img src="https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark" />
  
 [🔝 Voltar ao Topo](#estatisticas) 
 
