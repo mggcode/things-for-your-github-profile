@@ -29,7 +29,6 @@
 
 <br> 
 
----
 
 <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` <br> <br> 
 
@@ -43,6 +42,13 @@
 ---
 
 <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=github-dark-blue&hide_border=true" />
+
+<br>
+<br>
+
+---
 
 # Linguagens mais usadas
 
@@ -220,6 +226,17 @@
     
 <br>
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br>
+<br>
+
+```[![status](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true)]```
+
+<br>
+    
+ ---
 
 # Resumo Status
 
