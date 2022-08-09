@@ -753,6 +753,8 @@ Para usar um badge:
 |-----| ------------------------------------------------------------ | :----------------------------------------------------------- |
 |Brave| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | ```![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ```|
 |Brave| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white) | ```![Brave](https://img.shields.io/badge/Brave-FB542B?style=social-square&logo=Brave&logoColor=white) ```|
+|Brave| ![Brave](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white) | ``` ![Brave](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white) ```|
+|Brave| ![Brave](https://img.shields.io/badge/-Brave_Browser-FB542B?style=social-square&logo=brave&logoColor=white) | ``` ![Brave](https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white) ```|
 |Edge| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) | ```![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)``` |
 |Edge| ![Edge](https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white) | ```![Edge](https://img.shields.io/badge/Edge-0078D7?style=social-square&logo=Microsoft-edge&logoColor=white)``` |
 |Firefox| ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) |```![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ```|
