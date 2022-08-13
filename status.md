@@ -123,23 +123,140 @@
 <br>
 <br>
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green) 
+| | | 
+| :--: | :-- | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dark&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=merko&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=merko&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox_light&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox_light&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=tokyonight&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=tokyonight&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=onedark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=onedark&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=synthwave&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=synthwave&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=highcontrast&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=highcontrast&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dracula&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dracula&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=prussian&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=prussian&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=monokai&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=monokai&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue-dark&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=shades-of-purple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=shades-of-purple&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nightowl&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nightowl&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=buefy&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=buefy&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=algolia&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=algolia&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=great-gatsby&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=great-gatsby&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=darcula&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=darcula&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=bear&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=bear&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-dark&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-light&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-light&show_icons=true)``` | 
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=chartreuse-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=chartreuse-dark&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nord&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nord&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gotham&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gotham&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=material-palenight&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=material-palenight&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=graywhite&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=graywhite&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vision-friendly-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vision-friendly-dark&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ayu-mirage&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ayu-mirage&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=midnight-purple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=midnight-purple&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=calm&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=calm&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=flag-india&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=flag-india&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=omni&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=omni&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=react&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=react&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=jolly&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=jolly&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=maroongold&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=maroongold&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=yeblu&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=yeblu&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blueberry&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blueberry&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=slateorange&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=slateorange&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=kacho_gae&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=kacho_ga&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=outrun&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=outrun&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ocean_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ocean_dark&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=city_lights&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=city_lights&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=github_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=github_dark&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=discord_old_blurple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=discord_old_blurple&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=panda&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=panda&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=noctis_minimus&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=noctis_minimus&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt2&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt2&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=swift&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=swift&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=apprentice&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=apprentice&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=moltack&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=moltack&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=codeSTACKr&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=codeSTACKr&show_icons=true)``` |
+| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=rose_pine&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=rose_pine&show_icons=true)``` |
+
+<br>
+
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<br>
+
+``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` 
+
+<br>
+
+---
+
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true) 
+
+<br>
+
+``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true)``` 
+
+<br> 
+
+--- 
+
+<br>
+
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) 
  
  <br>
+ 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&title_color=7A7ADB?icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) ``` 
+ 
  <br>
  
-``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green)``` 
+ ---
+ 
+<br>
+
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) 
+ 
+ <br>
+ 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
+ 
+ <br>
+ 
+ ---
+ 
+ <br>
+
+![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+
+ <br>
+ 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
+ 
+
+<br>
+
+
+
+
+
 <br>
 <br>
 
  ---
+ 
  <br>
  
  ![github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) 
  
 <br>
 
-``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) ``` 
+``` ![Marta's github stats](https://github-readme-stats.vercel.app/api?username=martageraldo) ``` 
 
 <br>
 
@@ -371,106 +488,6 @@
 
 <br>
 
-| | | 
-| :--: | :-- | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dark&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=radical&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=merko&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=merko&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox_light&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gruvbox_light&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=tokyonight&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=tokyonight&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=onedark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=onedark&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=synthwave&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=synthwave&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=highcontrast&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=highcontrast&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dracula&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=dracula&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=prussian&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=prussian&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=monokai&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=monokai&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vue-dark&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=shades-of-purple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=shades-of-purple&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nightowl&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nightowl&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=buefy&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=buefy&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blue-green&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=algolia&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=algolia&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=great-gatsby&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=great-gatsby&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=darcula&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=darcula&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=bear&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=bear&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-dark&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-light&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=solarized-light&show_icons=true)``` | 
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=chartreuse-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=chartreuse-dark&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nord&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=nord&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gotham&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=gotham&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=material-palenight&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=material-palenight&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=graywhite&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=graywhite&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vision-friendly-dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=vision-friendly-dark&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ayu-mirage&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ayu-mirage&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=midnight-purple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=midnight-purple&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=calm&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=calm&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=flag-india&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=flag-india&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=omni&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=omni&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=react&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=react&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=jolly&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=jolly&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=maroongold&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=maroongold&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=yeblu&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=yeblu&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blueberry&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=blueberry&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=slateorange&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=slateorange&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=kacho_gae&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=kacho_ga&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=outrun&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=outrun&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ocean_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=ocean_dark&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=city_lights&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=city_lights&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=github_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=github_dark&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=discord_old_blurple&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=discord_old_blurple&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=panda&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura_dark&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=panda&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=noctis_minimus&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=noctis_minimus&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt2&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=cobalt2&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=swift&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=swift&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=aura&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=apprentice&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=apprentice&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=moltack&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=moltack&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=codeSTACKr&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=codeSTACKr&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=rose_pine&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&theme=rose_pine&show_icons=true)``` |
-
-
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<br>
-
-``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` 
-
-<br>
-
----
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true) 
-
-<br>
-
-``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&show_icons=true&theme=github_dark&hide_border=true)``` 
-
-<br> 
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) 
- 
- <br>
- 
- ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&title_color=7A7ADB?icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) ``` 
- 
- <br>
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) 
- 
- <br>
- 
- ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=martageraldo&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
- 
- <br>
-
-
-
-<br>
 
 
 [🔝 Voltar ao Topo](#estatisticas) 
