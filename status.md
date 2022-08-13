@@ -240,14 +240,27 @@
 
 # Resumo Status
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]() | ```[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]() ```|
+ <br>
+ <br>
 
+ [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]() 
+ 
+ <br> 
+ <br>
+ 
+ ```[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]() ```
+
+ <br>
+
+---
+
+<br>
 
 
 # Gráficos
 
+ <br> 
+ <br>
 
  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=minimal)]() 
  
