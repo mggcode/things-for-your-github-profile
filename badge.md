@@ -2800,6 +2800,8 @@ Para usar um badge:
  | ![visitor badge](https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black) |```![visitor badge](https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black)``` |
  | ![visitor badge](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white) |```![visitor badge](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white)``` |
 | ![visitor badge](https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black) |```![visitor badge](https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black)``` |
+ | ![visitor badge](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) |```![visitor badge](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)``` |
+ | ![visitor badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white) |```![visitor badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)``` |
  
  
 
