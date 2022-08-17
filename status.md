@@ -60,6 +60,10 @@
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo)   |   ``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=aura)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=aura) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=algolia)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=algolia) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=dark)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=dark) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=radical)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=radical) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=merko)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=merko) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox) ``` |
 
  ---
  
