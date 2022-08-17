@@ -63,7 +63,11 @@
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=dark)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=dark) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=radical)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=radical) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=merko)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=merko) ``` |
-| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox_light)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=gruvbox_light) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=tokyonight)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=tokyonight) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=onedark)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=onedark) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=cobalt)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=cobalt) ``` |
 
  ---
  
