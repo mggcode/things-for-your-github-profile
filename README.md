@@ -10,8 +10,7 @@
 
 #### [Badges](./badge.md)
 #### [Imagens](./image.md)
-#### [Início](./comeco.md)
 #### [Github Snake](./snake.md)
-
+#### [Sobre você](./comeco.md)
 #### [Status](./status.md)
 
