@@ -7,7 +7,11 @@
 <br>
 <br>
 
+# Olá 👋
 
+## Sou _______,  entusiasta de tecnologia  e  Desenvolvedor Web.
+
+<br>
 
 - 🔭  Estou trabalhando atualmente com/em ... 
 - 🌱 Estou aprendendo/estudando ...
@@ -17,3 +21,6 @@
 - 📫 Como você pode me encontrar(redes sociais): ...
 - 😄 Pronomes: ...
 - ⚡ Algo divertido para compartilhar: ...
+
+
+
