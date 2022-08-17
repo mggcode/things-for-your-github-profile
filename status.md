@@ -11,6 +11,7 @@
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]()``` |
+| [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo&row=4&theme=onedark&no-frame=true)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true)]()``` |
 
 <br>
 
