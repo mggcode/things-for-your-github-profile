@@ -79,6 +79,9 @@
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=nightowl)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=nightowl) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=darcula)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=darcula) ``` |
 | ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=bear)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=bear) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=solarized-light)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=solarized-light) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=chartreuse-dark)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=chartreuse-dark) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=nord)  |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=nord) ``` |
 
 
  ---
