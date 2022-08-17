@@ -53,29 +53,14 @@
 
 # Linguagens mais usadas
 
-<br>
 
- ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) 
- 
- <br>
- <br>
- 
- ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) ```
- 
- <br>
- 
- ---
- 
- <br>
- 
- ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) 
- 
- <br>
- 
- ``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) ```
- 
- <br>
- 
+| BADGE                                                        | URL                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green)  |  ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo)   |   ``` ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=aura)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=aura) ``` |
+| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=algolia)   |   ```![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=algolia) ``` |
+
  ---
  
  <br>
