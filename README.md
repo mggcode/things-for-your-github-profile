@@ -11,7 +11,7 @@
 #### [Badges](./badge.md)
 #### [Imagens](./image.md)
 #### [Github Snake](./snake.md)
-#### [linguagens mais usadas](./linguagensUsadas.md)
+#### [Linguagens mais usadas](./linguagensUsadas.md)
 #### [Sobre você](./comeco.md)
 #### [Status](./status.md)
 
