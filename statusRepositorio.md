@@ -1,4 +1,10 @@
 # Status do Repositório
+
+<br>
+<br>
+
+
+
 |Nome|URL| 
 |----|----|
 |[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=martageraldo&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]()   |```[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=martageraldo&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]() ```| 
