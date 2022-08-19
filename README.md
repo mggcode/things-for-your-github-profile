@@ -14,4 +14,5 @@
 #### [Linguagens mais usadas](./linguagensUsadas.md)
 #### [Sobre você](./comeco.md)
 #### [Status](./status.md)
+#### [Resumo Status](./status.md)
 
