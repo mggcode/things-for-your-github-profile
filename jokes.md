@@ -1,3 +1,8 @@
+
+<br>[🔙 Voltar ao Índice](./README.md)<br>
+
+# Jokes
+
 </br>
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i>
