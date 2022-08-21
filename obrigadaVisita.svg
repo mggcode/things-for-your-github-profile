@@ -15,7 +15,7 @@
           width: 100%;
           height: 100%;
           margin: 0;
-          line-height: 140px;
+          line-height: 100px;
           text-align: center;
 
           transform:translateX(100%);
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>OBRIGADA PELA VISITA! <br> Volte sempre!</strong>
+        <strong>OBRIGADA PELA VISITA! Volte sempre!</strong>
       </div>
 		</div>
 	</foreignObject>
