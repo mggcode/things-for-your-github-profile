@@ -12,6 +12,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo)]()``` |
 | [![trophy Stats](https://github-profile-trophy.vercel.app/?username=martageraldo&row=4&theme=onedark&no-frame=true)]() | ```[![trophy Stats](https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true)]()``` |
+|[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)|```[![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)]()```|
 
 <br>
 
