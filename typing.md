@@ -62,10 +62,24 @@
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 ```
-                                                                                                                                                            
+                                                                                                                                                     
  
 <br>                                                                                                                                                
 
 ---
 
 <br>
+
+
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">      
+ 
+ 
+
+<br>
+
+```
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">  
+
+```
+
+
