@@ -81,5 +81,19 @@
  <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">  
 
 ```
+---
 
+<br>
+
+
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/d60b5fa70663f00796cdde5db91ef7dca96dd3b9/obrigadaVisita.svg" height="120" width="600">      
+ 
+ 
+
+<br>
+
+```
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/d60b5fa70663f00796cdde5db91ef7dca96dd3b9/obrigadaVisita.svg" height="120" width="600">  
+
+```
 
