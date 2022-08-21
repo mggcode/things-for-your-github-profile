@@ -9,7 +9,7 @@
         }
         .marquee strong {
           font-family: "Academy", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
-          color: #007FF;
+          color: #007FFF;
           position: absolute;
           font-size: 3em;
           width: 100%;
