@@ -54,9 +54,14 @@
 
 <br>
 
+<p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+</p>
 
+<br>
+<br>
+  
 ```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
@@ -70,9 +75,9 @@
 
 <br>
 
-
+<p align="center">
  <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">      
- 
+ </p>
  
 
 <br>
@@ -86,9 +91,9 @@
 
 <br>
 
-
+<p align="center">
  <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/d60b5fa70663f00796cdde5db91ef7dca96dd3b9/obrigadaVisita.svg" height="120" width="600">      
- 
+ </p>
  
 
 <br>
@@ -104,8 +109,9 @@
 
 <br>
 
+<p align="center">
  <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/fcab89e6b75f9d0be95fe88fea5528a7a3ff5cbc/img/giveStarRepo.svg" height="120" width="600">      
- 
+ </p>
  
 
 <br>
@@ -117,5 +123,22 @@
 
 <br>
 
+---
+
+<br>
+
+<p align="center">
+ <img  align="center" src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/4580f19f77fd47f2bac3dff568e02635c15b3b0b/img/repoStar.svg" height="120" width="600">      
+</p>
+ 
+
+<br>
+
+```
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/4580f19f77fd47f2bac3dff568e02635c15b3b0b/img/repoStar.svg" height="120" width="600">  
+
+```
+
+<br>
 
 
