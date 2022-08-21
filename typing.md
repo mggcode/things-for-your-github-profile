@@ -81,6 +81,7 @@
  <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">  
 
 ```
+
 ---
 
 <br>
@@ -100,6 +101,19 @@
 <br>
 
 ---
+
+<br>
+
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/fcab89e6b75f9d0be95fe88fea5528a7a3ff5cbc/img/giveStarRepo.svg" height="120" width="600">      
+ 
+ 
+
+<br>
+
+```
+ <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/fcab89e6b75f9d0be95fe88fea5528a7a3ff5cbc/img/giveStarRepo.svg" height="120" width="600">  
+
+```
 
 <br>
 
