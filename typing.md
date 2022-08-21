@@ -2,7 +2,7 @@
 
 # Texto Animado
 
-<!--<img src="https://i.imgur.com/x1KbuCq.gif" width="500">-->
+<!--<img src="https://i.imgur.com/x1KbuCq.gif" width="500"> https://github.com/trinib/trinib-->
 
 
 <p align="center">
