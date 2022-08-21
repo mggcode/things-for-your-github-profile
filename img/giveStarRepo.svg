@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="120%" height="100%">
+	<foreignObject width="250%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         .marquee {
@@ -20,7 +20,7 @@
 
           transform:translateX(100%);
 
-          animation: marquee 7s linear infinite;
+          animation: marquee 9s linear infinite;
         }
 
         @keyframes marquee {
@@ -33,7 +33,7 @@
         }
       </style>
       <div class="marquee">
-        <strong>Dê uma ⭐ a este repositório!</strong>
+        <strong>Não esqueça de dar uma ⭐ para este repositório!</strong>
       </div>
 		</div>
 	</foreignObject>
