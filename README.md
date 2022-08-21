@@ -16,4 +16,5 @@
 #### [Status](./status.md)
 #### [Status do Repositório](./statusRepositorio.md)
 #### [Resumo Status](./status.md)
+#### [Typing](./typing.md)
 
