@@ -9,8 +9,10 @@
 
 
 #### [Badges](./badge.md)
-#### [Imagens](./image.md)
+
 #### [Github Snake](./snake.md)
+#### [Imagens](./image.md)
+#### [Jokes](./jokes.md)
 #### [Linguagens mais usadas](./linguagensUsadas.md)
 #### [Sobre você](./comeco.md)
 #### [Status](./status.md)
