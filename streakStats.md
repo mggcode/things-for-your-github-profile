@@ -25,5 +25,19 @@
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=blue-green&hide_border=true" />||
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=algolia&hide_border=true" />||
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=great-gatsby&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=darcula&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=bear&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=solarized-dark&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=solarized-light&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=chartreuse-dark&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=nord&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=gotham&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=material-palenight&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=graywhite&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=vision-friendly-dark&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=ayu-mirage&hide_border=true" />||
+
+
+
 
 <br>
