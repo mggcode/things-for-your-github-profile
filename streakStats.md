@@ -13,5 +13,6 @@
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=tokyonight&hide_border=true" />||
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=onedark&hide_border=true" />||
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=cobalt&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=synthwave&hide_border=true" />||
 
 <br>
