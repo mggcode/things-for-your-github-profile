@@ -37,42 +37,22 @@
 
 # Estatísticas
 
-<br>
-
-<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo" /> <br> 
-<br> 
-
-```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` 
-
-<br>
-
----
-
-<br> 
-
-
-<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()``` <br> <br> 
-
-
----
-
-<img height="140px" src="http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" /> <br> <br> <p> URL </p>  <br> <br> ```[![status](http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068)]()``` <br> <br> 
+|||
+|---|---|
+|<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()``` |
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=monokai-metallian&hide_border=true)]()```|
+|<img height="140px" src="http://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=radical" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=github-dark-blue&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=dark&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=merko&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=gruvbox&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=tokyonight&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=onedark&hide_border=true" />||
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=cobalt&hide_border=true" />||
 
 <br>
 
----
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo&theme=github-dark-blue&hide_border=true" />
-
-<br>
-<br>
-
----
-
-
- ---
  
  <br>
  
