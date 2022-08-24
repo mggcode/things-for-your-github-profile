@@ -17,6 +17,7 @@
 #### [Sobre você](./comeco.md)
 #### [Status](./status.md)
 #### [Status do Repositório](./statusRepositorio.md)
+#### [Streak Stats](./streakStats.md)
 #### [Resumo Status](./status.md)
 #### [Typing](./typing.md)
 
