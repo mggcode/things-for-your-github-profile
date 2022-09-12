@@ -3,8 +3,10 @@
 <br>
 
 # Algumas ideias para você colocar no seu perfil:
+[Gerador automático de perfil](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 <br>
+
 <br>
 
 # Olá 👋
@@ -22,6 +24,7 @@
 - ⚡ Algo divertido para compartilhar: ...
 
 <br>
+
 <br>
 
 ```# Olá 👋
@@ -38,7 +41,5 @@
 - 😄 Pronomes: ...
 - ⚡ Algo divertido para compartilhar: 
 ...
-
-
 
 
