@@ -16,7 +16,7 @@
 |[Linguagens mais usadas](./linguagensUsadas.md)|![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martageraldo&theme=blue-green)|
 | [Sobre você](./comeco.md)| |
 | [Status](./status.md)||
-| [Status do Repositório](./statusRepositorio.md)||
+| [Status do Repositório](./statusRepositorio.md)|[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=martageraldo&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]()|
 | [Streak Stats](./streakStats.md)||
 | [Resumo Status](./status.md)||
 |[Typing](./typing.md)||
