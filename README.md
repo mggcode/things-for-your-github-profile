@@ -17,7 +17,7 @@
 | [Sobre você](./comeco.md)| |
 | [Status](./status.md)||
 | [Status do Repositório](./statusRepositorio.md)|[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=martageraldo&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]()|
-| [Streak Stats](./streakStats.md)||
+| [Streak Stats](./streakStats.md)|[![status](https://github-readme-streak-stats.herokuapp.com/?user=martageraldo)]()|
 | [Resumo Status](./status.md)||
 |[Typing](./typing.md)||
 
