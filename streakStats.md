@@ -1,3 +1,8 @@
+
+<br>[🔙 Voltar ao Índice](./README.md)<br>
+
+</br> 
+
 # Streak Stats
 
 
