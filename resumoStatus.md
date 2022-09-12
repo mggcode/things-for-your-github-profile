@@ -1,14 +1,15 @@
+ 
+ 
+<br>[🔙 Voltar ao Índice](./README.md)<br>
+
+</br> 
 
 # Resumo Status
 
  <br>
  <br>
  
- 
-<br>[🔙 Voltar ao Índice](./README.md)<br>
-
-</br> |
- ||
+|||
  |---|---|
 |[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]()|  ```[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=vue)]() ```|
 | [![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=dracula)]() |```[![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=dracula)]() ```|
