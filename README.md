@@ -19,7 +19,7 @@
 | [Status](./status.md)|<img src="https://github-readme-stats.vercel.app/api?username=martageraldo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="120" width="600">|
 | [Status do Repositório](./statusRepositorio.md)|[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=martageraldo&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]()|
 | [Streak Stats](./streakStats.md)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=martageraldo" height="120" width="600">|
-| [Resumo Status](./status.md)|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=radical" height="120" width="600">|
+| [Resumo Status](./resumoStatus.md)|<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martageraldo&theme=radical" height="120" width="600">|
 |[Troféu](./trofeu.md)|<img src="https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" height="120" width="600"> |
 |[Typing](./typing.md)| <img src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/fcab89e6b75f9d0be95fe88fea5528a7a3ff5cbc/img/giveStarRepo.svg" height="120" width="600">|
 
