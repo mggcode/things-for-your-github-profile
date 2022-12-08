@@ -5,7 +5,13 @@
 <br>
 
 
-# Linguagens mais usadas
+
+
+![](https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/linguagens%20mais%20usadas.png?raw=true)
+
+#### Troque o local indicado pela seta pelo seu username.
+
+<br>
 
 
 | BADGE                                                        | URL                                                          |
