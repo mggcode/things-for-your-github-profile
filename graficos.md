@@ -22,12 +22,12 @@
 <br> 
 
  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/martageraldo) 
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) 
  <br>
 
 
 
- ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/martageraldo) ``` 
+ ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) ``` 
 
  <br>
 
@@ -41,7 +41,7 @@
  <br>
 
 
- ``` ![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=martageraldo/badges)``` 
+ ``` ![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)``` 
  
  <br>
  
