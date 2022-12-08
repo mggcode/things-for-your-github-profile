@@ -7,7 +7,7 @@
  <br> 
  <br>
 
- [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)]() 
+ ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)
  
  <br>
 
@@ -22,12 +22,12 @@
 <br> 
 
  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) 
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/MGBrave) 
  <br>
 
 
 
- ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) ``` 
+ ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/MGBrave) ``` 
 
  <br>
 
