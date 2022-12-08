@@ -4,12 +4,17 @@
 <br>
 <br>
 
+# Linguagens mais usadas
+
+<br>
 
 
+![](https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/linguagens%20mais%20usadas2.png?raw=true)
 
-![](https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/linguagens%20mais%20usadas.png?raw=true)
+## COMO USAR:
 
-#### Troque o local indicado pela seta pelo seu username.
+### 1 -Copie a URL  do badge de sua escolha no seu README,
+### 2 -Troque o local indicado pela seta pelo seu username.
 
 <br>
 
