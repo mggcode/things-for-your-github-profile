@@ -7,13 +7,13 @@
  <br> 
  <br>
 
- [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=minimal)]() 
+ [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)]() 
  
  <br>
 
 
 
- ```[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=minimal)]()``` 
+ ```[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)]()``` 
  
   <br>
 
@@ -22,12 +22,12 @@
 <br> 
 
  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/martageraldo) 
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/martageraldo) 
  <br>
 
 
 
- ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/martageraldo) ``` 
+ ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/martageraldo) ``` 
 
  <br>
 
@@ -45,12 +45,12 @@
  
  <br>
  
-[![Starchart graph](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) 
+[![Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave) 
 
 <br>
 
 
-``` [![Stargazers over time](https://starchart.cc/martageraldo/badges.svg)](https://github.com/martageraldo) ``` 
+``` [![Stargazers over time](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave) ``` 
 
  <br>
 
