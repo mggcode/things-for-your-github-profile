@@ -7,13 +7,14 @@
  <br> 
  <br>
 
- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)
+ [![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)
  
  <br>
 
 
 
- ```[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=minimal)]()``` 
+ ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)
+ ``` 
  
   <br>
 
@@ -22,12 +23,13 @@
 <br> 
 
  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/MGBrave) 
+  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave)
+  
  <br>
 
 
 
- ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=martageraldo&theme=react-dark)](https://github.com/MGBrave) ``` 
+ ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) ``` 
 
  <br>
 
@@ -36,7 +38,7 @@
 <br> 
  
 
- ![Contributor Graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=martageraldo/badges) 
+ ![Contributor Graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges) 
  
  <br>
 
