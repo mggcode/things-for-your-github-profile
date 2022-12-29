@@ -6,61 +6,24 @@
 
  <br> 
  <br>
-
- [![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)
  
- <br>
-
-
-
- ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)
- ``` 
+ | | | 
+| :--: | :-- | 
+|[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+|[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=dracula)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=dracula)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github-compact)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github-compact)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ github-compact
  
-  <br>
+  | | | 
+| :--: | :-- | 
+ |[![MGBrave github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ |[![MGBrave Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave)]  ```|
 
----
 
-<br> 
+
+
 
  
-  [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave)
-  
- <br>
-
-
-
- ``` [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave) ``` 
-
- <br>
-
----
-
-<br> 
  
-
- ![Contributor Graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges) 
- 
- <br>
-
-
- ``` ![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)``` 
- 
- <br>
- 
-[![Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave) 
-
-<br>
-
-
-``` [![Stargazers over time](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave) ``` 
-
- <br>
-
----
-
-
-
-
-<br>
-
-
