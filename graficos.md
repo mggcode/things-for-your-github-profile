@@ -14,7 +14,8 @@
  |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=react-dark)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
  |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
  |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github-compact)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=github-compact)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
- github-compact
+ |[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=xcode)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MGBrave&theme=xcode)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
+ 
  
   | | | 
 | :--: | :-- | 
