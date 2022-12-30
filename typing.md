@@ -145,7 +145,7 @@
 <br>
 
 <p align="center">
- <img  align="center" src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/4580f19f77fd47f2bac3dff568e02635c15b3b0b/img/repoStar.svg" height="120" width="600">      
+<img  align="center" src="https://raw.githubusercontent.com/martageraldo/things-for-your-github-profile/4580f19f77fd47f2bac3dff568e02635c15b3b0b/img/repoStar.svg" height="120" width="600">      
 </p>
  
 
@@ -158,4 +158,17 @@
 
 <br>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img alt="Readme Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Web+Designer;Java+Developer"/></a>
+</p>
 
+<br>
+
+```
+<p align="center">
+<a href="https://git.io/typing-svg"><img alt="Readme Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;Web+Designer;Java+Developer"/></a>
+</p>
+
+```
+
+<br>
