@@ -40,6 +40,18 @@
 - 📫 Como você pode me encontrar(redes sociais): ...
 - 😄 Pronomes: ...
 - ⚡ Algo divertido para compartilhar: 
-...
+```
 
+<br>
+
+
+
+
+```yaml
+name: Fulano de Tal
+located_in: SC, Brazil
+from: SC, Brazil
+job: Web Developer 
+education: ["Harvard"] 
+```
 
