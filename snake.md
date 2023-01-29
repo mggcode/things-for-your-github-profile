@@ -8,7 +8,7 @@
 <br>
 
   
-![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
