@@ -20,7 +20,7 @@
   
  | Nome |                    URL                          |
  |------|-------------------------------------------------| 
- |White Snake Animation|```![Snake animation](https://github.com/martageraldo/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
+ |White Snake Animation|```![Snake animation](https://github.com/MGBrave/martageraldo/blob/output/github-contribution-grid-snake.svg) ```| 
  |Black Snake Animation|```![Snake animation](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) ```| 
 
 Você poderá fazer o seu:
