@@ -15,7 +15,7 @@
 |[Imagens](./image.md)|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>|
 |[Jokes](./jokes.md)|![Jokes Card](https://readme-jokes.vercel.app/api)|
 |[Linguagens mais usadas](./linguagensUsadas.md)| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&theme=blue-green)|
-|[Seguidores](./followers.md)| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MGBrave&theme=blue-green)|
+|[Seguidores](./followers.md)|<img src="https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/followers.png?raw=true"  height="180" > |
 | [Sobre você](./comeco.md)| <img src="https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/aboutyou.jpg?raw=true"  height="280" >  |
 | [Status](./status.md)|<img src="https://github-readme-stats.vercel.app/api?username=MGBrave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="120" width="600">|
 | [Status do Repositório](./statusRepositorio.md)|[![Pine Repo](https://github-readme-stats.vercel.app/api/pin/?username=MGBrave&repo=github-readme-stats&cache_seconds=86400&theme=rose_pine)]()|
