@@ -1,3 +1,18 @@
+<br>[🔙 Voltar ao Índice](./README.md)<br>
+
+<br>
+
+
+
+
+ 
+
+# Status
+
+<br>
+<br>
+
+
 #  Seguidores
 
 ## MGBrave Tem <!-- follower-counter -->54<!-- /follower-counter --> Seguidores
