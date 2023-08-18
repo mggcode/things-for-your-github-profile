@@ -4,19 +4,21 @@
 
 <!--<img src="https://i.imgur.com/x1KbuCq.gif" width="500" https://github.com/trinib/trinib-->
 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=85&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+There!;My+name+is+MGBrave%2C;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=600&color=0000000&background=ffffff&center=true&vCenter=true&multiline=true&width=500&height=130&lines=Hello+There!;My+name+is+MGBrave%2C;Welcome+to+my+README" alt="Typing SVG"/></a> 
 
 <br>
 
-``` 
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+MGBraveMGBrave%2C;Welcome+to+my+README" alt="Typing SVG" /></a>
-</h1> 
-```
-<br>
+```<h1 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+There!;My+name+is+MGBrave%2C;Welcome+to+my+README" alt="Typing SVG"/></a></h1> ```
+
+
+<h1 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=85&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+There!;My+name+is+MGBrave%2C;Welcome+to+my+README" alt="Typing SVG"/></a></h1> 
+
+``` <h1 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+MGBraveMGBrave%2C;Welcome+to+my+README" alt="Typing SVG" /></a></h1> ``` 
+
+
+
+
 
 ---
 
@@ -93,7 +95,7 @@
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/[MGBrave](https://github-profile-trophy.vercel.app/?username=MGBrave&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">      
+  <img src="https://raw.githubusercontent.com/MGBrave/things-for-your-github-profile/dbab317ed8d50002e502b9f5c4ee52b2f270b53b/thanksforvisiting.svg" height="120" width="600">        
  </p>
  
 
@@ -109,7 +111,7 @@
 <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/[MGBRave](https://github-profile-trophy.vercel.app/?username=MGBrave&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)/things-for-your-github-profile/d60b5fa70663f00796cdde5db91ef7dca96dd3b9/obrigadaVisita.svg" height="120" width="600">      
+  <img src="https://raw.githubusercontent.com/MGBrave/things-for-your-github-profile/d60b5fa70663f00796cdde5db91ef7dca96dd3b9/obrigadaVisita.svg" height="120" width="600">   
  </p>
  
 
