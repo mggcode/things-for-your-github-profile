@@ -72,7 +72,7 @@
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=moltack&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=moltack&show_icons=true)``` |
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=codeSTACKr&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=codeSTACKr&show_icons=true)``` |
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=rose_pine&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=rose_pine&show_icons=true)``` |
-| ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)``` |
+
 
 <br>
 
@@ -235,6 +235,17 @@
 <br>
 <br>
 
+ [![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,4facfe,00f2fe)](https://github.com/MGBrave/github-readme-stats) 
+ 
+ <br>
+<br>
+
+ 
+ ```[![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0,4facfe,00f2fe)]``` 
+ 
+ <br>
+ 
+ ---
 
 
 
