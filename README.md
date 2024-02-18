@@ -1,3 +1,4 @@
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## SEU PERFIL DO GITHUB MAIS CRIATIVO!
@@ -10,6 +11,7 @@
 || Exemplo|
 |---|:---:|
 | [Badges](./badge.md)|[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()|
+| [Emojis](./emoji.md)|❤️ 😘😄 🥰 🙊 ✌️ 👩 👩‍🎓 👨‍💻 🦋|
 | [Github Snake](./snake.md)|<img src="https://github.com/MGBrave/MGBrave/blob/output/github-contribution-grid-snake.svg" height="120" width="600">|
 |[Gráficos](./graficos.md)| <img src="https://starchart.cc/MGBrave/badges.svg" height="120" width="600"> |
 |[Imagens](./image.md)|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>|
