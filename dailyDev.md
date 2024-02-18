@@ -7,4 +7,5 @@ Você pode então ir em frente e copiar o código à direita clicando no botão 
 
 Volte para o arquivo README.md do seu perfil do GitHub e cole o código.
 
-Parece algo assim:
+Se você salvar esse arquivo e visualizar seu perfil, deverá ver o DevCard em ação.
+
