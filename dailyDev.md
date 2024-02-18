@@ -171,4 +171,4 @@ updates:
 
 Imagens: Cris Bongers
 
-<b>[🔝 Voltar ao Topo](#-DailyDev)</b>
+<b>[🔝 Voltar ao Topo](#DailyDev)</b>
