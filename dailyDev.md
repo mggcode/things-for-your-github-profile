@@ -1,27 +1,33 @@
 
 # Adicionando manualmente o DevCard ao seu perfil do GitHub
-A maneira mais fácil de adicionar seu DevCard ao seu perfil é visitando a página DevCard e gerando seu cartão.
 
-Você pode então ir em frente e copiar o código à direita clicando no botão copiar.
+<br>
+
+A maneira mais fácil de adicionar seu DevCard ao seu perfil é visitando a página DevCard e gerando seu cartão. <br>
+1 clique na sua imagem no lado direito <br>
+2 DevCard <br>
+3 Generate now <br>
+4 podes escolher se queres na horizontal ou na vertical <br>
+5 clique no lado direito em Embed e copie o código <br>
 
 <br>
 
 <img src="https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/imagem1.png?raw=true"  width="400">
 
 <br>
-Volte para o arquivo README.md do seu perfil do GitHub e cole o código.
+
+Vá até o arquivo README.md do seu perfil do GitHub e cole o código.
 Se você salvar esse arquivo e visualizar seu perfil, deverá ver o DevCard em ação.
+
 <br>
 
 <img src="https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/imagem2.png?raw=true"  width="400">
 
 <br>
 
-No entanto, há uma desvantagem nessa abordagem, ele não atualizará automaticamente.
-O que ele faz é que ele irá automaticamente obter o seu próprio DevCard e baixá-lo para o seu repositório de perfil.
+No entanto, há uma desvantagem nessa abordagem, ele não atualizará automaticamente. 
 
-
-Isso significa que podemos executar automaticamente essa ação a cada x e obter o DevCard mais recente.
+Isso significa que teremos que executar essa ação sempre que quisermos  obter o DevCard mais recente.
 
 Vamos ver como podemos usá-lo para o nosso perfil.
 
