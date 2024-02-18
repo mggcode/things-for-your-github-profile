@@ -168,4 +168,4 @@ updates:
 
 Imagens: Cris Bongers
 
-<br>[🔝 Voltar ao topo](/dailyDev.md)<br>
+<b>[🔝 Voltar ao índice](#-índice)</b>
