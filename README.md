@@ -11,6 +11,7 @@
 || Exemplo|
 |---|:---:|
 | [Badges](./badge.md)|[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()|
+| [DailyDev](./dailyDev.md)|<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=pri" width="150" alt="Marta Geraldo's Dev Card"/></a>|
 | [Emojis](./emoji.md)|❤️ 😘😄 🥰 🙊 ✌️ 👩 👩‍🎓 👨‍💻 🦋|
 | [Github Snake](./snake.md)|<img src="https://github.com/MGBrave/MGBrave/blob/output/github-contribution-grid-snake.svg" height="120" width="600">|
 |[Gráficos](./graficos.md)| <img src="https://starchart.cc/MGBrave/badges.svg" height="120" width="600"> |
