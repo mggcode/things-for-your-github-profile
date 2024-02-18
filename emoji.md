@@ -4,4 +4,5 @@
 
 Sujestões de sites que você pode copiar os emojis:
 
-https://tools.picsart.com/text/emojis/
+https://tools.picsart.com/text/emojis/ <br>
+https://github.com/MGBrave/emoji-cheat-sheet
