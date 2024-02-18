@@ -4,3 +4,7 @@ A maneira mais fácil de adicionar seu DevCard ao seu perfil é visitando a pág
 
 Você pode então ir em frente e copiar o código à direita clicando no botão copiar.
 [](https://assets-global.website-files.com/5e0f1144930a8bc8aace526c/615d6b77fa2edc21c9192c23_qIkhEiqMQ.png)
+
+Volte para o arquivo README.md do seu perfil do GitHub e cole o código.
+
+Parece algo assim:
