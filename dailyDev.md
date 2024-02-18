@@ -1,6 +1,6 @@
 <br>[🔙 Voltar ao Índice](./README.md)<br>
 
-##DailyDev
+## DailyDev
 
 # Adicionando manualmente o DevCard ao seu perfil do GitHub
 
