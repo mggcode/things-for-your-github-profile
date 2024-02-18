@@ -8,5 +8,12 @@ Você pode então ir em frente e copiar o código à direita clicando no botão 
 Volte para o arquivo README.md do seu perfil do GitHub e cole o código.
 Se você salvar esse arquivo e visualizar seu perfil, deverá ver o DevCard em ação.
 No entanto, há uma desvantagem nessa abordagem, ele não atualizará automaticamente.
+O que ele faz é que ele irá automaticamente obter o seu próprio DevCard e baixá-lo para o seu repositório de perfil.
+
+Isso significa que podemos executar automaticamente essa ação a cada x e obter o DevCard mais recente.
+
+Vamos ver como podemos usá-lo para o nosso perfil.
+
+Clique no botão Ações para o repositório do seu perfil e configure um novo fluxo de trabalho.
 
 
