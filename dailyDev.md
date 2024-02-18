@@ -4,7 +4,7 @@ A maneira mais fácil de adicionar seu DevCard ao seu perfil é visitando a pág
 
 Você pode então ir em frente e copiar o código à direita clicando no botão copiar.
 
-# imagem 1
+<img src:"https://github.com/MGBrave/things-for-your-github-profile/blob/main/img/imagem1.png?raw=true">
 
 
 Volte para o arquivo README.md do seu perfil do GitHub e cole o código.
