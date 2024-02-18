@@ -29,9 +29,9 @@ No entanto, há uma desvantagem nessa abordagem, ele não atualizará automatica
 
 Isso significa que teremos que executar essa ação sempre que quisermos  obter o DevCard mais recente.
 
-Vamos ver como podemos usá-lo para o nosso perfil.
+# Como usar Actions do GitHub para atualizar seu DevCard automaticamente
 
-Clique no botão Ações para o repositório do seu perfil e configure um novo fluxo de trabalho
+Clique no botão Actions no repositório do seu perfil e configure um novo fluxo de trabalho
 
 <br>
 
@@ -43,7 +43,7 @@ A partir daí, ele criará um fluxo de trabalho básico que começará a modific
 
 Alterar o nome do fluxo de trabalho para ‘DevCard’.
 
-Então, queremos definir duas maneiras pelas quais nossa ação deve ser acionada, sendo a primeira se houver um empurrão no ramo mestre.
+Então, queremos definir duas maneiras pelas quais nossa ação deve ser acionada, sendo a primeira se houver um empurrão no main.
 
 O outro é um horário, que funciona como um cronjob e voltará a cada {x}.
 No nosso caso, vamos executá-lo todas as noites às 00:00.
@@ -61,8 +61,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
 ```
-O workflow_dispatch informa a ação que pode ser executada manualmente na guia Ações.
-
+O workflow_dispatch informa a ação que pode ser executada manualmente na guia Actions.
 Então, queremos criar um novo trabalho que execute a ação DevCard GitHub.
 Precisamos definir uma variável para a nossa versão, que será o ID do DevCard que estamos buscando.
 
@@ -142,7 +141,7 @@ Depois que o fluxo de trabalho estiver concluído, você verá um ícone verde n
 
 <br>
 
-Volte para o seu repositório e, de repente, você verá que há um novo arquivo chamado devcard.svg.
+Volte para o seu repositório e você verá que há um novo arquivo chamado devcard.svg.
 
 Tudo o que precisamos fazer agora é atualizar nosso arquivo README.md para usar esse arquivo gerado da seguinte maneira:
 
@@ -154,8 +153,8 @@ Onde você precisa modificar as partes href, rebelchris / rebelchris e alt para 
 
 E lá vai você! Agora você tem um DevCard atualizado automaticamente no seu perfil do GitHub.
 
-# Mantenha sua ação do GitHub atualizada com o GitHub Dependabot
-Se você optou pelo método de ação do GitHub, considere usar o Dependabot para esse repositório. Ele garantirá que você esteja sempre usando a versão mais recente de nossa ação do GitHub. Para ativar o Dependabot para este repositório, tudo o que você precisa fazer é adicionar um .github/dependabot.yml arquivo com os seguintes conteúdos.
+# Mantenha sua Action do GitHub atualizada com o GitHub Dependabot
+Se você optou pelo método de ação do GitHub, considere usar o Dependabot para esse repositório. Ele garantirá que você esteja sempre usando a versão mais recente de nossa Action do GitHub. Para ativar o Dependabot para este repositório, tudo o que você precisa fazer é adicionar um .github/dependabot.yml arquivo com os seguintes conteúdos.
 
 ```
 version: 2
