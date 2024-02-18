@@ -1,4 +1,7 @@
 <br>[🔙 Voltar ao Índice](./README.md)<br>
+
+##DailyDev
+
 # Adicionando manualmente o DevCard ao seu perfil do GitHub
 
 <br>
@@ -168,4 +171,4 @@ updates:
 
 Imagens: Cris Bongers
 
-<b>[🔝 Voltar ao índice](#-índice)</b>
+<b>[🔝 Voltar ao Topo](#-DailyDev)</b>
