@@ -48,10 +48,7 @@
  | [![Mggcode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mggcode&theme=artic)](https://github.com/mggcode/github-readme-activity-graph)| ```[! [![Mggcode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mggcode&theme=artic)](https://github.com/mggcode/github-readme-activity-graph)  ```
 |Créditos| [Ashutoh00710](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md)|
 
-| | | 
-| :--: | :-- | 
- |[![mggcode github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mggcode/badges)](https://github.com/mggcode/github-readme-activity-graph)| ```[![mggcode github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mggcode/badges)](https://github.com/mggcode/github-readme-activity-graph)  ```|
- |[![mggcode Starchart graph](https://starchart.cc/mggcode/badges.svg)](https://github.com/mggcode/github-readme-activity-graph)| ```[![mggcode github Starchart graph](https://starchart.cc/mggcode/badges.svg)](https://github.com/mggcode)]  ```|
+
 
 
 
