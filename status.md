@@ -72,25 +72,25 @@
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&theme=moltack&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=moltack&show_icons=true)``` |
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&theme=codeSTACKr&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=codeSTACKr&show_icons=true)``` |
 | ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&theme=rose_pine&show_icons=true) |``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=rose_pine&show_icons=true)``` |
-
-
-<br>
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+|Créditos | [Anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization)
 
 <br>
 
-``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` 
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<br>
+
+``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)``` 
 
 <br>
 
 ---
 
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=github_dark&hide_border=true) 
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=github_dark&hide_border=true) 
 
 <br>
 
-``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=github_dark&hide_border=true)``` 
+``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=github_dark&hide_border=true)``` 
 
 <br> 
 
@@ -98,35 +98,35 @@
 
 <br>
 
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) 
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) 
  
  <br>
  
- ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true?count_private=true&show_icons=true&title_color=7A7ADB?icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) ``` 
- 
- <br>
- 
- ---
- 
-<br>
-
- ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) 
- 
- <br>
- 
- ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true?count_private=true&show_icons=true&title_color=7A7ADB?icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) ``` 
  
  <br>
  
  ---
  
+<br>
+
+ ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) 
+ 
+ <br>
+ 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true?count_private=true&show_icons=true&line_height=20&title_color=FFFFFF?icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
+ 
+ <br>
+ 
+ ---
+ 
  <br>
 
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
 
  <br>
  
- ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
+ ``` ![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117) ``` 
  
 
 <br>
@@ -142,11 +142,11 @@
  
  <br>
  
- ![github stats](https://github-readme-stats.vercel.app/api?username=MGBrave) 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=mggcode) 
  
 <br>
 
-``` ![Marta's github stats](https://github-readme-stats.vercel.app/api?username=MGBrave) ``` 
+``` ![Marta's github stats](https://github-readme-stats.vercel.app/api?username=mggcode) ``` 
 
 <br>
 
@@ -154,36 +154,23 @@
  
  <br>
 
- ![github stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=synthwave)
+ ![github stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=synthwave)
 
 <br>
 <br>
 
-``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=synthwave)``` 
+``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=synthwave)``` 
 <br>
 
 ---
 
 <br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 <br>
 <br>
 
-``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=MGBrave&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)``` 
-
-<br>
-
----
-
-<br>
-
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MGBrave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
- 
- <br>
-<br>
-
-``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=MGBrave&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)```  
+``` ![Fulano's github stats](https://github-readme-stats.vercel.app/api?username=mggcode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)``` 
 
 <br>
 
@@ -191,7 +178,20 @@
 
 <br>
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MGBrave&theme=radical&title_color=ff3068)  
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=mggcode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
+ 
+ <br>
+<br>
+
+``` ![Github Stats](https://github-readme-stats.vercel.app/api?username=mggcode&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)```  
+
+<br>
+
+---
+
+<br>
+
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=mggcode&theme=radical&title_color=ff3068)  
  
  <br>
 <br>
@@ -204,13 +204,13 @@
  
 <br>
 
- [![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/MGBrave/github-readme-stats) 
+ [![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/mggcode/github-readme-stats) 
  
  <br>
 <br>
 
  
- ```[![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)]``` 
+ ```[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)]``` 
  
  <br>
  
@@ -218,12 +218,12 @@
  
 <br>
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mgbrave&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=mggcode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
  
  <br>
 <br>
  
- ```[![status](https://github-readme-stats.vercel.app/api?username=MGBrave&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)]```
+ ```[![status](https://github-readme-stats.vercel.app/api?username=mggcode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)]```
  
  <br>
  
@@ -235,13 +235,13 @@
 <br>
 <br>
 
- [![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)](https://github.com/MGBrave/github-readme-stats) 
+ [![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)](https://github.com/MGBrave/github-readme-stats) 
  
  <br>
 <br>
 
  
- ```[![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)]``` 
+ ```[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)]``` 
  
  <br>
  
@@ -250,13 +250,13 @@
 <br>
 <br>
 
- ![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)
+ ![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=6a11cb&text_color=FFFFFF&bg_color=0,FF057C,8D0B93,321575)
  
  <br>
 <br>
 
  
- ```[![status](https://github-readme-stats.vercel.app/api?username=MGBrave&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)]``` 
+ ```[![status](https://github-readme-stats.vercel.app/api?username=mggcode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=0000FF&bg_color=0,4facfe,00f2fe)]``` 
  
  <br>
  
