@@ -25,8 +25,8 @@
  
 | | | 
 | :--: | :-- | 
- |[![MGBrave github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=MGBrave/badges)](https://github.com/MGBrave/github-readme-activity-graph)  ```|
- |[![MGBrave Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave/github-readme-activity-graph)| ```[![MGBrave github Starchart graph](https://starchart.cc/MGBrave/badges.svg)](https://github.com/MGBrave)]  ```|
+ |[![mggcode github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mggcode/badges)](https://github.com/mggcode/github-readme-activity-graph)| ```[![mggcode github activity graph](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mggcode/badges)](https://github.com/mggcode/github-readme-activity-graph)  ```|
+ |[![mggcode Starchart graph](https://starchart.cc/mggcode/badges.svg)](https://github.com/mggcode/github-readme-activity-graph)| ```[![mggcode github Starchart graph](https://starchart.cc/mggcode/badges.svg)](https://github.com/mggcode)]  ```|
 
 
 
