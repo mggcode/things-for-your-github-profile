@@ -2792,11 +2792,10 @@ Para usar um badge:
 <br>
 <br>
 
+
+
 | BADGE                                                        | URL                                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_text=My%20Page%20Visitors)``` |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes) | ```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Olá%20Visitantes)``` |
-| ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) |```![visitor badge](https://visitor-badge.glitch.me/badge?page_id=martageraldo.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)``` |
  | ![visitor badge](https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black) |```![visitor badge](https://img.shields.io/badge/Puppet-FFAD19?style=for-the-badge&logo=puppet&logoColor=black)``` |
  | ![visitor badge](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white) |```![visitor badge](https://img.shields.io/badge/Chef-EF9600?style=for-the-badge&logo=chef&logoColor=white)``` |
 | ![visitor badge](https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black) |```![visitor badge](https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black)``` |
