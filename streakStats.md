@@ -39,7 +39,6 @@
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=graywhite&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=graywhite&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcodee&theme=vision-friendly-dark&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vision-friendly-dark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=ayu-mirage&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=ayu-mirage&hide_border=true)]()```|
-
 |Créditos|[Denver Coder](https://github.com/DenverCoder1/github-readme-streak-stats)|
 
 
