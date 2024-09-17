@@ -18,7 +18,8 @@
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=prussian&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=prussian&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true)]()```|
 |Créditos|[Denver Coder](https://github.com/DenverCoder1/github-readme-streak-stats)|
-<!--|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true)]()```|
+
+<!--
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true)]()```|
