@@ -14,7 +14,7 @@
 | [DailyDev](./dailyDev.md)|<a href="https://app.daily.dev/mggdev"><img src="https://api.daily.dev/devcards/v2/NTVMhhsT6Pq1Wbj345gSh.png?type=default&r=pri" width="150" alt="Marta Geraldo's Dev Card"/></a>|
 | [Emojis](./emoji.md)|❤️ 😘😄 🥰 🙊 ✌️ 👩 👩‍🎓 👨‍💻 🦋|
 | [Github Snake](./snake.md)|<img src="https://github.com/mggcode/mggcode/blob/output/github-contribution-grid-snake.svg" height="120" width="600">|
-|[Gráficos](./graficos.md)| <img src="https://starchart.cc/mggcode/badges.svg" height="120" width="600"> |
+|[Gráficos](./graficos.md)| [! [![mggcode's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mggcode&theme=github-dark)](https://github.com/mggcode/github-readme-activity-graph)  
 |[Imagens](./image.md)|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>|
 |[Jokes](./jokes.md)|![Jokes Card](https://readme-jokes.vercel.app/api)|
 |[Linguagens mais usadas](./linguagensUsadas.md)| ![Marta's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mggcode&theme=blue-green)|
