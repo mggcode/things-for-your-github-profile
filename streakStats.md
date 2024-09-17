@@ -8,20 +8,20 @@
 
 |||
 |---|---|
-|<img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode)]()``` |
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=monokai-metallian&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=monokai-metallian&hide_border=true)]()```|
 |<img height="140px" src="http://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=radical" />|```[![status](http://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=radical)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=github-dark-blue&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=github-dark-blue&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dark&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=merko&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=merko&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=gruvbox&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=gruvbox&hide_border=true)]()```|
-|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true)]()```|
-|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=cobalt&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=cobalt&hide_border=true)]()```|
-|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true)]()```|
-|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true)]()```|
-|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=prussian&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=prussian&hide_border=true)]()```|
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=highcontrast&hide_border=true)]()```|
+|Créditos|[Denver Coder](https://github.com/DenverCoder1/github-readme-streak-stats)|
+<!--|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=tokyonight&hide_border=true)]()```|
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=onedark&hide_border=true)]()```|
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=synthwave&hide_border=true)]()```|
+|<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=dracula&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vue&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vue&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vue-dark&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vue-dark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=shades-of-purple&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=shades-of-purple&hide_border=true)]()```|
@@ -41,8 +41,7 @@
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=graywhite&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=graywhite&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcodee&theme=vision-friendly-dark&hide_border=true" />|```[![status](https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=vision-friendly-dark&hide_border=true)]()```|
 |<img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=ayu-mirage&hide_border=true" />|```[![status](hhttps://github-readme-streak-stats.herokuapp.com/?user=mggcode&theme=ayu-mirage&hide_border=true)]()```|
-
-
+-->
 
 
 <br>
